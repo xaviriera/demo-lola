@@ -48,7 +48,9 @@
     "tareas": [
      "lola-00"
     ]
-   }
+   },
+   "lola_hace": "Lee la cédula, la guarda en su expediente y calcula el plazo con el calendario de días hábiles.",
+   "tu_parte": "Solo compruebas que el plazo es el jueves 5."
   },
   {
    "id": "p2",
@@ -74,7 +76,9 @@
      "fs/_real/091-2026/OPOSICION DEMANDA (borrador Lola).docx",
      "fs/_real/compartido/OPOSICION DEMANDA 091-2026 (borrador Lola).docx"
     ]
-   }
+   },
+   "lola_hace": "Redacta la oposición con tu plantilla y tu forma de escribir; lo que falta va en rojo.",
+   "tu_parte": "Se lo pides con un botón y abres el borrador."
   },
   {
    "id": "p3",
@@ -115,7 +119,9 @@
    },
    "aparece": {
     "archivos": []
-   }
+   },
+   "lola_hace": "Claude y Gemini lo revisan por separado y comentan dentro del propio Word.",
+   "tu_parte": "Lees la tarjeta: en qué coinciden y en qué no."
   },
   {
    "id": "p4",
@@ -152,7 +158,9 @@
     "correos": [
      "0048"
     ]
-   }
+   },
+   "lola_hace": "Aplica lo que decidas y genera la versión final.",
+   "tu_parte": "Decides, hablando o con un botón."
   },
   {
    "id": "p5",
@@ -183,7 +191,9 @@
     "correos": [
      "0048"
     ]
-   }
+   },
+   "lola_hace": "Deja el correo a la procuradora en Borradores, con el escrito adjunto.",
+   "tu_parte": "Lo revisas y dices «Envíalo»."
   }
  ],
  "operativa_corta": {
@@ -232,5 +242,130 @@
    }
   ]
  },
+ "dia": [
+  {
+   "id": "d-procuradores",
+   "corto": "Tres correos de procuradores, archivados en su expediente.",
+   "hora": "06:55",
+   "icono": "archive",
+   "titulo": "Tres correos de procuradores, en su expediente",
+   "texto": "Los ha leído y guardado donde toca: 064/2026 (informe del perito), 091/2026 (traslado de la demanda) y 066/2025 (sentencia firme).",
+   "enlaces": [
+    {
+     "tipo": "correo",
+     "id": "0002",
+     "etiqueta": "064/2026 · informe del perito"
+    },
+    {
+     "tipo": "correo",
+     "id": "0015",
+     "etiqueta": "091/2026 · traslado de demanda"
+    },
+    {
+     "tipo": "correo",
+     "id": "0044",
+     "etiqueta": "066/2025 · sentencia firme"
+    }
+   ]
+  },
+  {
+   "id": "d-plazo",
+   "corto": "Plazo nuevo: contestar el desahucio de 106/2026 antes del miércoles 11.",
+   "hora": "06:58",
+   "icono": "plazo",
+   "titulo": "Plazo nuevo calculado",
+   "texto": "Requerimiento de desahucio en 106/2026 (Calatayud): hay que contestar antes del miércoles 11. Contado con el calendario de días hábiles, no por la IA.",
+   "enlaces": [
+    {
+     "tipo": "correo",
+     "id": "0017",
+     "etiqueta": "Abrir el requerimiento"
+    },
+    {
+     "tipo": "seccion",
+     "ref": "todo",
+     "etiqueta": "Ver la tarea"
+    }
+   ]
+  },
+  {
+   "id": "d-ruido",
+   "corto": "18 correos de ruido, apartados en «Otros».",
+   "hora": "07:02",
+   "icono": "ruido",
+   "titulo": "18 correos de ruido, apartados",
+   "texto": "Boletines, facturas y publicidad están en «Otros». Nada que decidir.",
+   "enlaces": [
+    {
+     "tipo": "bandeja",
+     "ref": "otros",
+     "etiqueta": "Ver «Otros»"
+    }
+   ]
+  },
+  {
+   "id": "d-llamadas",
+   "corto": "Cuatro llamadas atendidas, con su resultado.",
+   "hora": "09:50",
+   "icono": "llamadas",
+   "titulo": "Cuatro llamadas atendidas por Lola",
+   "texto": "Las ha cogido ella y ha dejado el resultado.",
+   "lineas": [
+    "08:10 · Dorota Kowalska: la notaría responde el jueves; recado para el socio.",
+    "09:05 · Procuradora Ballester: procedimiento 312/2026 confirmado.",
+    "09:25 · Gianluca Ferri: quiere fijar la firma; cita en notaría en tu lista.",
+    "09:45 · Juan Carlos Maciá: demanda de posesión antes del 20 de noviembre."
+   ],
+   "enlaces": [
+    {
+     "tipo": "seccion",
+     "ref": "llamadas",
+     "etiqueta": "Ver las llamadas"
+    }
+   ]
+  },
+  {
+   "id": "d-burofax",
+   "corto": "Burofax de 106/2026 listo desde tu plantilla, para firmar.",
+   "hora": "10:20",
+   "icono": "burofax",
+   "titulo": "Burofax preparado desde tu plantilla",
+   "texto": "Para Calatayud (106/2026), con tu plantilla «Burofax reclamacion». Lo revisas y lo firmas.",
+   "enlaces": [
+    {
+     "tipo": "archivo",
+     "nombre": "Burofax.docx",
+     "expediente": "106-2026",
+     "etiqueta": "Abrir el burofax"
+    },
+    {
+     "tipo": "archivo",
+     "nombre": "Burofax reclamacion.docx",
+     "etiqueta": "Ver la plantilla"
+    }
+   ]
+  },
+  {
+   "id": "d-notaria",
+   "corto": "12:30, firma de poderes en la notaría (Vermeulen). Te lo recordará a las 12:00.",
+   "hora": "12:30",
+   "icono": "notaria",
+   "proximo": true,
+   "titulo": "Recordatorio: firma en la notaría a las 12:30",
+   "texto": "Firma de poderes de Vermeulen (109/2026), antes de la compraventa del 13. Te lo recordará a las 12:00.",
+   "enlaces": [
+    {
+     "tipo": "correo",
+     "id": "0012",
+     "etiqueta": "Abrir el correo"
+    },
+    {
+     "tipo": "seccion",
+     "ref": "todo",
+     "etiqueta": "Ver la tarea"
+    }
+   ]
+  }
+ ],
  "nota": "aparece.archivos/correos/tareas: elementos con oculto_hasta=<id del paso> en fs/manifest.json, mail/manifest.json y todo/tareas.json que se muestran a partir de ese paso."
 }

@@ -335,6 +335,15 @@
    "saco": "saco-22"
   },
   {
+   "id": "lola-23",
+   "accion": "Firma de poderes en la notaría, hoy a las 12:30 (Vermeulen, antes de la compraventa del 13)",
+   "vence": "2026-11-04",
+   "expediente": "109-2026",
+   "origen": "correo:0012",
+   "hecha": false,
+   "saco": null
+  },
+  {
    "id": "lola-22",
    "accion": "Preparar presupuesto y hoja de encargo de Marta Olivares (compraventa)",
    "vence": "2026-11-05",
