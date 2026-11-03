@@ -1,0 +1,233 @@
+{
+ "version": 1,
+ "fecha_demo": "2026-11-04",
+ "expediente": {
+  "numero": "091-2026",
+  "carpeta": "091-2026 VIDAL ORTUÑO MARIANO",
+  "ruta": "Murcia - Documentos › EXPEDIENTES › 091-2026 VIDAL ORTUÑO MARIANO",
+  "juzgado": "Juzgado de Primera Instancia n.º 4 de Torrevieja",
+  "procedimiento": "Juicio verbal 312/2026"
+ },
+ "plazo": {
+  "vence": "2026-11-05",
+  "dia": "jueves",
+  "calculo": "10 días hábiles desde el 22-10-2026, sin sábados, domingos ni festivos (calendario, no IA)"
+ },
+ "pasos": [
+  {
+   "id": "p1",
+   "hora": "07:00",
+   "titulo": "Entra la cédula",
+   "correo": "0001",
+   "lola_dice": "He guardado la cédula en 091-2026 y la he leído: contestación a la demanda, vence el jueves 5 de noviembre (plazo calculado con el calendario de días hábiles, no por la IA: 10 días hábiles desde el 22 de octubre).",
+   "acciones": [
+    {
+     "tipo": "guarda_adjunto",
+     "correo": "0001",
+     "archivo": "fs/_real/091-2026/Cedula emplazamiento 250.1.4.pdf",
+     "destino": "Murcia - Documentos › EXPEDIENTES › 091-2026 VIDAL ORTUÑO MARIANO"
+    },
+    {
+     "tipo": "lee_pdf",
+     "archivo": "fs/_real/091-2026/Cedula emplazamiento 250.1.4.pdf",
+     "paginas": 7
+    },
+    {
+     "tipo": "crea_tarea",
+     "tarea": "lola-00",
+     "vence": "2026-11-05"
+    }
+   ],
+   "aparece": {
+    "archivos": [
+     "fs/_real/091-2026/Cedula emplazamiento 250.1.4.pdf"
+    ],
+    "correos": [
+     "0001"
+    ],
+    "tareas": [
+     "lola-00"
+    ]
+   }
+  },
+  {
+   "id": "p2",
+   "hora": "07:31",
+   "titulo": "Borrador con tu plantilla y tu forma de escribir",
+   "lola_dice": "He redactado la oposición con tu plantilla «CONTESTACION DEMANDA modelo». Los tramos en rojo están por rellenar. Lo he dejado en el expediente y una copia en ESCRITOS PARA REVISION.",
+   "acciones": [
+    {
+     "tipo": "usa_plantilla",
+     "archivo": "fs/_real/compartido/CONTESTACION DEMANDA modelo.docx"
+    },
+    {
+     "tipo": "crea_archivo",
+     "archivo": "fs/_real/091-2026/OPOSICION DEMANDA (borrador Lola).docx"
+    },
+    {
+     "tipo": "copia_archivo",
+     "archivo": "fs/_real/compartido/OPOSICION DEMANDA 091-2026 (borrador Lola).docx"
+    }
+   ],
+   "aparece": {
+    "archivos": [
+     "fs/_real/091-2026/OPOSICION DEMANDA (borrador Lola).docx",
+     "fs/_real/compartido/OPOSICION DEMANDA 091-2026 (borrador Lola).docx"
+    ]
+   }
+  },
+  {
+   "id": "p3",
+   "hora": "07:55",
+   "titulo": "Contraste entre dos inteligencias",
+   "lola_dice": "Claude y Gemini han revisado el borrador y han dejado sus comentarios en el propio Word. Coinciden en 4 cosas, discrepan en 1, y te recomiendo citar la sentencia de la Audiencia.",
+   "acciones": [
+    {
+     "tipo": "revision_comentarios",
+     "archivo": "fs/_real/091-2026/OPOSICION DEMANDA (borrador Lola).docx",
+     "autores": [
+      "Claude",
+      "Gemini"
+     ],
+     "comentarios": 11
+    }
+   ],
+   "tarjeta": {
+    "titulo": "Coinciden en 4 cosas · discrepan en 1 · te recomiendo citar la sentencia de la Audiencia",
+    "coinciden": [
+     "Los datos del contrato y de las partes son correctos (hecho primero).",
+     "El 24 % de demora frente al 7,90 % remuneratorio es el eje del escrito (hecho tercero).",
+     "Falta apoyar el hecho segundo con el documento 4 (extracto de pagos).",
+     "La petición subsidiaria de costas debe concretar las dudas de derecho."
+    ],
+    "discrepan": [
+     {
+      "punto": "Fundamento tercero: citar o no una sentencia de la Audiencia.",
+      "claude": "Citarla: refuerza el fondo.",
+      "gemini": "No hace falta: los artículos 83 y 85.6 bastan.",
+      "recomiendo": "Citar una sentencia de la Audiencia Provincial, verificada antes de presentar."
+     }
+    ],
+    "solo_uno": {
+     "autor": "Claude",
+     "punto": "Reconocer el capital es una decisión del letrado con el cliente; validarla antes de presentar."
+    }
+   },
+   "aparece": {
+    "archivos": []
+   }
+  },
+  {
+   "id": "p4",
+   "hora": "08:38",
+   "titulo": "Decides, de voz o con un botón",
+   "voz": "Acepto lo que recomiendas y añade la sentencia de la Audiencia",
+   "boton": "Acepto lo que recomiendas",
+   "lola_dice": "Hecho. He rellenado el documento 4, concretado las costas y añadido la sentencia de la Audiencia. Aquí tienes la versión final.",
+   "acciones": [
+    {
+     "tipo": "crea_archivo",
+     "archivo": "fs/_real/091-2026/OPOSICION DEMANDA (final).docx"
+    },
+    {
+     "tipo": "abre_visor",
+     "archivo": "fs/_real/091-2026/OPOSICION DEMANDA (final).docx"
+    }
+   ],
+   "cambios": [
+    "Hecho segundo: «según resulta del extracto de pagos (documento n.º 4)»",
+    "Fundamento tercero: añadida la sentencia de la Audiencia Provincial de Alicante (cita ficticia de demostración)",
+    "Costas: petición subsidiaria concretada",
+    "Quitados todos los tramos en rojo y los comentarios"
+   ],
+   "aparece": {
+    "archivos": [
+     "fs/_real/091-2026/OPOSICION DEMANDA (final).docx"
+    ]
+   }
+  },
+  {
+   "id": "p5",
+   "hora": "08:41",
+   "titulo": "Enviar a la procuradora",
+   "correo": "0048",
+   "boton": "Envíalo",
+   "voz": "Envíalo",
+   "lola_dice": "Tienes el correo listo en Borradores, con la versión final adjunta. Cuando digas «Envíalo», sale hacia la procuradora.",
+   "acciones": [
+    {
+     "tipo": "crea_borrador_correo",
+     "correo": "0048",
+     "adjunto": "fs/_real/091-2026/OPOSICION DEMANDA (final).docx"
+    },
+    {
+     "tipo": "envia_correo",
+     "correo": "0048",
+     "carpeta_destino": "Enviados"
+    },
+    {
+     "tipo": "marca_tarea_hecha",
+     "tarea": "lola-00"
+    },
+    {
+     "tipo": "archiva_correo",
+     "correo": "0001",
+     "carpeta_destino": "Archivo"
+    }
+   ],
+   "lola_dice_tras": "Enviado a la procuradora. He marcado la tarea como hecha y he archivado la cédula.",
+   "aparece": {
+    "correos": [
+     "0048"
+    ]
+   }
+  }
+ ],
+ "operativa_corta": {
+  "id": "cliente_nuevo",
+  "titulo": "Cliente nuevo: presupuesto y hoja de encargo",
+  "pasos": [
+   {
+    "id": "c1",
+    "hora": "11:10",
+    "lola_dice": "Con tu Guía de honorarios 2026 he preparado el presupuesto (1.331 euros con IVA) y la hoja de encargo de Marta Olivares, y he creado la carpeta 094-2026 en EXPEDIENTES.",
+    "acciones": [
+     {
+      "tipo": "lee_pdf",
+      "archivo": "fs/_real/compartido/Guia honorarios 2026.pdf",
+      "paginas": 2
+     },
+     {
+      "tipo": "crea_carpeta",
+      "ruta": "Murcia - Documentos › EXPEDIENTES › 094-2026 OLIVARES SERRANO MARTA"
+     },
+     {
+      "tipo": "crea_archivo",
+      "archivo": "fs/_real/094-2026/Presupuesto compraventa Olivares.docx"
+     },
+     {
+      "tipo": "crea_archivo",
+      "archivo": "fs/_real/094-2026/Hoja de encargo Olivares.docx"
+     },
+     {
+      "tipo": "crea_tarea",
+      "tarea": "lola-22"
+     }
+    ],
+    "aparece": {
+     "archivos": [
+      "fs/_real/094-2026/Presupuesto compraventa Olivares.docx",
+      "fs/_real/094-2026/Hoja de encargo Olivares.docx"
+     ],
+     "carpetas": [
+      "094-2026 OLIVARES SERRANO MARTA"
+     ],
+     "tareas": [
+      "lola-22"
+     ]
+    }
+   }
+  ]
+ },
+ "nota": "aparece.archivos/correos/tareas: elementos con oculto_hasta=<id del paso> en fs/manifest.json, mail/manifest.json y todo/tareas.json que se muestran a partir de ese paso."
+}

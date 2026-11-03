@@ -1,0 +1,12 @@
+From: Papelería Oficina Express <avisos8@noticias-demo.example>
+To: Despacho Lo Romero Legal <jt@despacho-demo.example>
+Date: Sun, 01 Nov 2026 03:00:00 +0100
+Subject: Tu pedido ha sido enviado
+Message-ID: <0030@despacho-demo.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Hemos enviado tu pedido de material de oficina. Llegará en 24 horas.
+
+Mensaje automático de demostración.

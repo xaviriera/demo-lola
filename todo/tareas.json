@@ -1,0 +1,356 @@
+{
+ "antes": [
+  {
+   "id": "saco-01",
+   "titulo": "Vidal Ortuño llamar",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-02",
+   "titulo": "OPOSICIÓN Vidal Ortuño",
+   "vence": null,
+   "estrella": true
+  },
+  {
+   "id": "saco-03",
+   "titulo": "demanda Navarro y Brunet",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-04",
+   "titulo": "Burofax Costa Azahar",
+   "vence": "2026-11-06",
+   "estrella": false
+  },
+  {
+   "id": "saco-05",
+   "titulo": "Asunto urgente Kowalska",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-06",
+   "titulo": "RV: Compraventa 099/2026 cargas",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-07",
+   "titulo": "[EXTERNAL] Status of bank account",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-08",
+   "titulo": "Thompson Harris arras",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-09",
+   "titulo": "Hoffmann licencia",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-10",
+   "titulo": "Ferrer humedades",
+   "vence": null,
+   "estrella": true
+  },
+  {
+   "id": "saco-11",
+   "titulo": "Técnica 071 ingeniero",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-12",
+   "titulo": "Quesada enviada por Carmelo",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-13",
+   "titulo": "Vermeulen compraventa",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-14",
+   "titulo": "Campillo impagado",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-15",
+   "titulo": "Ferri notaría",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-16",
+   "titulo": "Calatayud desahucio",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-17",
+   "titulo": "Maciá posesión",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-18",
+   "titulo": "Esteve concurso",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-19",
+   "titulo": "Armas Vives gastos",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-20",
+   "titulo": "Benítez Ferrández notaría",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-21",
+   "titulo": "Renaud compraventa",
+   "vence": null,
+   "estrella": false
+  },
+  {
+   "id": "saco-22",
+   "titulo": "Lindqvist firma",
+   "vence": null,
+   "estrella": false
+  }
+ ],
+ "con_lola": [
+  {
+   "id": "lola-00",
+   "accion": "Contestar la demanda de Vidal (Juicio verbal 312/2026): revisar el escrito y presentarlo",
+   "vence": "2026-11-05",
+   "expediente": "091-2026",
+   "origen": "correo:0001",
+   "hecha": false,
+   "saco": "saco-02",
+   "oculto_hasta": "p1",
+   "se_marca_hecha_en": "p5"
+  },
+  {
+   "id": "lola-01",
+   "accion": "Llamar a Mariano Vidal: confirmar que tiene la cédula y validar el reconocimiento del capital",
+   "vence": "2026-11-04",
+   "expediente": "091-2026",
+   "origen": "llamada:3",
+   "hecha": false,
+   "saco": "saco-01"
+  },
+  {
+   "id": "lola-02",
+   "accion": "Navarro Brunet: confirmar a Solmar la fecha de firma del 12 de noviembre",
+   "vence": "2026-11-06",
+   "expediente": "089-2026",
+   "origen": "correo:0006",
+   "hecha": false,
+   "saco": "saco-03"
+  },
+  {
+   "id": "lola-03",
+   "accion": "Burofax a Financiera Costa Azahar: contestar su respuesta",
+   "vence": "2026-11-06",
+   "expediente": "091-2026",
+   "origen": "correo:0014",
+   "hecha": false,
+   "saco": "saco-04"
+  },
+  {
+   "id": "lola-04",
+   "accion": "Responder a Dorota Kowalska sobre la fecha de firma",
+   "vence": "2026-11-06",
+   "expediente": "099-2026",
+   "origen": "correo:0009",
+   "hecha": false,
+   "saco": "saco-05"
+  },
+  {
+   "id": "lola-05",
+   "accion": "Pedir a la notaría la cancelación de las dos cargas pendientes",
+   "vence": "2026-11-05",
+   "expediente": "099-2026",
+   "origen": "correo:0005",
+   "hecha": false,
+   "saco": "saco-06"
+  },
+  {
+   "id": "lola-06",
+   "accion": "Contestar a Lisa Harris: estado de la cuenta bancaria",
+   "vence": "2026-11-09",
+   "expediente": "092-2026",
+   "origen": "correo:0004",
+   "hecha": false,
+   "saco": "saco-07"
+  },
+  {
+   "id": "lola-07",
+   "accion": "Transferir las arras de Thompson Harris (10 %)",
+   "vence": "2026-11-10",
+   "expediente": "092-2026",
+   "origen": "correo:0043",
+   "hecha": false,
+   "saco": "saco-08"
+  },
+  {
+   "id": "lola-08",
+   "accion": "Hoffmann: enviar la lista de documentos de la licencia turística",
+   "vence": "2026-11-10",
+   "expediente": "090-2026",
+   "origen": "correo:0013",
+   "hecha": false,
+   "saco": "saco-09"
+  },
+  {
+   "id": "lola-09",
+   "accion": "Reclamar al perito el informe de humedades",
+   "vence": "2026-11-04",
+   "expediente": "064-2026",
+   "origen": "correo:0002",
+   "hecha": false,
+   "saco": "saco-10"
+  },
+  {
+   "id": "lola-10",
+   "accion": "Revisar con la técnica el informe del restaurante",
+   "vence": "2026-11-12",
+   "expediente": "071-2026",
+   "origen": "correo:0003",
+   "hecha": false,
+   "saco": "saco-11"
+  },
+  {
+   "id": "lola-11",
+   "accion": "Reunión con Carmelo Vera por la herencia Quesada",
+   "vence": "2026-11-27",
+   "expediente": "108-2026",
+   "origen": "correo:0019",
+   "hecha": false,
+   "saco": "saco-12"
+  },
+  {
+   "id": "lola-12",
+   "accion": "Firma de compraventa Vermeulen",
+   "vence": "2026-11-13",
+   "expediente": "109-2026",
+   "origen": "correo:0012",
+   "hecha": false,
+   "saco": "saco-13"
+  },
+  {
+   "id": "lola-13",
+   "accion": "Reclamar la cuota de costas de Campillo",
+   "vence": "2026-11-25",
+   "expediente": "066-2025",
+   "origen": "correo:0044",
+   "hecha": false,
+   "saco": "saco-14"
+  },
+  {
+   "id": "lola-14",
+   "accion": "Pedir cita en notaría para Ferri",
+   "vence": "2026-12-01",
+   "expediente": "111-2026",
+   "origen": "llamada:5",
+   "hecha": false,
+   "saco": "saco-15"
+  },
+  {
+   "id": "lola-15",
+   "accion": "Calatayud: contestar el requerimiento de desahucio",
+   "vence": "2026-11-11",
+   "expediente": "106-2026",
+   "origen": "correo:0017",
+   "hecha": false,
+   "saco": "saco-16"
+  },
+  {
+   "id": "lola-16",
+   "accion": "Presentar la demanda de posesión del local de Maciá",
+   "vence": "2026-11-20",
+   "expediente": "110-2026",
+   "origen": "llamada:6",
+   "hecha": false,
+   "saco": "saco-17"
+  },
+  {
+   "id": "lola-17",
+   "accion": "Esteve: alegar sobre el informe de la administración concursal",
+   "vence": "2026-11-09",
+   "expediente": "093-2026",
+   "origen": "correo:0008",
+   "hecha": false,
+   "saco": "saco-18"
+  },
+  {
+   "id": "lola-18",
+   "accion": "Armas Vives: revisar la contestación de la entidad por gastos de hipoteca",
+   "vence": "2026-11-12",
+   "expediente": "100-2026",
+   "origen": "correo:0020",
+   "hecha": false,
+   "saco": "saco-19"
+  },
+  {
+   "id": "lola-19",
+   "accion": "Benítez y Ferrández: pedir a la notaría respuesta sobre cargas",
+   "vence": "2026-11-06",
+   "expediente": "101-2026",
+   "origen": "llamada:7",
+   "hecha": false,
+   "saco": "saco-20"
+  },
+  {
+   "id": "lola-20",
+   "accion": "Fijar cita de firma para Renaud",
+   "vence": "2026-11-09",
+   "expediente": "105-2026",
+   "origen": "correo:0016",
+   "hecha": false,
+   "saco": "saco-21"
+  },
+  {
+   "id": "lola-21",
+   "accion": "Firma de escritura de Lindqvist",
+   "vence": "2026-11-25",
+   "expediente": "104-2026",
+   "origen": "correo:0021",
+   "hecha": false,
+   "saco": "saco-22"
+  },
+  {
+   "id": "lola-22",
+   "accion": "Preparar presupuesto y hoja de encargo de Marta Olivares (compraventa)",
+   "vence": "2026-11-05",
+   "expediente": "094-2026",
+   "origen": "llamada:9",
+   "hecha": false,
+   "saco": null,
+   "oculto_hasta": "c1"
+  }
+ ],
+ "listas": [
+  "Mi día",
+  "Importante",
+  "Planeado",
+  "Asignadas a mí",
+  "Correo electrónico marcado",
+  "Tareas"
+ ]
+}

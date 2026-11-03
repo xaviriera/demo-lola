@@ -1,0 +1,3522 @@
+{
+ "bibliotecas": [
+  {
+   "id": "compartido",
+   "nombre": "compartido - Documentos",
+   "raiz": {
+    "nombre": "compartido - Documentos",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": [
+     {
+      "nombre": "Datos adjuntos de correo electrónico",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Recibo.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-04-02T13:28",
+        "tamano": 1142296,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Nota simple cargas.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-01-10T16:32",
+        "tamano": 1136448,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "docs juicio Financiera Costa Azahar",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Contrato prestamo.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-09-23T09:57",
+        "tamano": 2182743,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Cuadro amortizacion.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-02-04T12:25",
+        "tamano": 1976864,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "Escritos",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Contestacion Campillo.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-02-03T08:11",
+        "tamano": 246371,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Recurso reposicion.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-09-08T08:03",
+        "tamano": 188622,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "ESCRITOS PARA REVISION",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "OPOSICION DEMANDA 091-2026 (borrador Lola).docx",
+        "tipo": "archivo",
+        "ruta": "fs/_real/compartido/OPOSICION DEMANDA 091-2026 (borrador Lola).docx",
+        "modificado": "2026-11-04T07:32",
+        "tamano": 40691,
+        "estado": "local",
+        "ext": "docx",
+        "expediente": "091-2026",
+        "terminado": false,
+        "oculto_hasta": "p2"
+       },
+       {
+        "nombre": "Demanda desahucio 107-2026.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-01-07T17:09",
+        "tamano": 292619,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": "107-2026",
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "Expedientes",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": []
+     },
+     {
+      "nombre": "Guías Honorarios",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Guía honorarios 2026.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_real/compartido/Guia honorarios 2026.pdf",
+        "modificado": "2026-01-08T09:00",
+        "tamano": 3291,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "Lo Romero Legal",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Organigrama.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-04-01T08:19",
+        "tamano": 323529,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "nubeprint",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": []
+     },
+     {
+      "nombre": "Plantillas",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "CONTESTACION DEMANDA modelo.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_real/compartido/CONTESTACION DEMANDA modelo.docx",
+        "modificado": "2026-03-12T10:15",
+        "tamano": 37487,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Burofax reclamacion.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-09-01T09:03",
+        "tamano": 63992,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Escrito de juzgado (modelo).docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-06-21T10:01",
+        "tamano": 82508,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Oposicion (modelo vacio).docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-01-25T08:37",
+        "tamano": 316661,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "Poderes",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Poder general procuradores.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-04-25T15:05",
+        "tamano": 1935980,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Poder Vidal.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-02-11T13:11",
+        "tamano": 2365883,
+        "estado": "local",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "murcia",
+   "nombre": "Murcia - Documentos",
+   "raiz": {
+    "nombre": "Murcia - Documentos",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": [
+     {
+      "nombre": "clientes igualados",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Contrato igualada Dos Palmeras.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-01-03T10:26",
+        "tamano": 1326816,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Contrato igualada Sierra Blanca.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-09-23T09:50",
+        "tamano": 477213,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "COMPRAVENTAS",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Solmar Agencia",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-20T09:00",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": null,
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "019-2025 Petersen Jonas",
+          "tipo": "carpeta",
+          "ruta": null,
+          "modificado": "2026-10-20T09:00",
+          "tamano": 0,
+          "estado": "nube",
+          "ext": null,
+          "expediente": "019-2025",
+          "terminado": false,
+          "hijos": []
+         },
+         {
+          "nombre": "089-2026 Navarro Brunet",
+          "tipo": "carpeta",
+          "ruta": null,
+          "modificado": "2026-10-20T09:00",
+          "tamano": 0,
+          "estado": "nube",
+          "ext": null,
+          "expediente": "089-2026",
+          "terminado": false,
+          "hijos": []
+         },
+         {
+          "nombre": "099-2026 Kowalski Dorota",
+          "tipo": "carpeta",
+          "ruta": null,
+          "modificado": "2026-10-20T09:00",
+          "tamano": 0,
+          "estado": "nube",
+          "ext": null,
+          "expediente": "099-2026",
+          "terminado": false,
+          "hijos": []
+         },
+         {
+          "nombre": "101-2026 Benítez Y Ferrández",
+          "tipo": "carpeta",
+          "ruta": null,
+          "modificado": "2026-10-20T09:00",
+          "tamano": 0,
+          "estado": "nube",
+          "ext": null,
+          "expediente": "101-2026",
+          "terminado": false,
+          "hijos": []
+         },
+         {
+          "nombre": "109-2026 Vermeulen Ruud",
+          "tipo": "carpeta",
+          "ruta": null,
+          "modificado": "2026-10-20T09:00",
+          "tamano": 0,
+          "estado": "nube",
+          "ext": null,
+          "expediente": "109-2026",
+          "terminado": false,
+          "hijos": []
+         }
+        ]
+       },
+       {
+        "nombre": "Costa Norte Realty",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-20T09:00",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": null,
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "092-2026 Thompson Harris",
+          "tipo": "carpeta",
+          "ruta": null,
+          "modificado": "2026-10-20T09:00",
+          "tamano": 0,
+          "estado": "nube",
+          "ext": null,
+          "expediente": "092-2026",
+          "terminado": false,
+          "hijos": []
+         },
+         {
+          "nombre": "104-2026 Lindqvist Erika",
+          "tipo": "carpeta",
+          "ruta": null,
+          "modificado": "2026-10-20T09:00",
+          "tamano": 0,
+          "estado": "nube",
+          "ext": null,
+          "expediente": "104-2026",
+          "terminado": false,
+          "hijos": []
+         },
+         {
+          "nombre": "105-2026 Renaud Philippe",
+          "tipo": "carpeta",
+          "ruta": null,
+          "modificado": "2026-10-20T09:00",
+          "tamano": 0,
+          "estado": "nube",
+          "ext": null,
+          "expediente": "105-2026",
+          "terminado": false,
+          "hijos": []
+         },
+         {
+          "nombre": "111-2026 Ferri Gianluca",
+          "tipo": "carpeta",
+          "ruta": null,
+          "modificado": "2026-10-20T09:00",
+          "tamano": 0,
+          "estado": "nube",
+          "ext": null,
+          "expediente": "111-2026",
+          "terminado": false,
+          "hijos": []
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Control Compra-Ventas",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Control compraventas 2026.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-08-01T13:50",
+        "tamano": 2184311,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "EXPEDIENTES",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "001-2026 PUNTA PRIMA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-12T14:24",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "001-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "003-2026 Palau karen",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "003-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "004-2025 DOMENE PABLO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-02-22T19:59",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "004-2025",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "005-2025 PABLO IGLESIAS ALCARAZ",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-03-27T10:35",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "005-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-01T08:17",
+          "tamano": 919428,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "005-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-07-09T13:08",
+          "tamano": 2308414,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "005-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "006-2025 LA ZENIA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-27T12:21",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "006-2025",
+        "terminado": true,
+        "hijos": [
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-02T18:53",
+          "tamano": 2482921,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "006-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-08-02T11:43",
+          "tamano": 1318404,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "006-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-07-23T13:50",
+          "tamano": 139087,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "006-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "006-2026 Lorca CONCURSO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "006-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-10-10T11:10",
+          "tamano": 2288362,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "006-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-16T08:22",
+          "tamano": 2021922,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "006-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "007-2025 PABLO PALAU AGUIRRE",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-07-18T19:16",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "007-2025",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "008-2025 Fuentes CONCURSO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-02-13T14:34",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "008-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-28T19:37",
+          "tamano": 2537306,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "008-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "008-2025 LOS ALTOS",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-12T16:10",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "008-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-07-11T16:16",
+          "tamano": 895139,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "008-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-10-22T11:10",
+          "tamano": 474435,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "008-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-09-10T13:08",
+          "tamano": 1538543,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "008-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-01-28T17:41",
+          "tamano": 158931,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "008-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "008-2026 RODA enviada por Ismael",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-27T13:04",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "008-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-03-06T08:56",
+          "tamano": 342641,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "008-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "009-2026 HELENA BELMONTE DOLZ",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-20T17:15",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "009-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "010-2026 RAQUEL AGUIRRE AGUIRRE",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-16T09:55",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "010-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "011-2025 Ortega vicente",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-06-20T12:41",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "011-2025",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "012-2025 Construcciones Azahar SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-04T16:33",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "012-2025",
+        "terminado": true,
+        "hijos": []
+       },
+       {
+        "nombre": "013-2025 JOVER enviada por Pablo",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-05-28T19:58",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "013-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-26T15:49",
+          "tamano": 589553,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "013-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-06T13:27",
+          "tamano": 1412765,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "013-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-24T18:54",
+          "tamano": 1691303,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "013-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-06T11:51",
+          "tamano": 1990595,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "013-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "013-2026 FUENTES enviada por Julia",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-09T15:16",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "013-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-05T15:47",
+          "tamano": 1900662,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "013-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-07-09T13:53",
+          "tamano": 835126,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "013-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "014-2025 Inversiones Salinas SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-07-22T14:21",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "014-2025",
+        "terminado": true,
+        "hijos": [
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-09-25T09:17",
+          "tamano": 135216,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "014-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-07-13T08:35",
+          "tamano": 2221259,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "014-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "015-2026 Agrícola Salinas SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-19T18:39",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "015-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-06-02T14:46",
+          "tamano": 244633,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "015-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-18T19:16",
+          "tamano": 344104,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "015-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "016-2025 AGUAS NUEVAS",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-09T17:40",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "016-2025",
+        "terminado": true,
+        "hijos": [
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-01-25T11:40",
+          "tamano": 349299,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "016-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-01T11:50",
+          "tamano": 1426775,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "016-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "016-2026 Fuentes CONCURSO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-18T08:06",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "016-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "017-2025 RAQUEL QUIRÓS RODA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-05-15T11:38",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "017-2025",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "017-2026 ADRIÁN LORCA TORMO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-03T17:26",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "017-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "018-2025 Soler CONCURSO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-11T12:02",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "018-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-07-02T10:35",
+          "tamano": 1436130,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "018-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-16T18:42",
+          "tamano": 2453465,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "018-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-11T17:30",
+          "tamano": 1740987,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "018-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "018-2026 SERGIO FUENTES MATEO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-17T19:25",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "018-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-27T15:12",
+          "tamano": 1835901,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "018-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "019-2025 PETERSEN JONAS",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-02-27T14:55",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "019-2025",
+        "terminado": true,
+        "hijos": []
+       },
+       {
+        "nombre": "020-2025 Inversiones Torre Nueva SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-28T16:08",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "020-2025",
+        "terminado": true,
+        "hijos": [
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-09-20T13:31",
+          "tamano": 2437560,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "020-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-06-06T09:35",
+          "tamano": 238053,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "020-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-09-17T14:40",
+          "tamano": 1379991,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "020-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-01-15T11:13",
+          "tamano": 1201119,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "020-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "020-2026 con JULIA IGLESIAS Y LORENZO NADAL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-25T19:31",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "020-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "021-2025 INMOBILIARIA SIERRA BLANCA SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-04-05T18:36",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "021-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-09-20T19:34",
+          "tamano": 265521,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "021-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-10-18T19:09",
+          "tamano": 937503,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "021-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "021-2026 con CARLOS IGLESIAS Y JULIA TORMO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-05T15:10",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "021-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-05T12:34",
+          "tamano": 1555533,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "021-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "022-2025 CALA MOREIA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-05-17T13:56",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "022-2025",
+        "terminado": true,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-10-16T16:01",
+          "tamano": 2036094,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "022-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "023-2025 RODA NURIA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-05T13:09",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "023-2025",
+        "terminado": true,
+        "hijos": []
+       },
+       {
+        "nombre": "023-2026 LA ZENIA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "023-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-19T19:44",
+          "tamano": 697016,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "023-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-01-06T16:12",
+          "tamano": 1678968,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "023-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "024-2025 con GONZALO NADAL Y JULIA ORTEGA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-07T13:10",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "024-2025",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "025-2025 Aguirre emilio",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-03-12T19:43",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "025-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-10T18:47",
+          "tamano": 1823334,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "025-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-02-07T19:12",
+          "tamano": 312605,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "025-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "026-2025 ALCARAZ enviada por Óscar",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-04-21T18:50",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "026-2025",
+        "terminado": true,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-07-07T14:01",
+          "tamano": 1153825,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "026-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "027-2026 BELMONTE LORENZO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-13T08:30",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "027-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "028-2025 Alcaraz CONCURSO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-02-23T18:35",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "028-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-02-26T10:35",
+          "tamano": 132324,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "028-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-08-13T17:40",
+          "tamano": 248216,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "028-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "029-2026 Inmuebles Costa Sur SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-05T08:06",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "029-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Hoja de encargo.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-09-27T16:06",
+          "tamano": 346312,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "029-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-01-03T17:02",
+          "tamano": 215586,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "029-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-08-19T09:24",
+          "tamano": 2513072,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "029-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-10-16T16:01",
+          "tamano": 2216645,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "029-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "030-2025 con SERGIO NADAL Y PABLO TORMO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-28T12:01",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "030-2025",
+        "terminado": true,
+        "hijos": []
+       },
+       {
+        "nombre": "031-2025 OLGA FENOLL RUIZ",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-16T16:01",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "031-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Hoja de encargo.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-08-08T13:45",
+          "tamano": 220973,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "031-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-07-08T16:55",
+          "tamano": 187156,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "031-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-01-16T11:38",
+          "tamano": 2056856,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "031-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-25T09:37",
+          "tamano": 2139298,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "031-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "031-2026 MOLINO BLANCO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-12T17:55",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "031-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-10T11:55",
+          "tamano": 2252118,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "031-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-25T14:55",
+          "tamano": 1616492,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "031-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "032-2026 FENOY ISMAEL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-19T13:51",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "032-2026",
+        "terminado": true,
+        "hijos": []
+       },
+       {
+        "nombre": "033-2026 DOLZ enviada por Raquel",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-07T19:53",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "033-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-26T14:25",
+          "tamano": 765815,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "033-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-04-02T12:48",
+          "tamano": 188091,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "033-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-12T09:16",
+          "tamano": 2500841,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "033-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "035-2026 AGUIRRE RAQUEL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-01T12:39",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "035-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Hoja de encargo.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-06-23T15:53",
+          "tamano": 78650,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "035-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-04-21T18:30",
+          "tamano": 78173,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "035-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-06T18:04",
+          "tamano": 1521863,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "035-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "037-2026 Fuentes ismael",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-03T19:46",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "037-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "038-2026 Cascales gonzalo",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-16T08:34",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "038-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "040-2026 Transportes Azahar SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "040-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "041-2026 Promociones Azahar SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "041-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "042-2026 JOVER DOLORES",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "042-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-09-07T16:48",
+          "tamano": 146292,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "042-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "044-2026 Galindo CONCURSO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "044-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-03-19T16:49",
+          "tamano": 98962,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "044-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "045-2025 con TERESA LAX Y GONZALO LAX",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-21T14:42",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "045-2025",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-01T14:05",
+          "tamano": 783897,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "045-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "045-2026 LA ZENIA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-03T19:43",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "045-2026",
+        "terminado": true,
+        "hijos": []
+       },
+       {
+        "nombre": "046-2026 Hostelería Vega Baja SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-08T09:24",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "046-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "048-2026 con EMILIO NADAL Y RAQUEL DOMENE",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "048-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-01-01T13:58",
+          "tamano": 2528227,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "048-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-08-19T09:15",
+          "tamano": 1036187,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "048-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-03-20T16:59",
+          "tamano": 307182,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "048-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "050-2026 con HELENA FENOY Y ADRIÁN GALINDO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-27T13:28",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "050-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-01-15T17:18",
+          "tamano": 1357187,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "050-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-01-15T17:07",
+          "tamano": 259826,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "050-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "052-2026 EGEA FÁTIMA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-20T16:01",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "052-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-09T15:47",
+          "tamano": 2162299,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "052-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-08-10T13:52",
+          "tamano": 2021516,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "052-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "054-2026 Alcaraz adrián",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-23T14:14",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "054-2026",
+        "terminado": true,
+        "hijos": []
+       },
+       {
+        "nombre": "055-2026 Nadal dolores",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "055-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Hoja de encargo.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-07-05T17:21",
+          "tamano": 180506,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "055-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "056-2026 FÁTIMA RODA ESCRIVÁ",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "056-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-08-08T10:32",
+          "tamano": 1758084,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "056-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-10-27T11:19",
+          "tamano": 79633,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "056-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-10-05T15:24",
+          "tamano": 2105687,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "056-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "057-2026 CANO enviada por Beatriz",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-01T14:33",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "057-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-04-23T18:56",
+          "tamano": 277067,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "057-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-26T18:53",
+          "tamano": 2442750,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "057-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-27T13:48",
+          "tamano": 2422426,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "057-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "058-2026 con SERGIO FUENTES Y BEATRIZ BELMONTE",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "058-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-06-28T19:55",
+          "tamano": 258134,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "058-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-07T10:31",
+          "tamano": 748750,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "058-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "059-2026 Ortega CONCURSO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-18T09:06",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "059-2026",
+        "terminado": true,
+        "hijos": []
+       },
+       {
+        "nombre": "061-2026 BERNABÉ enviada por Dolores",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-15T17:22",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "061-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "063-2026 MOLINO BLANCO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-05T15:29",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "063-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Hoja de encargo.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-01-04T09:48",
+          "tamano": 222846,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "063-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-08-21T14:06",
+          "tamano": 139000,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "063-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-28T16:55",
+          "tamano": 742412,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "063-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-10-06T09:05",
+          "tamano": 1729767,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "063-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "064-2026 FERRER",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-14T09:22",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "064-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-07-03T15:31",
+          "tamano": 2245196,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "064-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-08-12T19:06",
+          "tamano": 2182488,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "064-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-14T18:04",
+          "tamano": 2009818,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "064-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "066-2025 DOLORES CAMPILLO AYALA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-28T17:55",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "066-2025",
+        "terminado": true,
+        "hijos": [
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-23T11:23",
+          "tamano": 2123066,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "066-2025",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-19T17:16",
+          "tamano": 2021725,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "066-2025",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "071-2026 DOS PALMERAS HOSTELERÍA SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-17T14:16",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "071-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "088-2026 LOS BALCONES DE LA CALA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-04T17:15",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "088-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-07T19:59",
+          "tamano": 2033962,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "088-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-12T16:19",
+          "tamano": 2152920,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "088-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "089-2026 NAVARRO BRUNET",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-01T13:26",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "089-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-07-21T14:39",
+          "tamano": 236391,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "089-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-12T14:48",
+          "tamano": 1878469,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "089-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-10-11T17:24",
+          "tamano": 2199558,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "089-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-13T19:22",
+          "tamano": 360602,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "089-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "090-2026 HOFFMANN & VAN DER BERG SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-28T19:18",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "090-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "091-2026 VIDAL ORTUÑO MARIANO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-04T07:02",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "091-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Cedula emplazamiento 250.1.4.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_real/091-2026/Cedula emplazamiento 250.1.4.pdf",
+          "modificado": "2026-11-04T07:02",
+          "tamano": 988513,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "091-2026",
+          "terminado": false,
+          "oculto_hasta": "p1"
+         },
+         {
+          "nombre": "OPOSICION DEMANDA (borrador Lola).docx",
+          "tipo": "archivo",
+          "ruta": "fs/_real/091-2026/OPOSICION DEMANDA (borrador Lola).docx",
+          "modificado": "2026-11-04T07:31",
+          "tamano": 40691,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "091-2026",
+          "terminado": false,
+          "oculto_hasta": "p2"
+         },
+         {
+          "nombre": "OPOSICION DEMANDA (final).docx",
+          "tipo": "archivo",
+          "ruta": "fs/_real/091-2026/OPOSICION DEMANDA (final).docx",
+          "modificado": "2026-11-04T08:38",
+          "tamano": 39306,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "091-2026",
+          "terminado": false,
+          "oculto_hasta": "p4"
+         }
+        ]
+       },
+       {
+        "nombre": "092-2026 THOMPSON HARRIS",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-23T13:59",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "092-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-07-10T19:16",
+          "tamano": 197167,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "092-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-04-02T09:14",
+          "tamano": 168129,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "092-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "093-2026 ESTEVE CONCURSO",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-04T09:37",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "093-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-04T14:14",
+          "tamano": 1512518,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "093-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "095-2026 TOMÁS REQUENA AROCA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "095-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-09-24T08:48",
+          "tamano": 2148884,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "095-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "096-2026 PASEO LAS SALINAS SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-14T12:09",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "096-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "097-2026 PROMOCIONES SALINAS DOS SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-07T13:10",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "097-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-15T17:26",
+          "tamano": 504784,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "097-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-26T08:18",
+          "tamano": 2150069,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "097-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-07-07T12:47",
+          "tamano": 127517,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "097-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "098-2026 GERTRUDIS MORA PASTOR",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-07T13:16",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "098-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-02-12T14:04",
+          "tamano": 262444,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "098-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-10-22T09:17",
+          "tamano": 1839503,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "098-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "099-2026 KOWALSKI DOROTA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-21T17:08",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "099-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Hoja de encargo.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-08-18T13:50",
+          "tamano": 178047,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "099-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-07T16:16",
+          "tamano": 1016406,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "099-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-07-09T17:41",
+          "tamano": 802015,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "099-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-07T10:23",
+          "tamano": 1823157,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "099-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "100-2026 ARMAS VIVES",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T15:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "100-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-16T18:58",
+          "tamano": 1249303,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "100-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Escritura.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-09T15:25",
+          "tamano": 1580947,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "100-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-04-10T09:16",
+          "tamano": 733484,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "100-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "101-2026 con LUCÍA BENÍTEZ Y HUGO FERRÁNDEZ",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-03T12:48",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "101-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "102-2026 CLÍNICA DENTAL MAR MENOR SL",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-21T11:59",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "102-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "103-2026 PEREIRA CARDONA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-07T08:40",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "103-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "104-2026 LINDQVIST ERIKA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-03T17:20",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "104-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "105-2026 RENAUD PHILIPPE",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-14T15:59",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "105-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-08-23T14:03",
+          "tamano": 318109,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "105-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-07T16:16",
+          "tamano": 1735515,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "105-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-06-26T14:34",
+          "tamano": 2501128,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "105-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "106-2026 NIEVES CALATAYUD PEÑALVER",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-13T18:08",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "106-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-23T18:55",
+          "tamano": 1992138,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "106-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-05-04T11:27",
+          "tamano": 123793,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "106-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Hoja de encargo.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-05-07T15:43",
+          "tamano": 168844,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "106-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-01-24T16:30",
+          "tamano": 808593,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "106-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "107-2026 con IRENE SALA Y MARCOS IBÁÑEZ",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-09-20T16:47",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "107-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-14T14:35",
+          "tamano": 2106898,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "107-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-13T14:54",
+          "tamano": 1142762,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "107-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "108-2026 QUESADA HERRERO enviada por Carmelo Vera",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-21T08:17",
+        "tamano": 0,
+        "estado": "nube",
+        "ext": null,
+        "expediente": "108-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-09-03T11:47",
+          "tamano": 1687029,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "108-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-02-15T10:14",
+          "tamano": 1082780,
+          "estado": "local",
+          "ext": "pdf",
+          "expediente": "108-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Nota simple.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-20T14:29",
+          "tamano": 1245801,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "108-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Hoja de encargo.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-05-28T19:56",
+          "tamano": 82500,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "108-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "109-2026 VERMEULEN RUUD",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-25T14:56",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "109-2026",
+        "terminado": false,
+        "hijos": []
+       },
+       {
+        "nombre": "110-2026 JUAN CARLOS MACIÁ RUIZ",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-10-15T16:48",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "110-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Notas del asunto.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-02-23T08:33",
+          "tamano": 206877,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "110-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Burofax.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escrito-generico.docx",
+          "modificado": "2026-06-26T17:58",
+          "tamano": 189574,
+          "estado": "nube",
+          "ext": "docx",
+          "expediente": "110-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Poder.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-20T18:17",
+          "tamano": 1247374,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "110-2026",
+          "terminado": false
+         },
+         {
+          "nombre": "Documentacion cliente.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-03-19T12:49",
+          "tamano": 1488266,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "110-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "111-2026 FERRI GIANLUCA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-08-20T13:25",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "111-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Demanda.pdf",
+          "tipo": "archivo",
+          "ruta": "fs/_relleno/escaneo-generico.pdf",
+          "modificado": "2026-05-13T08:11",
+          "tamano": 1415234,
+          "estado": "nube",
+          "ext": "pdf",
+          "expediente": "111-2026",
+          "terminado": false
+         }
+        ]
+       },
+       {
+        "nombre": "094-2026 OLIVARES SERRANO MARTA",
+        "tipo": "carpeta",
+        "ruta": null,
+        "modificado": "2026-11-04T11:14",
+        "tamano": 0,
+        "estado": "local",
+        "ext": null,
+        "expediente": "094-2026",
+        "terminado": false,
+        "hijos": [
+         {
+          "nombre": "Presupuesto compraventa Olivares.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_real/094-2026/Presupuesto compraventa Olivares.docx",
+          "modificado": "2026-11-04T11:12",
+          "tamano": 37194,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "094-2026",
+          "terminado": false,
+          "oculto_hasta": "c1"
+         },
+         {
+          "nombre": "Hoja de encargo Olivares.docx",
+          "tipo": "archivo",
+          "ruta": "fs/_real/094-2026/Hoja de encargo Olivares.docx",
+          "modificado": "2026-11-04T11:14",
+          "tamano": 37308,
+          "estado": "local",
+          "ext": "docx",
+          "expediente": "094-2026",
+          "terminado": false,
+          "oculto_hasta": "c1"
+         }
+        ],
+        "oculto_hasta": "c1"
+       }
+      ]
+     },
+     {
+      "nombre": "LRL Abogados",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Membrete.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-10-23T17:10",
+        "tamano": 150847,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "Licencias Turisticas",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Modelo solicitud licencia.pdf",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escaneo-generico.pdf",
+        "modificado": "2026-02-24T11:12",
+        "tamano": 2432130,
+        "estado": "nube",
+        "ext": "pdf",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Checklist documentos.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-03-16T18:55",
+        "tamano": 92198,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "Contrato arrendamiento tipo.docx",
+      "tipo": "archivo",
+      "ruta": "fs/_relleno/escrito-generico.docx",
+      "modificado": "2026-07-04T13:35",
+      "tamano": 328541,
+      "estado": "nube",
+      "ext": "docx",
+      "expediente": null,
+      "terminado": false
+     }
+    ]
+   }
+  }
+ ],
+ "onedrive": {
+  "nombre": "OneDrive - Lo Romero Legal",
+  "tipo": "carpeta",
+  "ruta": null,
+  "modificado": "2026-10-20T09:00",
+  "tamano": 0,
+  "estado": "nube",
+  "ext": null,
+  "expediente": null,
+  "terminado": false,
+  "hijos": [
+   {
+    "nombre": "Archivos de Copilot Chat",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": []
+   },
+   {
+    "nombre": "Asuntos varios",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": [
+     {
+      "nombre": "Apuntes reunion.docx",
+      "tipo": "archivo",
+      "ruta": "fs/_relleno/escrito-generico.docx",
+      "modificado": "2026-10-28T17:38",
+      "tamano": 130959,
+      "estado": "nube",
+      "ext": "docx",
+      "expediente": null,
+      "terminado": false
+     }
+    ]
+   },
+   {
+    "nombre": "Attachments",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": [
+     {
+      "nombre": "Escaneo 0412.pdf",
+      "tipo": "archivo",
+      "ruta": "fs/_relleno/escaneo-generico.pdf",
+      "modificado": "2026-08-01T18:25",
+      "tamano": 1524728,
+      "estado": "nube",
+      "ext": "pdf",
+      "expediente": null,
+      "terminado": false
+     }
+    ]
+   },
+   {
+    "nombre": "Documentos",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": [
+     {
+      "nombre": "Curriculum despacho.pdf",
+      "tipo": "archivo",
+      "ruta": "fs/_relleno/escaneo-generico.pdf",
+      "modificado": "2026-06-09T16:57",
+      "tamano": 1729460,
+      "estado": "nube",
+      "ext": "pdf",
+      "expediente": null,
+      "terminado": false
+     }
+    ]
+   },
+   {
+    "nombre": "Escritorio",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": [
+     {
+      "nombre": "Plantillas",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "Burofax reclamaciones.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-07-13T11:52",
+        "tamano": 89637,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Burofax ultimo.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-07-16T14:50",
+        "tamano": 110540,
+        "estado": "local",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Escritos de juzgado.docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-06-19T15:12",
+        "tamano": 136845,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "Ficha de cliente (5 idiomas).docx",
+        "tipo": "archivo",
+        "ruta": "fs/_relleno/escrito-generico.docx",
+        "modificado": "2026-02-05T12:07",
+        "tamano": 347741,
+        "estado": "nube",
+        "ext": "docx",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "Firmas",
+      "tipo": "carpeta",
+      "ruta": null,
+      "modificado": "2026-10-20T09:00",
+      "tamano": 0,
+      "estado": "nube",
+      "ext": null,
+      "expediente": null,
+      "terminado": false,
+      "hijos": [
+       {
+        "nombre": "firma Despacho 1.png",
+        "tipo": "archivo",
+        "ruta": "fs/_real/escritorio/firma Despacho 1.png",
+        "modificado": "2026-05-02T10:00",
+        "tamano": 1703,
+        "estado": "nube",
+        "ext": "png",
+        "expediente": null,
+        "terminado": false
+       },
+       {
+        "nombre": "firma Despacho 2.png",
+        "tipo": "archivo",
+        "ruta": "fs/_real/escritorio/firma Despacho 2.png",
+        "modificado": "2026-05-02T10:02",
+        "tamano": 1516,
+        "estado": "nube",
+        "ext": "png",
+        "expediente": null,
+        "terminado": false
+       }
+      ]
+     },
+     {
+      "nombre": "logo despacho.png",
+      "tipo": "archivo",
+      "ruta": "fs/_real/escritorio/logo despacho.png",
+      "modificado": "2026-02-11T12:00",
+      "tamano": 6404,
+      "estado": "nube",
+      "ext": "png",
+      "expediente": null,
+      "terminado": false
+     },
+     {
+      "nombre": "Modelo de correo.docx",
+      "tipo": "archivo",
+      "ruta": "fs/_relleno/escrito-generico.docx",
+      "modificado": "2026-07-09T11:52",
+      "tamano": 144431,
+      "estado": "local",
+      "ext": "docx",
+      "expediente": null,
+      "terminado": false
+     }
+    ]
+   },
+   {
+    "nombre": "Personal",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": []
+   },
+   {
+    "nombre": "Recordings",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": []
+   },
+   {
+    "nombre": "Subastas",
+    "tipo": "carpeta",
+    "ruta": null,
+    "modificado": "2026-10-20T09:00",
+    "tamano": 0,
+    "estado": "nube",
+    "ext": null,
+    "expediente": null,
+    "terminado": false,
+    "hijos": [
+     {
+      "nombre": "Subasta 14-2026.pdf",
+      "tipo": "archivo",
+      "ruta": "fs/_relleno/escaneo-generico.pdf",
+      "modificado": "2026-07-26T10:33",
+      "tamano": 2005843,
+      "estado": "nube",
+      "ext": "pdf",
+      "expediente": null,
+      "terminado": false
+     }
+    ]
+   }
+  ]
+ },
+ "ayuda": "Los archivos con oculto_hasta (p1..p5, c1) aparecen en esa fase de la operativa (ver lola/operativa.json)."
+}
