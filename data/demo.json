@@ -1,0 +1,2011 @@
+{
+  "despacho": {
+    "id": "despacho",
+    "nombre": "Lo Romero Legal",
+    "ubicacion": "Pilar de la Horadada · Murcia · Torrevieja",
+    "socio_director": "José Tomás",
+    "asistente": "Lola",
+    "rotulo": "DEMO · datos ficticios",
+    "fecha_demo": "2026-11-04",
+    "hora_inicio_demo": "07:00"
+  },
+  "expedientes": [
+    {
+      "id": "exp-021-2025",
+      "numero": "021-2025",
+      "caratula": "021-2025 INMOBILIARIA SIERRA BLANCA SL",
+      "cliente": "Inmobiliaria Sierra Blanca SL",
+      "contraparte": "Ayuntamiento de Orihuela",
+      "materia": "Licencia turística de agencia",
+      "estado": "En espera de resolución",
+      "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-30",
+        "descripcion": "Resolución de la licencia"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "502D",
+        "calle_inmueble": "Carretera de Cartagena 33, Murcia",
+        "notaria_u_otra_parte": "Ayuntamiento de Orihuela"
+      },
+      "telefono_ficha": "+34 697 000 225",
+      "carpeta": "dir-exp-021-2025",
+      "ultimo_movimiento": "2026-11-04",
+      "parado_dias": 5
+    },
+    {
+      "id": "exp-031-2025",
+      "numero": "031-2025",
+      "caratula": "031-2025 OLGA FENOLL RUIZ",
+      "cliente": "Olga Fenoll Ruiz (arrendadora)",
+      "contraparte": "Hamid Bennani (arrendatario)",
+      "materia": "Desahucio por falta de pago (ejecución)",
+      "estado": "En ejecución de sentencia · lanzamiento señalado",
+      "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 3 de Torrevieja",
+      "procurador": "Lucía Ballester",
+      "proximo_plazo": {
+        "fecha": "2026-12-08",
+        "descripcion": "Lanzamiento señalado"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "821T",
+        "calle_inmueble": "Calle del Pozo 14, 2.º, Torrevieja",
+        "notaria_u_otra_parte": "Hamid Bennani (arrendatario)"
+      },
+      "telefono_ficha": "+34 606 000 703",
+      "carpeta": "dir-exp-031-2025",
+      "ultimo_movimiento": "2026-11-04",
+      "parado_dias": 6
+    },
+    {
+      "id": "exp-045-2025",
+      "numero": "045-2025",
+      "caratula": "045-2025 con TERESA LAX Y GONZALO LAX",
+      "cliente": "Teresa Lax y Gonzalo Lax",
+      "contraparte": "Ocupante sin título (vivienda heredada)",
+      "materia": "Recuperación de posesión",
+      "estado": "Sentencia dictada · pendiente de ejecución",
+      "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 2 de Torrevieja",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-30",
+        "descripcion": "Solicitar ejecución de la sentencia"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "975F",
+        "calle_inmueble": "Calle Pescadores 6, Torrevieja",
+        "notaria_u_otra_parte": "Ocupante (nombre pendiente)"
+      },
+      "telefono_ficha": "+34 618 000 487",
+      "carpeta": "dir-exp-045-2025",
+      "ultimo_movimiento": "2026-10-28",
+      "parado_dias": 12
+    },
+    {
+      "id": "exp-066-2025",
+      "numero": "066-2025",
+      "caratula": "066-2025 DOLORES CAMPILLO AYALA",
+      "cliente": "Dolores Campillo Ayala",
+      "contraparte": "Entidad Vértice Crédito SA",
+      "materia": "Reclamación bancaria: cláusula suelo (sentencia firme)",
+      "estado": "Pendiente de pago de costas",
+      "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 1 de Orihuela",
+      "procurador": "Lucía Ballester",
+      "proximo_plazo": {
+        "fecha": "2026-11-25",
+        "descripcion": "Reclamar la cuota de costas"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "689H",
+        "calle_inmueble": "Calle de la Feria 3, 2.º, Torrevieja",
+        "notaria_u_otra_parte": "Entidad Vértice Crédito SA"
+      },
+      "telefono_ficha": "+34 625 000 846",
+      "carpeta": "dir-exp-066-2025",
+      "ultimo_movimiento": "2026-10-30",
+      "parado_dias": 18
+    },
+    {
+      "id": "exp-064-2026",
+      "numero": "064-2026",
+      "caratula": "064-2026 FERRER",
+      "cliente": "Antonio Ferrer Lozano",
+      "contraparte": "Promociones Salinas Dos SL",
+      "materia": "Reclamación por daños: humedades en local comercial",
+      "estado": "Parado: esperando informe del perito",
+      "parado": true,
+      "juzgado_o_notaria": "Fase previa (sin juzgado)",
+      "procurador": null,
+      "perito": "Joaquín Sanz",
+      "proximo_plazo": {
+        "fecha": "2026-11-04",
+        "descripcion": "Reclamar al perito el informe pericial"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "518T",
+        "calle_inmueble": "Calle del Mar 27, local 3, Torrevieja",
+        "notaria_u_otra_parte": "Promociones Salinas Dos SL"
+      },
+      "telefono_ficha": "+34 622 000 318",
+      "carpeta": "dir-exp-064-2026",
+      "ultimo_movimiento": "2026-11-04",
+      "parado_dias": 0
+    },
+    {
+      "id": "exp-071-2026",
+      "numero": "071-2026",
+      "caratula": "071-2026 DOS PALMERAS HOSTELERÍA SL",
+      "cliente": "Dos Palmeras Hostelería SL",
+      "contraparte": "Ayuntamiento de Orihuela (licencia de actividad)",
+      "materia": "Licencia de actividad de restaurante",
+      "estado": "Pendiente del informe técnico del ingeniero",
+      "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
+      "procurador": null,
+      "tecnica": "Marisol Gallego (ingeniera técnica)",
+      "proximo_plazo": {
+        "fecha": "2026-11-04",
+        "descripcion": "Llamar a la técnica por el informe del ingeniero"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "903M",
+        "calle_inmueble": "Avenida de la Playa 14, Orihuela Costa",
+        "notaria_u_otra_parte": "Ayuntamiento de Orihuela"
+      },
+      "telefono_ficha": "+34 655 000 472",
+      "carpeta": "dir-exp-071-2026",
+      "ultimo_movimiento": "2026-11-03",
+      "parado_dias": 1
+    },
+    {
+      "id": "exp-088-2026",
+      "numero": "088-2026",
+      "numero_juzgado": "312/2026",
+      "caratula": "088-2026 VIDAL ORTUÑO",
+      "cliente": "Mariano Vidal Ortuño",
+      "contraparte": "Financiera Costa Azahar SA",
+      "materia": "Reclamación bancaria: intereses de demora (juicio verbal)",
+      "estado": "Cédula recibida · borrador de oposición en curso",
+      "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 4 de Torrevieja",
+      "procurador": "Lucía Ballester",
+      "procurador_contrario": "Ramón Llopis",
+      "proximo_plazo": {
+        "fecha": "2026-11-05",
+        "descripcion": "Contestar demanda (oposición)"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "527M",
+        "calle_inmueble": "Calle de la Cruz 14, 2.º B",
+        "notaria_u_otra_parte": "Financiera Costa Azahar SA"
+      },
+      "telefono_ficha": "+34 611 000 905",
+      "carpeta": "dir-exp-088-2026",
+      "ultimo_movimiento": "2026-11-04",
+      "parado_dias": 0
+    },
+    {
+      "id": "exp-089-2026",
+      "numero": "089-2026",
+      "caratula": "089-2026 NAVARRO BRUNET",
+      "cliente": "Rocío Navarro Brunet (vendedora)",
+      "contraparte": "Ulrich Brandt (comprador, alemán)",
+      "materia": "Compraventa a no residente",
+      "agente": "Solmar Agencia",
+      "estado": "Escritura: pendiente de fecha en notaría",
+      "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-12",
+        "descripcion": "Firma de compraventa en notaría"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "634P",
+        "calle_inmueble": "Calle de Jovellanos 5, 1.º A, Torrevieja",
+        "notaria_u_otra_parte": "Notaría Ramírez Olmos"
+      },
+      "telefono_ficha": "+34 633 000 117",
+      "carpeta": "dir-exp-089-2026",
+      "ultimo_movimiento": "2026-11-04",
+      "parado_dias": 0
+    },
+    {
+      "id": "exp-090-2026",
+      "numero": "090-2026",
+      "caratula": "090-2026 HOFFMANN & VAN DER BERG SL",
+      "cliente": "Hoffmann & Van der Berg SL (sociedad neerlandesa)",
+      "contraparte": "Ayuntamiento de Orihuela (licencia turística)",
+      "materia": "Licencia turística de apartamentos",
+      "estado": "Subsanar documentación",
+      "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-10",
+        "descripcion": "Subsanar documentación de la licencia turística"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "409H",
+        "calle_inmueble": "Calle Ruiseñor 3, Orihuela Costa",
+        "notaria_u_otra_parte": "Ayuntamiento de Orihuela"
+      },
+      "telefono_ficha": "+34 644 000 260",
+      "carpeta": "dir-exp-090-2026",
+      "ultimo_movimiento": "2026-10-28",
+      "parado_dias": 7
+    },
+    {
+      "id": "exp-091-2026",
+      "numero": "091-2026",
+      "caratula": "091-2026 LOS BALCONES DE LA CALA",
+      "cliente": "Promotora Azul Levante SL",
+      "contraparte": "Ayuntamiento de Torrevieja",
+      "materia": "Primera ocupación (14 viviendas)",
+      "estado": "Certificado final de obra en trámite",
+      "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-27",
+        "descripcion": "Recoger el certificado de primera ocupación"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "762C",
+        "calle_inmueble": "Urbanización Los Balcones, fase 2, Torrevieja",
+        "notaria_u_otra_parte": "Ayuntamiento de Torrevieja"
+      },
+      "telefono_ficha": "+34 677 000 533",
+      "carpeta": "dir-exp-091-2026",
+      "ultimo_movimiento": "2026-11-02",
+      "parado_dias": 2
+    },
+    {
+      "id": "exp-092-2026",
+      "numero": "092-2026",
+      "caratula": "092-2026 THOMPSON HARRIS",
+      "cliente": "Edward Thompson y Lisa Harris",
+      "contraparte": "Ferrán Puig Sans (vendedor)",
+      "materia": "Compraventa a no residente (británicos)",
+      "agente": "Costa Norte Realty",
+      "estado": "Arras firmadas · pendiente transferencia del 10 %",
+      "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-10",
+        "descripcion": "Transferencia de arras (10 %)"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "841Y",
+        "calle_inmueble": "Avenida Costa Blanca 40, 3.º, Torrevieja",
+        "notaria_u_otra_parte": "Notaría Ramírez Olmos"
+      },
+      "telefono_ficha": "+34 671 000 146",
+      "carpeta": "dir-exp-092-2026",
+      "ultimo_movimiento": "2026-11-04",
+      "parado_dias": 0
+    },
+    {
+      "id": "exp-093-2026",
+      "numero": "093-2026",
+      "caratula": "093-2026 ESTEVE CONCURSO",
+      "cliente": "Anselmo Esteve Gil",
+      "contraparte": "Administración concursal",
+      "materia": "Segunda oportunidad: exoneración de pasivo (concurso consecutivo)",
+      "estado": "Pendiente del informe de la administración concursal",
+      "juzgado_o_notaria": "Juzgado de lo Mercantil n.º 1 de Alicante",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-18",
+        "descripcion": "Informe de la administración concursal"
+      },
+      "minuta": "pendiente de cobro",
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "150Q",
+        "calle_inmueble": "Calle del Sol 22, bajo, Almoradí",
+        "notaria_u_otra_parte": "Juzgado de lo Mercantil n.º 1 de Alicante"
+      },
+      "telefono_ficha": "+34 699 000 741",
+      "carpeta": "dir-exp-093-2026",
+      "ultimo_movimiento": "2026-11-02",
+      "parado_dias": 2
+    },
+    {
+      "id": "exp-094-2026",
+      "numero": "094-2026",
+      "caratula": "094-2026 con IRENE SALA Y MARCOS IBÁÑEZ",
+      "cliente": "Emilia Ródenas Cano (arrendadora)",
+      "contraparte": "Irene Sala y Marcos Ibáñez (arrendatarios)",
+      "materia": "Desahucio por falta de pago (LAU)",
+      "estado": "Demanda admitida · audiencia fijada",
+      "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 3 de Torrevieja",
+      "procurador": "Lucía Ballester",
+      "proximo_plazo": {
+        "fecha": "2026-11-12",
+        "descripcion": "Audiencia en el juzgado (desahucio)"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "296R",
+        "calle_inmueble": "Calle de los Pinos 9, 2.º, Torrevieja",
+        "notaria_u_otra_parte": "Irene Sala y Marcos Ibáñez"
+      },
+      "telefono_ficha": "+34 666 000 384",
+      "carpeta": "dir-exp-094-2026",
+      "ultimo_movimiento": "2026-10-29",
+      "parado_dias": 6
+    },
+    {
+      "id": "exp-095-2026",
+      "numero": "095-2026",
+      "caratula": "095-2026 TOMÁS REQUENA AROCA",
+      "cliente": "Tomás Requena Aroca",
+      "contraparte": "Ocupante sin título",
+      "materia": "Recuperación de posesión (vivienda ocupada)",
+      "estado": "Preparando demanda de posesión",
+      "juzgado_o_notaria": "Pendiente de reparto",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-16",
+        "descripcion": "Presentar demanda de posesión"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "041W",
+        "calle_inmueble": "Calle de los Naranjos 8, bajo, Torrevieja",
+        "notaria_u_otra_parte": "Ocupante (nombre pendiente)"
+      },
+      "telefono_ficha": "+34 688 000 219",
+      "carpeta": "dir-exp-095-2026",
+      "ultimo_movimiento": "2026-10-29",
+      "parado_dias": 6
+    },
+    {
+      "id": "exp-096-2026",
+      "numero": "096-2026",
+      "caratula": "096-2026 PASEO LAS SALINAS SL",
+      "cliente": "Paseo Las Salinas SL",
+      "contraparte": "Ayuntamiento de Torrevieja (licencia turística)",
+      "materia": "Licencia turística de dos apartamentos",
+      "estado": "Pendiente de resolución municipal",
+      "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-23",
+        "descripcion": "Revisar la resolución municipal"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "618N",
+        "calle_inmueble": "Paseo Las Salinas 6, Torrevieja",
+        "notaria_u_otra_parte": "Ayuntamiento de Torrevieja"
+      },
+      "telefono_ficha": "+34 610 000 655",
+      "carpeta": "dir-exp-096-2026",
+      "ultimo_movimiento": "2026-10-30",
+      "parado_dias": 5
+    },
+    {
+      "id": "exp-097-2026",
+      "numero": "097-2026",
+      "caratula": "097-2026 PROMOCIONES SALINAS DOS SL",
+      "cliente": "Promociones Salinas Dos SL",
+      "contraparte": "Ayuntamiento de Torrevieja",
+      "materia": "Primera ocupación · edificio Mirador del Sur",
+      "estado": "Requerimiento municipal recibido",
+      "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-05",
+        "descripcion": "Presentar alegaciones a la licencia de primera ocupación"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "927B",
+        "calle_inmueble": "Calle Mirador del Sur 3, Torrevieja",
+        "notaria_u_otra_parte": "Ayuntamiento de Torrevieja"
+      },
+      "telefono_ficha": "+34 655 000 801",
+      "carpeta": "dir-exp-097-2026",
+      "ultimo_movimiento": "2026-10-30",
+      "parado_dias": 5
+    },
+    {
+      "id": "exp-098-2026",
+      "numero": "098-2026",
+      "caratula": "098-2026 GERTRUDIS MORA PASTOR",
+      "cliente": "Gertrudis Mora Pastor",
+      "contraparte": "Entidad Vértice Crédito SA",
+      "materia": "Reclamación bancaria: cláusula suelo e intereses",
+      "estado": "Reclamación previa enviada",
+      "juzgado_o_notaria": "Fase extrajudicial",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-23",
+        "descripcion": "Respuesta de la entidad (plazo de la reclamación previa)"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "570F",
+        "calle_inmueble": "Calle Palma 11, 1.º, Torrevieja",
+        "notaria_u_otra_parte": "Entidad Vértice Crédito SA"
+      },
+      "telefono_ficha": "+34 620 000 462",
+      "carpeta": "dir-exp-098-2026",
+      "ultimo_movimiento": "2026-11-02",
+      "parado_dias": 2
+    },
+    {
+      "id": "exp-099-2026",
+      "numero": "099-2026",
+      "caratula": "099-2026 KOWALSKI DOROTA",
+      "cliente": "Dorota Kowalska",
+      "contraparte": "Vendedor: Juan Ignacio Pardo",
+      "materia": "Compraventa a no residente (polaca)",
+      "agente": "Solmar Agencia",
+      "estado": "Escritura: cargas pendientes de la notaría",
+      "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-20",
+        "descripcion": "Firma de escritura"
+      },
+      "minuta": "pendiente de cobro",
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "205S",
+        "calle_inmueble": "Calle Cervantes 17, Torrevieja",
+        "notaria_u_otra_parte": "Notaría Ramírez Olmos"
+      },
+      "telefono_ficha": "+34 634 000 533",
+      "carpeta": "dir-exp-099-2026",
+      "ultimo_movimiento": "2026-11-04",
+      "parado_dias": 0
+    },
+    {
+      "id": "exp-100-2026",
+      "numero": "100-2026",
+      "caratula": "100-2026 ARMAS VIVES",
+      "cliente": "Ricardo Armas Vives",
+      "contraparte": "Entidad Vértice Crédito SA",
+      "materia": "Reclamación de gastos de hipoteca",
+      "estado": "Demanda presentada · contestación de la entidad pendiente",
+      "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 1 de Orihuela",
+      "procurador": "Lucía Ballester",
+      "proximo_plazo": {
+        "fecha": "2026-11-12",
+        "descripcion": "Revisar la contestación de la entidad"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "764D",
+        "calle_inmueble": "Calle Ramón y Cajal 9, Orihuela",
+        "notaria_u_otra_parte": "Entidad Vértice Crédito SA"
+      },
+      "telefono_ficha": "+34 680 000 107",
+      "carpeta": "dir-exp-100-2026",
+      "ultimo_movimiento": "2026-10-29",
+      "parado_dias": 6
+    },
+    {
+      "id": "exp-101-2026",
+      "numero": "101-2026",
+      "caratula": "101-2026 con LUCÍA BENÍTEZ Y HUGO FERRÁNDEZ",
+      "cliente": "Lucía Benítez y Hugo Ferrández (compradores)",
+      "contraparte": "Sebastián Moreno Cuenca (vendedor)",
+      "materia": "Compraventa: cargas pendientes",
+      "agente": "Solmar Agencia",
+      "estado": "Parado: esperando respuesta de la notaría sobre cargas",
+      "parado": true,
+      "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-06",
+        "descripcion": "Respuesta de la notaría sobre cargas"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "180L",
+        "calle_inmueble": "Calle Lepanto 4, 3.º C, Torrevieja",
+        "notaria_u_otra_parte": "Notaría Ramírez Olmos"
+      },
+      "telefono_ficha": "+34 691 000 298",
+      "carpeta": "dir-exp-101-2026",
+      "ultimo_movimiento": "2026-10-28",
+      "parado_dias": 7
+    },
+    {
+      "id": "exp-102-2026",
+      "numero": "102-2026",
+      "caratula": "102-2026 CLÍNICA DENTAL MAR MENOR SL",
+      "cliente": "Clínica Dental Mar Menor SL",
+      "contraparte": "Corporación Dental Ibérica SL (deudora)",
+      "materia": "Reclamación de cantidad (servicios impagados)",
+      "estado": "Requerimiento de pago enviado",
+      "juzgado_o_notaria": "Fase previa (sin juzgado)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-30",
+        "descripcion": "Plazo del requerimiento de pago"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "832G",
+        "calle_inmueble": "Calle Mayor 40, Murcia",
+        "notaria_u_otra_parte": "Corporación Dental Ibérica SL"
+      },
+      "telefono_ficha": "+34 648 000 916",
+      "carpeta": "dir-exp-102-2026",
+      "ultimo_movimiento": "2026-10-29",
+      "parado_dias": 6
+    },
+    {
+      "id": "exp-103-2026",
+      "numero": "103-2026",
+      "caratula": "103-2026 PEREIRA CARDONA",
+      "cliente": "Yolanda Pereira Cardona",
+      "contraparte": "Ayuntamiento de Torrevieja",
+      "materia": "Licencia turística de vivienda",
+      "estado": "Pendiente de documentación",
+      "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-12-02",
+        "descripcion": "Entregar el seguro de responsabilidad civil"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "659V",
+        "calle_inmueble": "Calle Galicia 5, 1.º, Torrevieja",
+        "notaria_u_otra_parte": "Ayuntamiento de Torrevieja"
+      },
+      "telefono_ficha": "+34 697 000 384",
+      "carpeta": "dir-exp-103-2026",
+      "ultimo_movimiento": "2026-10-30",
+      "parado_dias": 5
+    },
+    {
+      "id": "exp-104-2026",
+      "numero": "104-2026",
+      "caratula": "104-2026 LINDQVIST ERIKA",
+      "cliente": "Erika Lindqvist",
+      "contraparte": "Juana Sáez Lorca (vendedora)",
+      "materia": "Compraventa a no residente (sueca)",
+      "agente": "Costa Norte Realty",
+      "estado": "Arras firmadas · firma de escritura en preparación",
+      "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-25",
+        "descripcion": "Firma de escritura"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "915Q",
+        "calle_inmueble": "Calle del Puerto 22, Torrevieja",
+        "notaria_u_otra_parte": "Notaría Ramírez Olmos"
+      },
+      "telefono_ficha": "+34 603 000 741",
+      "carpeta": "dir-exp-104-2026",
+      "ultimo_movimiento": "2026-10-30",
+      "parado_dias": 5
+    },
+    {
+      "id": "exp-105-2026",
+      "numero": "105-2026",
+      "caratula": "105-2026 RENAUD PHILIPPE",
+      "cliente": "Philippe Renaud",
+      "contraparte": "Josefa Lorenzo Ruiz (vendedora)",
+      "materia": "Compraventa a no residente (francés)",
+      "agente": "Costa Norte Realty",
+      "estado": "Pendiente de cita para la firma",
+      "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-09",
+        "descripcion": "Cita para la firma de compraventa"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "467Y",
+        "calle_inmueble": "Calle Pintor Sorolla 6, Torrevieja",
+        "notaria_u_otra_parte": "Notaría Ramírez Olmos"
+      },
+      "telefono_ficha": "+34 614 000 286",
+      "carpeta": "dir-exp-105-2026",
+      "ultimo_movimiento": "2026-10-26",
+      "parado_dias": 9
+    },
+    {
+      "id": "exp-106-2026",
+      "numero": "106-2026",
+      "caratula": "106-2026 NIEVES CALATAYUD PEÑALVER",
+      "cliente": "Nieves Calatayud Peñalver (arrendadora)",
+      "contraparte": "Samuel Oropesa (arrendatario)",
+      "materia": "Desahucio por falta de pago (LAU)",
+      "estado": "Requerimiento de pago enviado · plazo corriendo",
+      "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 3 de Torrevieja",
+      "procurador": "Lucía Ballester",
+      "proximo_plazo": {
+        "fecha": "2026-11-11",
+        "descripcion": "Contestar el requerimiento de desahucio"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "391K",
+        "calle_inmueble": "Calle de los Olivos 19, 1.º B, Torrevieja",
+        "notaria_u_otra_parte": "Samuel Oropesa (arrendatario)"
+      },
+      "telefono_ficha": "+34 622 000 915",
+      "carpeta": "dir-exp-106-2026",
+      "ultimo_movimiento": "2026-11-04",
+      "parado_dias": 0
+    },
+    {
+      "id": "exp-108-2026",
+      "numero": "108-2026",
+      "caratula": "108-2026 QUESADA HERRERO enviada por Carmelo Vera",
+      "cliente": "Herederos de Quesada Herrero (Lucas y Ana Quesada)",
+      "contraparte": "Ocupante de la vivienda heredada",
+      "materia": "Posesión de vivienda heredada (ocupada)",
+      "estado": "Escritura de herencia en curso",
+      "juzgado_o_notaria": "Fase previa (sin juzgado)",
+      "procurador": null,
+      "remitente": "Carmelo Vera (gestoría)",
+      "proximo_plazo": {
+        "fecha": "2026-11-27",
+        "descripcion": "Reunión con Carmelo Vera"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "248E",
+        "calle_inmueble": "Calle Alicante 12, Orihuela",
+        "notaria_u_otra_parte": "Carmelo Vera (gestoría)"
+      },
+      "telefono_ficha": "+34 636 000 559",
+      "carpeta": "dir-exp-108-2026",
+      "ultimo_movimiento": "2026-10-23",
+      "parado_dias": 12
+    },
+    {
+      "id": "exp-109-2026",
+      "numero": "109-2026",
+      "caratula": "109-2026 VERMEULEN RUUD",
+      "cliente": "Ruud Vermeulen",
+      "contraparte": "Juan Ignacio Pardo (vendedor)",
+      "materia": "Compraventa a no residente (neerlandés)",
+      "agente": "Solmar Agencia",
+      "estado": "Documentación recibida",
+      "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-13",
+        "descripcion": "Firma de compraventa"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "538M",
+        "calle_inmueble": "Calle del Río 8, Torrevieja",
+        "notaria_u_otra_parte": "Notaría Ramírez Olmos"
+      },
+      "telefono_ficha": "+34 645 000 362",
+      "carpeta": "dir-exp-109-2026",
+      "ultimo_movimiento": "2026-10-28",
+      "parado_dias": 7
+    },
+    {
+      "id": "exp-110-2026",
+      "numero": "110-2026",
+      "caratula": "110-2026 JUAN CARLOS MACIÁ RUIZ",
+      "cliente": "Juan Carlos Maciá Ruiz (propietario)",
+      "contraparte": "Ocupante del local (sin título)",
+      "materia": "Recuperación de posesión de local",
+      "estado": "Demanda de posesión preparada",
+      "juzgado_o_notaria": "Pendiente de reparto",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-11-20",
+        "descripcion": "Presentar demanda de posesión"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "116Z",
+        "calle_inmueble": "Calle Mayor 2, local, Torrevieja",
+        "notaria_u_otra_parte": "Ocupante (nombre pendiente)"
+      },
+      "telefono_ficha": "+34 679 000 818",
+      "carpeta": "dir-exp-110-2026",
+      "ultimo_movimiento": "2026-10-26",
+      "parado_dias": 9
+    },
+    {
+      "id": "exp-111-2026",
+      "numero": "111-2026",
+      "caratula": "111-2026 FERRI GIANLUCA",
+      "cliente": "Gianluca Ferri",
+      "contraparte": "Beatriz Solano Vidal (vendedora)",
+      "materia": "Compraventa a no residente (italiano)",
+      "agente": "Costa Norte Realty",
+      "estado": "Cita de notaría por fijar",
+      "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
+      "procurador": null,
+      "proximo_plazo": {
+        "fecha": "2026-12-01",
+        "descripcion": "Cita de notaría por fijar"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "733P",
+        "calle_inmueble": "Calle del Faro 10, Torrevieja",
+        "notaria_u_otra_parte": "Notaría Ramírez Olmos"
+      },
+      "telefono_ficha": "+34 628 000 194",
+      "carpeta": "dir-exp-111-2026",
+      "ultimo_movimiento": "2026-10-29",
+      "parado_dias": 6
+    },
+    {
+      "id": "exp-019-2025",
+      "numero": "019-2025",
+      "caratula": "019-2025 PETERSEN JONAS",
+      "cliente": "Jonas Petersen",
+      "contraparte": "Rosario Campos Lidón (vendedora)",
+      "materia": "Compraventa a no residente (danés)",
+      "agente": "Solmar Agencia",
+      "estado": "Finalizado: escritura firmada",
+      "finalizado": true,
+      "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
+      "procurador": null,
+      "proximo_plazo": null,
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "904A",
+        "calle_inmueble": "Calle Sol Naciente 4, Torrevieja",
+        "notaria_u_otra_parte": "Notaría Ramírez Olmos"
+      },
+      "telefono_ficha": "+34 603 000 150",
+      "carpeta": "dir-finalizados-propuesta",
+      "ultimo_movimiento": "2026-10-29",
+      "parado_dias": 6
+    }
+  ],
+  "correos": [
+    {
+      "id": "mail-001",
+      "fecha": "2026-11-04",
+      "hora": "07:00",
+      "remitente": "Oficina judicial · Juzgado n.º 4 de Torrevieja",
+      "asunto": "Notificación Expediente 312/2026",
+      "expediente": "088-2026",
+      "adjunto": "Cedula emplazamiento 250.1.4.pdf",
+      "anclado": false,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-002",
+      "fecha": "2026-11-04",
+      "hora": "06:50",
+      "remitente": "Procuradora Lucía Ballester",
+      "asunto": "Exp. 064/2026 Ferrer · informe del perito",
+      "expediente": "064-2026",
+      "adjunto": null,
+      "anclado": false,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-003",
+      "fecha": "2026-11-03",
+      "hora": "18:12",
+      "remitente": "Marisol Gallego (ingeniera técnica)",
+      "asunto": "Exp. 071/2026 informe de instalaciones",
+      "expediente": "071-2026",
+      "adjunto": "Informe técnico preliminar.pdf",
+      "anclado": false,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-004",
+      "fecha": "2026-11-03",
+      "hora": "10:30",
+      "remitente": "Lisa Harris",
+      "asunto": "Re: Status of bank account",
+      "expediente": "092-2026",
+      "adjunto": null,
+      "anclado": false,
+      "ruido": false,
+      "idioma": "en"
+    },
+    {
+      "id": "mail-005",
+      "fecha": "2026-11-03",
+      "hora": "09:15",
+      "remitente": "Notaría Ramírez Olmos",
+      "asunto": "Compraventa inmueble · cargas pendientes (099/2026)",
+      "expediente": "099-2026",
+      "adjunto": "Nota simple cargas.pdf",
+      "anclado": false,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-006",
+      "fecha": "2026-11-02",
+      "hora": "17:40",
+      "remitente": "Solmar Agencia",
+      "asunto": "Compraventa Navarro Brandt · fecha de firma",
+      "expediente": "089-2026",
+      "adjunto": null,
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-007",
+      "fecha": "2026-11-02",
+      "hora": "12:00",
+      "remitente": "Entidad Vértice Crédito SA",
+      "asunto": "Cancelación hipoteca · Mora Pastor",
+      "expediente": "098-2026",
+      "adjunto": null,
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-008",
+      "fecha": "2026-11-02",
+      "hora": "11:20",
+      "remitente": "Juzgado de lo Mercantil n.º 1 de Alicante",
+      "asunto": "Exp. 093/2026 Esteve · informe de la administración concursal",
+      "expediente": "093-2026",
+      "adjunto": null,
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-009",
+      "fecha": "2026-10-30",
+      "hora": "09:00",
+      "remitente": "Dorota Kowalska",
+      "asunto": "Pending answer: signing date",
+      "expediente": "099-2026",
+      "adjunto": null,
+      "anclado": true,
+      "ruido": false,
+      "idioma": "en"
+    },
+    {
+      "id": "mail-010",
+      "fecha": "2026-10-29",
+      "hora": "16:45",
+      "remitente": "Procuradora Lucía Ballester",
+      "asunto": "Exp. 019/2025 Petersen · cierre de escritura",
+      "expediente": "019-2025",
+      "adjunto": "Escritura firmada.pdf",
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-011",
+      "fecha": "2026-10-29",
+      "hora": "13:10",
+      "remitente": "Notaría Ramírez Olmos",
+      "asunto": "Notificación recibida Exp. 089/2026",
+      "expediente": "089-2026",
+      "adjunto": null,
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-012",
+      "fecha": "2026-10-28",
+      "hora": "10:05",
+      "remitente": "Ruud Vermeulen",
+      "asunto": "Koopovereenkomst Torrevieja: documenten",
+      "expediente": "109-2026",
+      "adjunto": "Documentos compraventa (NL).pdf",
+      "anclado": true,
+      "ruido": false,
+      "idioma": "nl"
+    },
+    {
+      "id": "mail-013",
+      "fecha": "2026-10-28",
+      "hora": "09:30",
+      "remitente": "Pieter Hoffmann (Hoffmann & Van der Berg SL)",
+      "asunto": "Tourist license: documents needed",
+      "expediente": "090-2026",
+      "adjunto": null,
+      "anclado": true,
+      "ruido": false,
+      "idioma": "en"
+    },
+    {
+      "id": "mail-014",
+      "fecha": "2026-10-27",
+      "hora": "17:00",
+      "remitente": "Financiera Costa Azahar SA · Departamento legal",
+      "asunto": "Burofax Exp. 088/2026 · respuesta",
+      "expediente": "088-2026",
+      "adjunto": "Burofax respuesta.pdf",
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-015",
+      "fecha": "2026-10-27",
+      "hora": "12:00",
+      "remitente": "Procurador Ramón Llopis",
+      "asunto": "Exp. 088/2026 Vidal · traslado de demanda",
+      "expediente": "088-2026",
+      "adjunto": "Demanda (copia).pdf",
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-016",
+      "fecha": "2026-10-26",
+      "hora": "08:30",
+      "remitente": "Philippe Renaud",
+      "asunto": "Question sur la date de signature",
+      "expediente": "105-2026",
+      "adjunto": null,
+      "anclado": true,
+      "ruido": false,
+      "idioma": "fr"
+    },
+    {
+      "id": "mail-017",
+      "fecha": "2026-10-26",
+      "hora": "07:55",
+      "remitente": "Nieves Calatayud Peñalver",
+      "asunto": "Exp. 106/2026 requerimiento de desahucio",
+      "expediente": "106-2026",
+      "adjunto": "Requerimiento.pdf",
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-018",
+      "fecha": "2026-10-23",
+      "hora": "15:40",
+      "remitente": "Academia Digital Levante",
+      "asunto": "Webinar: IA para despachos (plazas limitadas)",
+      "expediente": null,
+      "adjunto": null,
+      "anclado": true,
+      "ruido": true,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-019",
+      "fecha": "2026-10-23",
+      "hora": "09:02",
+      "remitente": "Electricidad Levante (facturación)",
+      "asunto": "Tu recibo de octubre está disponible",
+      "expediente": null,
+      "adjunto": "Recibo.pdf",
+      "anclado": true,
+      "ruido": true,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-020",
+      "fecha": "2026-10-22",
+      "hora": "11:00",
+      "remitente": "Erika Lindqvist",
+      "asunto": "Signing appointment Torrevieja",
+      "expediente": "104-2026",
+      "adjunto": null,
+      "anclado": true,
+      "ruido": false,
+      "idioma": "en"
+    },
+    {
+      "id": "mail-021",
+      "fecha": "2026-10-22",
+      "hora": "08:45",
+      "remitente": "Plataforma Notarial (boletín)",
+      "asunto": "Boletín mensual de la plataforma",
+      "expediente": null,
+      "adjunto": null,
+      "anclado": true,
+      "ruido": true,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-022",
+      "fecha": "2026-10-23",
+      "hora": "18:20",
+      "remitente": "Gertrudis Mora Pastor",
+      "asunto": "Pendiente respuesta · cláusula suelo",
+      "expediente": "098-2026",
+      "adjunto": null,
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-023",
+      "fecha": "2026-10-23",
+      "hora": "10:12",
+      "remitente": "Carmelo Vera (gestoría)",
+      "asunto": "Quesada enviada por Carmelo: escritura de herencia",
+      "expediente": "108-2026",
+      "adjunto": "Escritura herencia (borrador).pdf",
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-024",
+      "fecha": "2026-10-22",
+      "hora": "14:00",
+      "remitente": "Promoción Costa Mágica",
+      "asunto": "Tasación gratuita de su inmueble",
+      "expediente": null,
+      "adjunto": null,
+      "anclado": true,
+      "ruido": true,
+      "idioma": "es"
+    },
+    {
+      "id": "mail-025",
+      "fecha": "2026-10-21",
+      "hora": "19:30",
+      "remitente": "Joaquín Sanz (perito)",
+      "asunto": "Presupuesto de peritaje de humedades",
+      "expediente": "064-2026",
+      "adjunto": "Presupuesto peritaje.pdf",
+      "anclado": true,
+      "ruido": false,
+      "idioma": "es"
+    }
+  ],
+  "todo_saco": [
+    {
+      "id": "saco-01",
+      "titulo": "Vidal Ortuño llamar",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-02",
+      "titulo": "OPOSICIÓN Vidal Ortuño",
+      "vencimiento": null,
+      "importante": true
+    },
+    {
+      "id": "saco-03",
+      "titulo": "demanda Navarro y Brandt",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-04",
+      "titulo": "Burofax Costa Azahar",
+      "vencimiento": "2026-11-06",
+      "importante": false
+    },
+    {
+      "id": "saco-05",
+      "titulo": "Asunto urgente Kowalska",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-06",
+      "titulo": "RV: Compraventa 099/2026 cargas",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-07",
+      "titulo": "[EXTERNAL] Status of bank account",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-08",
+      "titulo": "Thompson Harris arras",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-09",
+      "titulo": "Hoffmann licencia",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-10",
+      "titulo": "Ferrer humedades",
+      "vencimiento": null,
+      "importante": true
+    },
+    {
+      "id": "saco-11",
+      "titulo": "Técnica 071 ingeniero",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-12",
+      "titulo": "Quesada enviada por Carmelo",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-13",
+      "titulo": "Vermeulen compraventa",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-14",
+      "titulo": "Campillo impagado",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-15",
+      "titulo": "Ferri notaría",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-16",
+      "titulo": "Calatayud desahucio",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-17",
+      "titulo": "Maciá posesión",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-18",
+      "titulo": "Esteve concurso",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-19",
+      "titulo": "Armas Vives gastos",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-20",
+      "titulo": "Benítez Ferrández notaría",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-21",
+      "titulo": "Renaud compraventa",
+      "vencimiento": null,
+      "importante": false
+    },
+    {
+      "id": "saco-22",
+      "titulo": "Lindqvist firma",
+      "vencimiento": null,
+      "importante": false
+    }
+  ],
+  "todo_lola": [
+    {
+      "id": "lola-01",
+      "id_origen": "saco-01",
+      "accion": "Llamar a Mariano Vidal: confirmar que tiene la cédula",
+      "fecha": "2026-11-05",
+      "expediente": "088-2026"
+    },
+    {
+      "id": "lola-02",
+      "id_origen": "saco-02",
+      "accion": "Contestar la demanda: borrador revisado por los dos consejeros",
+      "fecha": "2026-11-05",
+      "expediente": "088-2026"
+    },
+    {
+      "id": "lola-03",
+      "id_origen": "saco-03",
+      "accion": "Firma de compraventa Navarro-Brandt en notaría",
+      "fecha": "2026-11-12",
+      "expediente": "089-2026"
+    },
+    {
+      "id": "lola-04",
+      "id_origen": "saco-04",
+      "accion": "Burofax a Financiera Costa Azahar: respuesta pendiente",
+      "fecha": "2026-11-06",
+      "expediente": "088-2026"
+    },
+    {
+      "id": "lola-05",
+      "id_origen": "saco-05",
+      "accion": "Responder a Dorota Kowalska sobre la fecha de firma",
+      "fecha": "2026-11-06",
+      "expediente": "099-2026"
+    },
+    {
+      "id": "lola-06",
+      "id_origen": "saco-06",
+      "accion": "Revisar las cargas reenviadas y pedir nota simple a la notaría",
+      "fecha": "2026-11-05",
+      "expediente": "099-2026"
+    },
+    {
+      "id": "lola-07",
+      "id_origen": "saco-07",
+      "accion": "Contestar a Lisa Harris: estado de la cuenta bancaria",
+      "fecha": "2026-11-09",
+      "expediente": "092-2026"
+    },
+    {
+      "id": "lola-08",
+      "id_origen": "saco-08",
+      "accion": "Transferir las arras de Thompson Harris (10 %)",
+      "fecha": "2026-11-10",
+      "expediente": "092-2026"
+    },
+    {
+      "id": "lola-09",
+      "id_origen": "saco-09",
+      "accion": "Subsanar la documentación de la licencia turística",
+      "fecha": "2026-11-10",
+      "expediente": "090-2026"
+    },
+    {
+      "id": "lola-10",
+      "id_origen": "saco-10",
+      "accion": "Reclamar a Joaquín Sanz el informe de humedades",
+      "fecha": "2026-11-04",
+      "expediente": "064-2026"
+    },
+    {
+      "id": "lola-11",
+      "id_origen": "saco-11",
+      "accion": "Revisar con la técnica el informe del ingeniero",
+      "fecha": "2026-11-12",
+      "expediente": "071-2026"
+    },
+    {
+      "id": "lola-12",
+      "id_origen": "saco-12",
+      "accion": "Reunión con Carmelo Vera por la herencia Quesada",
+      "fecha": "2026-11-27",
+      "expediente": "108-2026"
+    },
+    {
+      "id": "lola-13",
+      "id_origen": "saco-13",
+      "accion": "Firma de compraventa Vermeulen",
+      "fecha": "2026-11-13",
+      "expediente": "109-2026"
+    },
+    {
+      "id": "lola-14",
+      "id_origen": "saco-14",
+      "accion": "Reclamar la cuota de costas",
+      "fecha": "2026-11-25",
+      "expediente": "066-2025"
+    },
+    {
+      "id": "lola-15",
+      "id_origen": "saco-15",
+      "accion": "Pedir cita en notaría para Ferri",
+      "fecha": "2026-12-01",
+      "expediente": "111-2026"
+    },
+    {
+      "id": "lola-16",
+      "id_origen": "saco-16",
+      "accion": "Contestar el requerimiento de desahucio",
+      "fecha": "2026-11-11",
+      "expediente": "106-2026"
+    },
+    {
+      "id": "lola-17",
+      "id_origen": "saco-17",
+      "accion": "Presentar la demanda de posesión del local",
+      "fecha": "2026-11-20",
+      "expediente": "110-2026"
+    },
+    {
+      "id": "lola-18",
+      "id_origen": "saco-18",
+      "accion": "Seguir el informe de la administración concursal (Esteve)",
+      "fecha": "2026-11-18",
+      "expediente": "093-2026"
+    },
+    {
+      "id": "lola-19",
+      "id_origen": "saco-19",
+      "accion": "Revisar la contestación de la entidad por gastos de hipoteca",
+      "fecha": "2026-11-12",
+      "expediente": "100-2026"
+    },
+    {
+      "id": "lola-20",
+      "id_origen": "saco-20",
+      "accion": "Pedir a la notaría la respuesta sobre cargas (Benítez y Ferrández)",
+      "fecha": "2026-11-06",
+      "expediente": "101-2026"
+    },
+    {
+      "id": "lola-21",
+      "id_origen": "saco-21",
+      "accion": "Fijar cita de firma para Renaud",
+      "fecha": "2026-11-09",
+      "expediente": "105-2026"
+    },
+    {
+      "id": "lola-22",
+      "id_origen": "saco-22",
+      "accion": "Firma de escritura de Lindqvist",
+      "fecha": "2026-11-25",
+      "expediente": "104-2026"
+    }
+  ],
+  "llamadas_hoy": [
+    {
+      "id": "llam-01",
+      "hora": "08:10",
+      "nombre": "Dorota Kowalska",
+      "verificado": true,
+      "expediente": "099-2026",
+      "motivo": "Pregunta por la fecha de firma",
+      "resultado": "Lola confirma que la notaría responde el jueves; queda recado para el socio",
+      "en_directo": false,
+      "estado": "atendida"
+    },
+    {
+      "id": "llam-02",
+      "hora": "08:40",
+      "nombre": "Nieves Calatayud Peñalver",
+      "verificado": false,
+      "expediente": "106-2026",
+      "motivo": "Recibió el requerimiento y pide cita",
+      "resultado": "No verificada: Lola no da datos y deja recado",
+      "en_directo": false,
+      "estado": "atendida"
+    },
+    {
+      "id": "llam-03",
+      "hora": "09:05",
+      "nombre": "Procuradora Lucía Ballester",
+      "verificado": true,
+      "expediente": "088-2026",
+      "motivo": "Confirma el número de juzgado de la cédula",
+      "resultado": "Recado: procedimiento 312/2026 confirmado",
+      "en_directo": false,
+      "estado": "atendida"
+    },
+    {
+      "id": "llam-07",
+      "hora": "10:20",
+      "nombre": "Sergio Ruiz Llopart",
+      "verificado": false,
+      "expediente": "031-2025",
+      "motivo": "Pregunta cuando es el lanzamiento y si puede retirar sus cosas",
+      "resultado": "perdida - Lola devolvio la llamada",
+      "en_directo": false,
+      "estado": "atendida"
+    },
+    {
+      "id": "llam-04",
+      "hora": "11:02",
+      "nombre": "Antonio Ferrer",
+      "verificado": true,
+      "expediente": "064-2026",
+      "motivo": "Pregunta si demandan ya",
+      "resultado": "Propuesta: esperar el informe del perito y llamarle el jueves a las 10:00; el socio lo aprueba",
+      "en_directo": true,
+      "estado": "atendida"
+    },
+    {
+      "id": "llam-05",
+      "hora": "11:20",
+      "nombre": "Número no registrado",
+      "verificado": false,
+      "expediente": null,
+      "motivo": "Compraventa de no residente (posible cliente)",
+      "resultado": "Sin datos. Propuesta: cita el martes 10-nov",
+      "en_directo": true,
+      "estado": "perdida"
+    },
+    {
+      "id": "llam-06",
+      "hora": "12:15",
+      "nombre": "Ulrich Brandt",
+      "verificado": true,
+      "expediente": "089-2026",
+      "motivo": "Confirmar la cita de firma",
+      "resultado": "Firma confirmada: jueves 12-nov a las 10:30",
+      "en_directo": false,
+      "estado": "atendida"
+    },
+    {
+      "id": "llam-08",
+      "hora": "12:40",
+      "nombre": "Marta Olivera Quiles",
+      "verificado": false,
+      "expediente": "102-2026",
+      "motivo": "Pide que le confirmen el requerimiento de pago enviado",
+      "resultado": "perdida - pendiente de tu OK",
+      "en_directo": false,
+      "estado": "atendida"
+    }
+  ],
+  "plazos_semana": [
+    {
+      "id": "plazo-01",
+      "fecha": "2026-11-05",
+      "expediente": "097-2026",
+      "descripcion": "Presentar alegaciones a la licencia de primera ocupación"
+    },
+    {
+      "id": "plazo-02",
+      "fecha": "2026-11-10",
+      "expediente": "090-2026",
+      "descripcion": "Subsanar la documentación de la licencia turística"
+    },
+    {
+      "id": "plazo-03",
+      "fecha": "2026-11-11",
+      "expediente": "106-2026",
+      "descripcion": "Contestar el requerimiento de desahucio"
+    },
+    {
+      "id": "plazo-04",
+      "fecha": "2026-11-05",
+      "expediente": "088-2026",
+      "descripcion": "Contestar la demanda (oposición)"
+    },
+    {
+      "id": "plazo-05",
+      "fecha": "2026-11-12",
+      "expediente": "094-2026",
+      "descripcion": "Audiencia en el juzgado (desahucio)"
+    }
+  ],
+  "parte_lunes": {
+    "texto": "Esta semana vencen 3 plazos; están parados 2 asuntos esperando al perito y a la notaría; hay 2 minutas por cobrar.",
+    "cifras": {
+      "plazos_esta_semana": 3,
+      "asuntos_parados": 2,
+      "minutas_por_cobrar": 2
+    },
+    "plazos_esta_semana": [
+      "plazo-02",
+      "plazo-03",
+      "plazo-05"
+    ],
+    "asuntos_parados": [
+      "exp-064-2026",
+      "exp-101-2026"
+    ],
+    "minutas_por_cobrar": [
+      "exp-093-2026",
+      "exp-099-2026"
+    ]
+  },
+  "carpetas": {
+    "bibliotecas": [
+      {
+        "id": "bib-compartido",
+        "nombre": "compartido - Documentos",
+        "ruta": "OneDrive > Lo Romero Legal > compartido - Documentos",
+        "hijos": [
+          {
+            "id": "dir-datos-adjuntos",
+            "nombre": "Datos adjuntos de correo electrónico",
+            "hijos": []
+          },
+          {
+            "id": "dir-docs-juicio",
+            "nombre": "docs juicio Financiera Costa Azahar",
+            "hijos": []
+          },
+          {
+            "id": "dir-escritos",
+            "nombre": "Escritos",
+            "hijos": []
+          },
+          {
+            "id": "dir-escritos-revision",
+            "nombre": "ESCRITOS PARA REVISION",
+            "hijos": []
+          },
+          {
+            "id": "dir-expedientes-compartido",
+            "nombre": "Expedientes",
+            "hijos": []
+          },
+          {
+            "id": "dir-guias-honorarios",
+            "nombre": "Guías Honorarios",
+            "hijos": []
+          },
+          {
+            "id": "dir-despacho",
+            "nombre": "Lo Romero Legal",
+            "hijos": []
+          },
+          {
+            "id": "dir-nubeprint",
+            "nombre": "nubeprint",
+            "hijos": []
+          },
+          {
+            "id": "dir-plantillas",
+            "nombre": "Plantillas",
+            "hijos": [
+              {
+                "nombre": "Burofax reclamación.docx",
+                "tipo": "archivo"
+              },
+              {
+                "nombre": "Escrito de juzgado (modelo).docx",
+                "tipo": "archivo"
+              },
+              {
+                "nombre": "Oposición (modelo vacío).docx",
+                "tipo": "archivo"
+              }
+            ]
+          },
+          {
+            "id": "dir-poderes",
+            "nombre": "Poderes",
+            "hijos": []
+          }
+        ]
+      },
+      {
+        "id": "bib-murcia",
+        "nombre": "Murcia - Documentos",
+        "ruta": "OneDrive > Lo Romero Legal > Murcia - Documentos",
+        "hijos": [
+          {
+            "id": "dir-clientes-igualados",
+            "nombre": "clientes igualados",
+            "hijos": []
+          },
+          {
+            "id": "dir-compraventas",
+            "nombre": "COMPRAVENTAS",
+            "hijos": [
+              {
+                "nombre": "Solmar Agencia",
+                "hijos": [
+                  {
+                    "nombre": "019-2025 Petersen Jonas",
+                    "hijos": []
+                  },
+                  {
+                    "nombre": "089-2026 Navarro Brunet",
+                    "hijos": []
+                  },
+                  {
+                    "nombre": "099-2026 Kowalski Dorota",
+                    "hijos": []
+                  },
+                  {
+                    "nombre": "101-2026 Benítez y Ferrández",
+                    "hijos": []
+                  },
+                  {
+                    "nombre": "109-2026 Vermeulen Ruud",
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "nombre": "Costa Norte Realty",
+                "hijos": [
+                  {
+                    "nombre": "092-2026 Thompson Harris",
+                    "hijos": []
+                  },
+                  {
+                    "nombre": "104-2026 Lindqvist Erika",
+                    "hijos": []
+                  },
+                  {
+                    "nombre": "105-2026 Renaud Philippe",
+                    "hijos": []
+                  },
+                  {
+                    "nombre": "111-2026 Ferri Gianluca",
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "dir-control-cv",
+            "nombre": "Control Compra-Ventas",
+            "hijos": []
+          },
+          {
+            "id": "dir-expedientes",
+            "nombre": "EXPEDIENTES",
+            "hijos": [
+              {
+                "id": "dir-exp-021-2025",
+                "nombre": "021-2025 INMOBILIARIA SIERRA BLANCA SL",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-031-2025",
+                "nombre": "031-2025 OLGA FENOLL RUIZ",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-045-2025",
+                "nombre": "045-2025 con TERESA LAX Y GONZALO LAX",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-066-2025",
+                "nombre": "066-2025 DOLORES CAMPILLO AYALA",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-064-2026",
+                "nombre": "064-2026 FERRER",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-071-2026",
+                "nombre": "071-2026 DOS PALMERAS HOSTELERÍA SL",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-088-2026",
+                "nombre": "088-2026 VIDAL ORTUÑO",
+                "archivos": [
+                  "Cedula emplazamiento 250.1.4.pdf",
+                  "OPOSICION DEMANDA.docx"
+                ],
+                "hijos": [
+                  {
+                    "nombre": "Resoluciones (propuesta de Lola)",
+                    "tipo": "carpeta",
+                    "propuesta": true,
+                    "hijos": []
+                  }
+                ]
+              },
+              {
+                "id": "dir-exp-089-2026",
+                "nombre": "089-2026 NAVARRO BRUNET",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-090-2026",
+                "nombre": "090-2026 HOFFMANN & VAN DER BERG SL",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-091-2026",
+                "nombre": "091-2026 LOS BALCONES DE LA CALA",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-092-2026",
+                "nombre": "092-2026 THOMPSON HARRIS",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-093-2026",
+                "nombre": "093-2026 ESTEVE CONCURSO",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-094-2026",
+                "nombre": "094-2026 con IRENE SALA Y MARCOS IBÁÑEZ",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-095-2026",
+                "nombre": "095-2026 TOMÁS REQUENA AROCA",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-096-2026",
+                "nombre": "096-2026 PASEO LAS SALINAS SL",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-097-2026",
+                "nombre": "097-2026 PROMOCIONES SALINAS DOS SL",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-098-2026",
+                "nombre": "098-2026 GERTRUDIS MORA PASTOR",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-099-2026",
+                "nombre": "099-2026 KOWALSKI DOROTA",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-100-2026",
+                "nombre": "100-2026 ARMAS VIVES",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-101-2026",
+                "nombre": "101-2026 con LUCÍA BENÍTEZ Y HUGO FERRÁNDEZ",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-102-2026",
+                "nombre": "102-2026 CLÍNICA DENTAL MAR MENOR SL",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-103-2026",
+                "nombre": "103-2026 PEREIRA CARDONA",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-104-2026",
+                "nombre": "104-2026 LINDQVIST ERIKA",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-105-2026",
+                "nombre": "105-2026 RENAUD PHILIPPE",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-106-2026",
+                "nombre": "106-2026 NIEVES CALATAYUD PEÑALVER",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-108-2026",
+                "nombre": "108-2026 QUESADA HERRERO enviada por Carmelo Vera",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-109-2026",
+                "nombre": "109-2026 VERMEULEN RUUD",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-110-2026",
+                "nombre": "110-2026 JUAN CARLOS MACIÁ RUIZ",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-111-2026",
+                "nombre": "111-2026 FERRI GIANLUCA",
+                "hijos": []
+              },
+              {
+                "id": "dir-finalizados-propuesta",
+                "nombre": "FINALIZADOS (propuesta de Lola, no existe hoy)",
+                "propuesta": true,
+                "hijos": [
+                  {
+                    "id": "dir-exp-019-2025",
+                    "nombre": "019-2025 PETERSEN JONAS",
+                    "archivos": [
+                      "Escritura firmada.pdf"
+                    ],
+                    "hijos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "dir-marca",
+            "nombre": "Marca demo (ficticia)",
+            "hijos": []
+          },
+          {
+            "id": "dir-licencias",
+            "nombre": "Licencias Turisticas",
+            "hijos": [
+              {
+                "nombre": "021-2025 INMOBILIARIA SIERRA BLANCA SL",
+                "hijos": []
+              },
+              {
+                "nombre": "090-2026 HOFFMANN & VAN DER BERG SL",
+                "hijos": []
+              },
+              {
+                "nombre": "096-2026 PASEO LAS SALINAS SL",
+                "hijos": []
+              },
+              {
+                "nombre": "103-2026 PEREIRA CARDONA",
+                "hijos": []
+              }
+            ]
+          },
+          {
+            "nombre": "Contrato marco (Word)",
+            "tipo": "archivo"
+          }
+        ]
+      }
+    ]
+  },
+  "escenas": {
+    "escena_1": {
+      "hora": "07:00",
+      "ids": {
+        "correos": [
+          "mail-001"
+        ],
+        "expedientes": [
+          "exp-088-2026"
+        ],
+        "plazos": [
+          "plazo-01",
+          "plazo-02",
+          "plazo-03",
+          "plazo-04",
+          "plazo-05"
+        ],
+        "todo_saco": [
+          "saco-01",
+          "saco-02",
+          "saco-03",
+          "saco-04",
+          "saco-05",
+          "saco-06",
+          "saco-07",
+          "saco-08",
+          "saco-09",
+          "saco-10",
+          "saco-11",
+          "saco-12",
+          "saco-13",
+          "saco-14",
+          "saco-15",
+          "saco-16",
+          "saco-17",
+          "saco-18",
+          "saco-19",
+          "saco-20",
+          "saco-21",
+          "saco-22"
+        ],
+        "todo_lola": [
+          "lola-01",
+          "lola-02",
+          "lola-03",
+          "lola-04",
+          "lola-05",
+          "lola-06",
+          "lola-07",
+          "lola-08",
+          "lola-09",
+          "lola-10",
+          "lola-11",
+          "lola-12",
+          "lola-13",
+          "lola-14",
+          "lola-15",
+          "lola-16",
+          "lola-17",
+          "lola-18",
+          "lola-19",
+          "lola-20",
+          "lola-21",
+          "lola-22"
+        ],
+        "carpetas": [
+          "dir-expedientes",
+          "dir-exp-088-2026"
+        ]
+      }
+    },
+    "escena_2": {
+      "hora": "09:30",
+      "ids": {
+        "correos": [],
+        "expedientes": [
+          "exp-071-2026"
+        ],
+        "plazos": [
+          "plazo-01",
+          "plazo-02",
+          "plazo-03",
+          "plazo-04",
+          "plazo-05"
+        ],
+        "todo_saco": [],
+        "todo_lola": [],
+        "carpetas": []
+      },
+      "elementos_nuevos": {
+        "todo_nueva": {
+          "id": "todo-nueva-coche-01",
+          "accion": "Llamar a la técnica por lo del ingeniero",
+          "fecha": "2026-11-04",
+          "recordatorio": "09:00",
+          "expediente": "071-2026",
+          "nota_voz": "audio y texto"
+        },
+        "lo_que_dice_lola": "Apuntado: llamar a la técnica por lo del ingeniero, en el expediente 071-2026. ¿Te lo recuerdo a las 9?"
+      }
+    },
+    "escena_3": {
+      "hora": "11:00",
+      "ids": {
+        "correos": [
+          "mail-025"
+        ],
+        "expedientes": [
+          "exp-064-2026"
+        ],
+        "llamadas": [
+          "llam-04",
+          "llam-05"
+        ],
+        "plazos": [],
+        "todo_saco": [
+          "saco-10"
+        ],
+        "todo_lola": [
+          "lola-10"
+        ],
+        "carpetas": []
+      }
+    },
+    "escena_4": {
+      "hora": "13:30",
+      "ids": {
+        "correos": [
+          "mail-014",
+          "mail-015"
+        ],
+        "expedientes": [
+          "exp-088-2026",
+          "exp-019-2025"
+        ],
+        "plazos": [
+          "plazo-04"
+        ],
+        "todo_saco": [
+          "saco-02"
+        ],
+        "todo_lola": [
+          "lola-02"
+        ],
+        "llamadas": [
+          "llam-03"
+        ],
+        "carpetas": [
+          "dir-exp-088-2026",
+          "dir-finalizados-propuesta"
+        ]
+      }
+    },
+    "escena_5": {
+      "hora": "lunes (parte)",
+      "ids": {
+        "correos": [],
+        "expedientes": [
+          "exp-064-2026",
+          "exp-101-2026",
+          "exp-093-2026",
+          "exp-099-2026"
+        ],
+        "plazos": [
+          "plazo-02",
+          "plazo-03",
+          "plazo-05"
+        ],
+        "todo_saco": [],
+        "todo_lola": [],
+        "carpetas": []
+      },
+      "parte": "parte_lunes"
+    }
+  }
+}
