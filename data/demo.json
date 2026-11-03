@@ -158,10 +158,10 @@
       "parado_dias": 1
     },
     {
-      "id": "exp-088-2026",
-      "numero": "088-2026",
+      "id": "exp-091-2026",
+      "numero": "091-2026",
       "numero_juzgado": "312/2026",
-      "caratula": "088-2026 VIDAL ORTUÑO",
+      "caratula": "091-2026 VIDAL ORTUÑO",
       "cliente": "Mariano Vidal Ortuño",
       "contraparte": "Financiera Costa Azahar SA",
       "materia": "Reclamación bancaria: intereses de demora (juicio verbal)",
@@ -179,7 +179,7 @@
         "notaria_u_otra_parte": "Financiera Costa Azahar SA"
       },
       "telefono_ficha": "+34 611 000 905",
-      "carpeta": "dir-exp-088-2026",
+      "carpeta": "dir-exp-091-2026",
       "ultimo_movimiento": "2026-11-04",
       "parado_dias": 0
     },
@@ -188,7 +188,7 @@
       "numero": "089-2026",
       "caratula": "089-2026 NAVARRO BRUNET",
       "cliente": "Rocío Navarro Brunet (vendedora)",
-      "contraparte": "Ulrich Brandt (comprador, alemán)",
+      "contraparte": "Comprador alemán (a través de Solmar Agencia)",
       "materia": "Compraventa a no residente",
       "agente": "Solmar Agencia",
       "estado": "Escritura: pendiente de fecha en notaría",
@@ -233,9 +233,9 @@
       "parado_dias": 7
     },
     {
-      "id": "exp-091-2026",
-      "numero": "091-2026",
-      "caratula": "091-2026 LOS BALCONES DE LA CALA",
+      "id": "exp-088-2026",
+      "numero": "088-2026",
+      "caratula": "088-2026 LOS BALCONES DE LA CALA",
       "cliente": "Promotora Azul Levante SL",
       "contraparte": "Ayuntamiento de Torrevieja",
       "materia": "Primera ocupación (14 viviendas)",
@@ -252,7 +252,7 @@
         "notaria_u_otra_parte": "Ayuntamiento de Torrevieja"
       },
       "telefono_ficha": "+34 677 000 533",
-      "carpeta": "dir-exp-091-2026",
+      "carpeta": "dir-exp-088-2026",
       "ultimo_movimiento": "2026-11-02",
       "parado_dias": 2
     },
@@ -292,8 +292,8 @@
       "juzgado_o_notaria": "Juzgado de lo Mercantil n.º 1 de Alicante",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-18",
-        "descripcion": "Informe de la administración concursal"
+        "fecha": "2026-11-09",
+        "descripcion": "Alegar sobre el informe de la administración concursal"
       },
       "minuta": "pendiente de cobro",
       "verificacion": {
@@ -309,26 +309,26 @@
     {
       "id": "exp-094-2026",
       "numero": "094-2026",
-      "caratula": "094-2026 con IRENE SALA Y MARCOS IBÁÑEZ",
-      "cliente": "Emilia Ródenas Cano (arrendadora)",
-      "contraparte": "Irene Sala y Marcos Ibáñez (arrendatarios)",
-      "materia": "Desahucio por falta de pago (LAU)",
-      "estado": "Demanda admitida · audiencia fijada",
-      "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 3 de Torrevieja",
-      "procurador": "Lucía Ballester",
+      "caratula": "094-2026 OLIVARES SERRANO MARTA",
+      "cliente": "Marta Olivares Serrano",
+      "contraparte": null,
+      "materia": "Compraventa de vivienda (cliente nuevo)",
+      "estado": "Presupuesto y hoja de encargo preparados · pendientes del OK",
+      "juzgado_o_notaria": "Por fijar (notaría)",
+      "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-12",
-        "descripcion": "Audiencia en el juzgado (desahucio)"
+        "fecha": "2026-11-05",
+        "descripcion": "Revisar el presupuesto y la hoja de encargo"
       },
       "verificacion": {
-        "dni_ultimos_tres_y_letra": "296R",
-        "calle_inmueble": "Calle de los Pinos 9, 2.º, Torrevieja",
-        "notaria_u_otra_parte": "Irene Sala y Marcos Ibáñez"
+        "dni_ultimos_tres_y_letra": "413K",
+        "calle_inmueble": "Pendiente de fijar (compraventa)",
+        "notaria_u_otra_parte": "Por fijar"
       },
-      "telefono_ficha": "+34 666 000 384",
+      "telefono_ficha": "+34 644 000 512",
       "carpeta": "dir-exp-094-2026",
-      "ultimo_movimiento": "2026-10-29",
-      "parado_dias": 6
+      "ultimo_movimiento": "2026-11-04",
+      "parado_dias": 0
     },
     {
       "id": "exp-095-2026",
@@ -625,6 +625,30 @@
       "parado_dias": 0
     },
     {
+      "id": "exp-107-2026",
+      "numero": "107-2026",
+      "caratula": "107-2026 con IRENE SALA Y MARCOS IBÁÑEZ",
+      "cliente": "Emilia Ródenas Cano (arrendadora)",
+      "contraparte": "Irene Sala y Marcos Ibáñez (arrendatarios)",
+      "materia": "Desahucio por falta de pago (LAU)",
+      "estado": "Demanda admitida · audiencia fijada",
+      "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 3 de Torrevieja",
+      "procurador": "Lucía Ballester",
+      "proximo_plazo": {
+        "fecha": "2026-11-12",
+        "descripcion": "Audiencia en el juzgado (desahucio)"
+      },
+      "verificacion": {
+        "dni_ultimos_tres_y_letra": "296R",
+        "calle_inmueble": "Calle de los Pinos 9, 2.º, Torrevieja",
+        "notaria_u_otra_parte": "Irene Sala y Marcos Ibáñez"
+      },
+      "telefono_ficha": "+34 666 000 384",
+      "carpeta": "dir-exp-107-2026",
+      "ultimo_movimiento": "2026-10-29",
+      "parado_dias": 6
+    },
+    {
       "id": "exp-108-2026",
       "numero": "108-2026",
       "caratula": "108-2026 QUESADA HERRERO enviada por Carmelo Vera",
@@ -753,8 +777,8 @@
       "fecha": "2026-11-04",
       "hora": "07:00",
       "remitente": "Oficina judicial · Juzgado n.º 4 de Torrevieja",
-      "asunto": "Notificación Expediente 312/2026",
-      "expediente": "088-2026",
+      "asunto": "Notificación Expediente 091/2026",
+      "expediente": "091-2026",
       "adjunto": "Cedula emplazamiento 250.1.4.pdf",
       "anclado": false,
       "ruido": false,
@@ -813,7 +837,7 @@
       "fecha": "2026-11-02",
       "hora": "17:40",
       "remitente": "Solmar Agencia",
-      "asunto": "Compraventa Navarro Brandt · fecha de firma",
+      "asunto": "Compraventa Navarro Brunet · fecha de firma",
       "expediente": "089-2026",
       "adjunto": null,
       "anclado": true,
@@ -909,8 +933,8 @@
       "fecha": "2026-10-27",
       "hora": "17:00",
       "remitente": "Financiera Costa Azahar SA · Departamento legal",
-      "asunto": "Burofax Exp. 088/2026 · respuesta",
-      "expediente": "088-2026",
+      "asunto": "Burofax Exp. 091/2026 · respuesta",
+      "expediente": "091-2026",
       "adjunto": "Burofax respuesta.pdf",
       "anclado": true,
       "ruido": false,
@@ -921,8 +945,8 @@
       "fecha": "2026-10-27",
       "hora": "12:00",
       "remitente": "Procurador Ramón Llopis",
-      "asunto": "Exp. 088/2026 Vidal · traslado de demanda",
-      "expediente": "088-2026",
+      "asunto": "Exp. 091/2026 Vidal · traslado de demanda",
+      "expediente": "091-2026",
       "adjunto": "Demanda (copia).pdf",
       "anclado": true,
       "ruido": false,
@@ -1064,7 +1088,7 @@
     },
     {
       "id": "saco-03",
-      "titulo": "demanda Navarro y Brandt",
+      "titulo": "demanda Navarro y Brunet",
       "vencimiento": null,
       "importante": false
     },
@@ -1185,158 +1209,188 @@
   ],
   "todo_lola": [
     {
+      "id": "lola-00",
+      "id_origen": "saco-02",
+      "accion": "Contestar la demanda de Vidal (Juicio verbal 312/2026): revisar el escrito y presentarlo",
+      "fecha": "2026-11-05",
+      "expediente": "091-2026",
+      "origen": "correo:0001"
+    },
+    {
       "id": "lola-01",
       "id_origen": "saco-01",
-      "accion": "Llamar a Mariano Vidal: confirmar que tiene la cédula",
-      "fecha": "2026-11-05",
-      "expediente": "088-2026"
+      "accion": "Llamar a Mariano Vidal: confirmar que tiene la cédula y validar el reconocimiento del capital",
+      "fecha": "2026-11-04",
+      "expediente": "091-2026",
+      "origen": "llamada:3"
     },
     {
       "id": "lola-02",
-      "id_origen": "saco-02",
-      "accion": "Contestar la demanda: borrador revisado por los dos consejeros",
-      "fecha": "2026-11-05",
-      "expediente": "088-2026"
+      "id_origen": "saco-03",
+      "accion": "Navarro Brunet: confirmar a Solmar la fecha de firma del 12 de noviembre",
+      "fecha": "2026-11-06",
+      "expediente": "089-2026",
+      "origen": "correo:0006"
     },
     {
       "id": "lola-03",
-      "id_origen": "saco-03",
-      "accion": "Firma de compraventa Navarro-Brandt en notaría",
-      "fecha": "2026-11-12",
-      "expediente": "089-2026"
+      "id_origen": "saco-04",
+      "accion": "Burofax a Financiera Costa Azahar: contestar su respuesta",
+      "fecha": "2026-11-06",
+      "expediente": "091-2026",
+      "origen": "correo:0014"
     },
     {
       "id": "lola-04",
-      "id_origen": "saco-04",
-      "accion": "Burofax a Financiera Costa Azahar: respuesta pendiente",
-      "fecha": "2026-11-06",
-      "expediente": "088-2026"
-    },
-    {
-      "id": "lola-05",
       "id_origen": "saco-05",
       "accion": "Responder a Dorota Kowalska sobre la fecha de firma",
       "fecha": "2026-11-06",
-      "expediente": "099-2026"
+      "expediente": "099-2026",
+      "origen": "correo:0009"
+    },
+    {
+      "id": "lola-05",
+      "id_origen": "saco-06",
+      "accion": "Pedir a la notaría la cancelación de las dos cargas pendientes",
+      "fecha": "2026-11-05",
+      "expediente": "099-2026",
+      "origen": "correo:0005"
     },
     {
       "id": "lola-06",
-      "id_origen": "saco-06",
-      "accion": "Revisar las cargas reenviadas y pedir nota simple a la notaría",
-      "fecha": "2026-11-05",
-      "expediente": "099-2026"
-    },
-    {
-      "id": "lola-07",
       "id_origen": "saco-07",
       "accion": "Contestar a Lisa Harris: estado de la cuenta bancaria",
       "fecha": "2026-11-09",
-      "expediente": "092-2026"
+      "expediente": "092-2026",
+      "origen": "correo:0004"
     },
     {
-      "id": "lola-08",
+      "id": "lola-07",
       "id_origen": "saco-08",
       "accion": "Transferir las arras de Thompson Harris (10 %)",
       "fecha": "2026-11-10",
-      "expediente": "092-2026"
+      "expediente": "092-2026",
+      "origen": "correo:0043"
+    },
+    {
+      "id": "lola-08",
+      "id_origen": "saco-09",
+      "accion": "Hoffmann: enviar la lista de documentos de la licencia turística",
+      "fecha": "2026-11-10",
+      "expediente": "090-2026",
+      "origen": "correo:0013"
     },
     {
       "id": "lola-09",
-      "id_origen": "saco-09",
-      "accion": "Subsanar la documentación de la licencia turística",
-      "fecha": "2026-11-10",
-      "expediente": "090-2026"
+      "id_origen": "saco-10",
+      "accion": "Reclamar al perito el informe de humedades",
+      "fecha": "2026-11-04",
+      "expediente": "064-2026",
+      "origen": "correo:0002"
     },
     {
       "id": "lola-10",
-      "id_origen": "saco-10",
-      "accion": "Reclamar a Joaquín Sanz el informe de humedades",
-      "fecha": "2026-11-04",
-      "expediente": "064-2026"
+      "id_origen": "saco-11",
+      "accion": "Revisar con la técnica el informe del restaurante",
+      "fecha": "2026-11-12",
+      "expediente": "071-2026",
+      "origen": "correo:0003"
     },
     {
       "id": "lola-11",
-      "id_origen": "saco-11",
-      "accion": "Revisar con la técnica el informe del ingeniero",
-      "fecha": "2026-11-12",
-      "expediente": "071-2026"
-    },
-    {
-      "id": "lola-12",
       "id_origen": "saco-12",
       "accion": "Reunión con Carmelo Vera por la herencia Quesada",
       "fecha": "2026-11-27",
-      "expediente": "108-2026"
+      "expediente": "108-2026",
+      "origen": "correo:0019"
     },
     {
-      "id": "lola-13",
+      "id": "lola-12",
       "id_origen": "saco-13",
       "accion": "Firma de compraventa Vermeulen",
       "fecha": "2026-11-13",
-      "expediente": "109-2026"
+      "expediente": "109-2026",
+      "origen": "correo:0012"
+    },
+    {
+      "id": "lola-13",
+      "id_origen": "saco-14",
+      "accion": "Reclamar la cuota de costas de Campillo",
+      "fecha": "2026-11-25",
+      "expediente": "066-2025",
+      "origen": "correo:0044"
     },
     {
       "id": "lola-14",
-      "id_origen": "saco-14",
-      "accion": "Reclamar la cuota de costas",
-      "fecha": "2026-11-25",
-      "expediente": "066-2025"
-    },
-    {
-      "id": "lola-15",
       "id_origen": "saco-15",
       "accion": "Pedir cita en notaría para Ferri",
       "fecha": "2026-12-01",
-      "expediente": "111-2026"
+      "expediente": "111-2026",
+      "origen": "llamada:5"
+    },
+    {
+      "id": "lola-15",
+      "id_origen": "saco-16",
+      "accion": "Calatayud: contestar el requerimiento de desahucio",
+      "fecha": "2026-11-11",
+      "expediente": "106-2026",
+      "origen": "correo:0017"
     },
     {
       "id": "lola-16",
-      "id_origen": "saco-16",
-      "accion": "Contestar el requerimiento de desahucio",
-      "fecha": "2026-11-11",
-      "expediente": "106-2026"
+      "id_origen": "saco-17",
+      "accion": "Presentar la demanda de posesión del local de Maciá",
+      "fecha": "2026-11-20",
+      "expediente": "110-2026",
+      "origen": "llamada:6"
     },
     {
       "id": "lola-17",
-      "id_origen": "saco-17",
-      "accion": "Presentar la demanda de posesión del local",
-      "fecha": "2026-11-20",
-      "expediente": "110-2026"
+      "id_origen": "saco-18",
+      "accion": "Esteve: alegar sobre el informe de la administración concursal",
+      "fecha": "2026-11-09",
+      "expediente": "093-2026",
+      "origen": "correo:0008"
     },
     {
       "id": "lola-18",
-      "id_origen": "saco-18",
-      "accion": "Seguir el informe de la administración concursal (Esteve)",
-      "fecha": "2026-11-18",
-      "expediente": "093-2026"
+      "id_origen": "saco-19",
+      "accion": "Armas Vives: revisar la contestación de la entidad por gastos de hipoteca",
+      "fecha": "2026-11-12",
+      "expediente": "100-2026",
+      "origen": "correo:0020"
     },
     {
       "id": "lola-19",
-      "id_origen": "saco-19",
-      "accion": "Revisar la contestación de la entidad por gastos de hipoteca",
-      "fecha": "2026-11-12",
-      "expediente": "100-2026"
+      "id_origen": "saco-20",
+      "accion": "Benítez y Ferrández: pedir a la notaría respuesta sobre cargas",
+      "fecha": "2026-11-06",
+      "expediente": "101-2026",
+      "origen": "llamada:7"
     },
     {
       "id": "lola-20",
-      "id_origen": "saco-20",
-      "accion": "Pedir a la notaría la respuesta sobre cargas (Benítez y Ferrández)",
-      "fecha": "2026-11-06",
-      "expediente": "101-2026"
-    },
-    {
-      "id": "lola-21",
       "id_origen": "saco-21",
       "accion": "Fijar cita de firma para Renaud",
       "fecha": "2026-11-09",
-      "expediente": "105-2026"
+      "expediente": "105-2026",
+      "origen": "correo:0016"
     },
     {
-      "id": "lola-22",
+      "id": "lola-21",
       "id_origen": "saco-22",
       "accion": "Firma de escritura de Lindqvist",
       "fecha": "2026-11-25",
-      "expediente": "104-2026"
+      "expediente": "104-2026",
+      "origen": "correo:0021"
+    },
+    {
+      "id": "lola-22",
+      "id_origen": null,
+      "accion": "Preparar presupuesto y hoja de encargo de Marta Olivares (compraventa)",
+      "fecha": "2026-11-05",
+      "expediente": "094-2026",
+      "origen": "llamada:9"
     }
   ],
   "llamadas_hoy": [
@@ -1367,20 +1421,64 @@
       "hora": "09:05",
       "nombre": "Procuradora Lucía Ballester",
       "verificado": true,
-      "expediente": "088-2026",
+      "expediente": "091-2026",
       "motivo": "Confirma el número de juzgado de la cédula",
       "resultado": "Recado: procedimiento 312/2026 confirmado",
       "en_directo": false,
       "estado": "atendida"
     },
     {
+      "id": "llam-05",
+      "hora": "09:25",
+      "nombre": "Gianluca Ferri",
+      "verificado": true,
+      "expediente": "111-2026",
+      "motivo": "Quiere fijar la firma en notaría",
+      "resultado": "Lola anota pedir cita en notaría; queda en tu lista",
+      "en_directo": false,
+      "estado": "atendida"
+    },
+    {
+      "id": "llam-06",
+      "hora": "09:45",
+      "nombre": "Juan Carlos Maciá Ruiz",
+      "verificado": true,
+      "expediente": "110-2026",
+      "motivo": "Pregunta cuándo se presenta la demanda de posesión del local",
+      "resultado": "Lola anota presentarla antes del 20 de noviembre; queda en tu lista",
+      "en_directo": false,
+      "estado": "atendida"
+    },
+    {
       "id": "llam-07",
+      "hora": "10:05",
+      "nombre": "Lucía Benítez",
+      "verificado": true,
+      "expediente": "101-2026",
+      "motivo": "Pregunta por la respuesta de la notaría sobre las cargas",
+      "resultado": "Lola anota pedir a la notaría la respuesta antes del viernes 6",
+      "en_directo": false,
+      "estado": "atendida"
+    },
+    {
+      "id": "llam-12",
       "hora": "10:20",
       "nombre": "Sergio Ruiz Llopart",
       "verificado": false,
       "expediente": "031-2025",
       "motivo": "Pregunta cuando es el lanzamiento y si puede retirar sus cosas",
       "resultado": "perdida - Lola devolvio la llamada",
+      "en_directo": false,
+      "estado": "atendida"
+    },
+    {
+      "id": "llam-09",
+      "hora": "10:45",
+      "nombre": "Marta Olivares Serrano",
+      "verificado": false,
+      "expediente": "094-2026",
+      "motivo": "Cliente nueva: quiere comprar una vivienda y pide presupuesto",
+      "resultado": "Lola le abre expediente y prepara presupuesto y hoja de encargo; nada sale sin tu OK",
       "en_directo": false,
       "estado": "atendida"
     },
@@ -1396,7 +1494,7 @@
       "estado": "atendida"
     },
     {
-      "id": "llam-05",
+      "id": "llam-10",
       "hora": "11:20",
       "nombre": "Número no registrado",
       "verificado": false,
@@ -1407,12 +1505,12 @@
       "estado": "perdida"
     },
     {
-      "id": "llam-06",
+      "id": "llam-11",
       "hora": "12:15",
-      "nombre": "Ulrich Brandt",
+      "nombre": "Rocío Navarro Brunet",
       "verificado": true,
       "expediente": "089-2026",
-      "motivo": "Confirmar la cita de firma",
+      "motivo": "Confirmar la cita de firma de su compraventa",
       "resultado": "Firma confirmada: jueves 12-nov a las 10:30",
       "en_directo": false,
       "estado": "atendida"
@@ -1451,13 +1549,13 @@
     {
       "id": "plazo-04",
       "fecha": "2026-11-05",
-      "expediente": "088-2026",
+      "expediente": "091-2026",
       "descripcion": "Contestar la demanda (oposición)"
     },
     {
       "id": "plazo-05",
       "fecha": "2026-11-12",
-      "expediente": "094-2026",
+      "expediente": "107-2026",
       "descripcion": "Audiencia en el juzgado (desahucio)"
     }
   ],
@@ -1656,8 +1754,8 @@
                 "hijos": []
               },
               {
-                "id": "dir-exp-088-2026",
-                "nombre": "088-2026 VIDAL ORTUÑO",
+                "id": "dir-exp-091-2026",
+                "nombre": "091-2026 VIDAL ORTUÑO",
                 "archivos": [
                   "Cedula emplazamiento 250.1.4.pdf",
                   "OPOSICION DEMANDA.docx"
@@ -1682,8 +1780,8 @@
                 "hijos": []
               },
               {
-                "id": "dir-exp-091-2026",
-                "nombre": "091-2026 LOS BALCONES DE LA CALA",
+                "id": "dir-exp-088-2026",
+                "nombre": "088-2026 LOS BALCONES DE LA CALA",
                 "hijos": []
               },
               {
@@ -1698,7 +1796,7 @@
               },
               {
                 "id": "dir-exp-094-2026",
-                "nombre": "094-2026 con IRENE SALA Y MARCOS IBÁÑEZ",
+                "nombre": "094-2026 OLIVARES SERRANO MARTA",
                 "hijos": []
               },
               {
@@ -1759,6 +1857,11 @@
               {
                 "id": "dir-exp-106-2026",
                 "nombre": "106-2026 NIEVES CALATAYUD PEÑALVER",
+                "hijos": []
+              },
+              {
+                "id": "dir-exp-107-2026",
+                "nombre": "107-2026 con IRENE SALA Y MARCOS IBÁÑEZ",
                 "hijos": []
               },
               {
@@ -1841,7 +1944,7 @@
           "mail-001"
         ],
         "expedientes": [
-          "exp-088-2026"
+          "exp-091-2026"
         ],
         "plazos": [
           "plazo-01",
@@ -1875,6 +1978,7 @@
           "saco-22"
         ],
         "todo_lola": [
+          "lola-00",
           "lola-01",
           "lola-02",
           "lola-03",
@@ -1895,12 +1999,11 @@
           "lola-18",
           "lola-19",
           "lola-20",
-          "lola-21",
-          "lola-22"
+          "lola-21"
         ],
         "carpetas": [
           "dir-expedientes",
-          "dir-exp-088-2026"
+          "dir-exp-091-2026"
         ]
       }
     },
@@ -1945,14 +2048,14 @@
         ],
         "llamadas": [
           "llam-04",
-          "llam-05"
+          "llam-10"
         ],
         "plazos": [],
         "todo_saco": [
           "saco-10"
         ],
         "todo_lola": [
-          "lola-10"
+          "lola-09"
         ],
         "carpetas": []
       }
@@ -1965,7 +2068,7 @@
           "mail-015"
         ],
         "expedientes": [
-          "exp-088-2026",
+          "exp-091-2026",
           "exp-019-2025"
         ],
         "plazos": [
@@ -1975,13 +2078,13 @@
           "saco-02"
         ],
         "todo_lola": [
-          "lola-02"
+          "lola-00"
         ],
         "llamadas": [
           "llam-03"
         ],
         "carpetas": [
-          "dir-exp-088-2026",
+          "dir-exp-091-2026",
           "dir-finalizados-propuesta"
         ]
       }

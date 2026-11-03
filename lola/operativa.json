@@ -123,7 +123,7 @@
    "titulo": "Decides, de voz o con un botón",
    "voz": "Acepto lo que recomiendas y añade la sentencia de la Audiencia",
    "boton": "Acepto lo que recomiendas",
-   "lola_dice": "Hecho. He rellenado el documento 4, concretado las costas y añadido la sentencia de la Audiencia. Aquí tienes la versión final.",
+   "lola_dice": "Hecho. He rellenado el documento 4, concretado las costas y añadido la sentencia de la Audiencia. Aquí tienes la versión final, y te he dejado ya en Borradores el correo a la procuradora con ella adjunta.",
    "acciones": [
     {
      "tipo": "crea_archivo",
@@ -132,6 +132,11 @@
     {
      "tipo": "abre_visor",
      "archivo": "fs/_real/091-2026/OPOSICION DEMANDA (final).docx"
+    },
+    {
+     "tipo": "crea_borrador_correo",
+     "correo": "0048",
+     "adjunto": "fs/_real/091-2026/OPOSICION DEMANDA (final).docx"
     }
    ],
    "cambios": [
@@ -143,6 +148,9 @@
    "aparece": {
     "archivos": [
      "fs/_real/091-2026/OPOSICION DEMANDA (final).docx"
+    ],
+    "correos": [
+     "0048"
     ]
    }
   },
@@ -153,13 +161,8 @@
    "correo": "0048",
    "boton": "Envíalo",
    "voz": "Envíalo",
-   "lola_dice": "Tienes el correo listo en Borradores, con la versión final adjunta. Cuando digas «Envíalo», sale hacia la procuradora.",
+   "lola_dice": "El correo a la procuradora, que dejé en Borradores en el paso anterior, está listo con la versión final adjunta. Cuando digas «Envíalo», sale.",
    "acciones": [
-    {
-     "tipo": "crea_borrador_correo",
-     "correo": "0048",
-     "adjunto": "fs/_real/091-2026/OPOSICION DEMANDA (final).docx"
-    },
     {
      "tipo": "envia_correo",
      "correo": "0048",
