@@ -1,0 +1,190 @@
+{
+  "fecha": "2026-11-04",
+  "pasos": [
+    "Entra",
+    "Lo lee",
+    "Lo archiva",
+    "Listo"
+  ],
+  "documentos": [
+    {
+      "id": "b1",
+      "hora": "07:00",
+      "titulo": "Cédula de emplazamiento · demanda de juicio verbal",
+      "de": "Procuradora Lucía (correo)",
+      "tipo": "Cédula judicial",
+      "expediente": "091-2026",
+      "queEs": "Te emplazan para contestar la demanda de Financiera Costa Azahar contra tu cliente Mariano Vidal Ortuño.",
+      "plazo": {
+        "vence": "2026-11-05",
+        "texto": "Jueves 5 de noviembre (10 días hábiles desde el 22 de octubre)"
+      },
+      "archivadoEn": "Murcia - Documentos › EXPEDIENTES › 091-2026 VIDAL ORTUÑO MARIANO",
+      "abrir": {
+        "tipo": "archivo",
+        "nombre": "Cedula emplazamiento 250.1.4.pdf",
+        "expediente": "091-2026",
+        "etiqueta": "Cédula"
+      },
+      "enlaces": [
+        {
+          "tipo": "carpeta",
+          "expediente": "091-2026",
+          "etiqueta": "Carpeta"
+        },
+        {
+          "tipo": "correo",
+          "id": "0001",
+          "etiqueta": "Correo"
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "hora": "07:12",
+      "titulo": "Escrito de la contraria · humedades del local",
+      "de": "Procuradora Lucía (correo)",
+      "tipo": "Escrito de la parte contraria",
+      "expediente": "064-2026",
+      "queEs": "La contraria aporta su informe y pide que se espere al peritaje antes de fijar fecha.",
+      "plazo": null,
+      "archivadoEn": "Murcia - Documentos › EXPEDIENTES › 064-2026 FERRER",
+      "abrir": {
+        "tipo": "correo",
+        "id": "0002",
+        "etiqueta": "Correo"
+      },
+      "enlaces": [
+        {
+          "tipo": "carpeta",
+          "expediente": "064-2026",
+          "etiqueta": "Carpeta"
+        },
+        {
+          "tipo": "archivo",
+          "nombre": "Demanda.pdf",
+          "expediente": "064-2026",
+          "etiqueta": "Demanda"
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "hora": "07:20",
+      "titulo": "Respuesta al burofax · Financiera Costa Azahar",
+      "de": "Financiera Costa Azahar",
+      "tipo": "Respuesta a burofax",
+      "expediente": "091-2026",
+      "queEs": "La financiera rechaza la reclamación y mantiene su cifra. Sirve para la contestación del 091-2026.",
+      "plazo": null,
+      "archivadoEn": "Murcia - Documentos › EXPEDIENTES › 091-2026 VIDAL ORTUÑO MARIANO",
+      "abrir": {
+        "tipo": "correo",
+        "id": "0014",
+        "etiqueta": "Correo"
+      },
+      "enlaces": [
+        {
+          "tipo": "carpeta",
+          "expediente": "091-2026",
+          "etiqueta": "Carpeta"
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "hora": "07:41",
+      "titulo": "Nota simple · inmueble de la compraventa",
+      "de": "Registro de la Propiedad (correo)",
+      "tipo": "Nota simple",
+      "expediente": "099-2026",
+      "queEs": "Confirma las cargas pendientes sobre el inmueble que compra Dorota Kowalska.",
+      "plazo": null,
+      "archivadoEn": "Murcia - Documentos › EXPEDIENTES › 099-2026 KOWALSKI DOROTA",
+      "abrir": {
+        "tipo": "archivo",
+        "nombre": "Nota simple.pdf",
+        "expediente": "099-2026",
+        "etiqueta": "Nota simple"
+      },
+      "enlaces": [
+        {
+          "tipo": "carpeta",
+          "expediente": "099-2026",
+          "etiqueta": "Carpeta"
+        },
+        {
+          "tipo": "correo",
+          "id": "0005",
+          "etiqueta": "Correo"
+        }
+      ]
+    }
+  ],
+  "ruido": [
+    {
+      "id": "0022",
+      "de": "Academia Digital Levante",
+      "asunto": "Webinar: IA para despachos (plazas limitadas)"
+    },
+    {
+      "id": "0025",
+      "de": "Promoción inmobiliaria",
+      "asunto": "Tasación gratuita de su inmueble"
+    },
+    {
+      "id": "0035",
+      "de": "Portal Inmueblia",
+      "asunto": "Nuevos contactos de compradores en su zona"
+    }
+  ],
+  "simulacion": {
+    "id": "sim",
+    "titulo": "Providencia · señalamiento de audiencia previa",
+    "de": "Juzgado de Primera Instancia n.º 4 de Torrevieja (LexNET)",
+    "tipo": "Providencia",
+    "expediente": "064-2026",
+    "queEs": "El juzgado cita a las partes a la audiencia previa del caso de las humedades del local.",
+    "plazo": {
+      "vence": "2026-11-10",
+      "texto": "Martes 10 de noviembre: confirmar la asistencia del perito"
+    },
+    "archivadoEn": "Murcia - Documentos › EXPEDIENTES › 064-2026 FERRER",
+    "tarea": "Confirmar el perito para la audiencia previa (064-2026)",
+    "enlaces": [
+      {
+        "tipo": "carpeta",
+        "expediente": "064-2026",
+        "etiqueta": "Carpeta"
+      }
+    ]
+  },
+  "simulacion2": {
+    "id": "sim2",
+    "titulo": "Respuesta de Rocío Navarro Brunet · fecha de firma",
+    "de": "Rocío Navarro Brunet (correo)",
+    "tipo": "Correo de cliente",
+    "expediente": "089-2026",
+    "queEs": "Tu cliente pide pasar la firma de la compraventa del jueves 12 al viernes 13 por la mañana.",
+    "plazo": null,
+    "archivadoEn": "Murcia - Documentos › EXPEDIENTES › 089-2026 NAVARRO BRUNET",
+    "abrir": {
+      "tipo": "correo",
+      "id": "0200",
+      "etiqueta": "Correo"
+    },
+    "enlaces": [
+      {
+        "tipo": "carpeta",
+        "expediente": "089-2026",
+        "etiqueta": "Carpeta"
+      },
+      {
+        "tipo": "correo",
+        "id": "0200",
+        "etiqueta": "Correo"
+      }
+    ],
+    "cliente": true
+  }
+}

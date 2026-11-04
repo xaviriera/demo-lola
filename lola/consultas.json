@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "nota": "Las respuestas de Claude y Gemini se rellenan con IA real. Mientras estén vacías la interfaz muestra 'Consultando a Claude y Gemini…'.",
+  "consultas": [
+    {
+      "id": "q1",
+      "pregunta": "¿Contestamos el jueves con lo que hay o pedimos antes el contraste de los hechos del contrato?",
+      "tipo": "expediente",
+      "expediente": "091-2026",
+      "estado": "pendiente",
+      "claude": "",
+      "gemini": "",
+      "coinciden": [],
+      "discrepan": [],
+      "recomendacion": "",
+      "fuentes": ["Cedula emplazamiento 250.1.4.pdf", "OPOSICION DEMANDA (borrador Lola).docx"]
+    },
+    {
+      "id": "q2",
+      "pregunta": "¿Conviene demandar ya por las humedades o esperar al informe del perito?",
+      "tipo": "expediente",
+      "expediente": "064-2026",
+      "estado": "pendiente",
+      "claude": "",
+      "gemini": "",
+      "coinciden": [],
+      "discrepan": [],
+      "recomendacion": "",
+      "fuentes": ["Demanda.pdf", "Poder.pdf"]
+    },
+    {
+      "id": "q3",
+      "pregunta": "¿Qué plazo hay para contestar un requerimiento de desahucio por falta de pago?",
+      "tipo": "libre",
+      "expediente": null,
+      "estado": "pendiente",
+      "claude": "",
+      "gemini": "",
+      "coinciden": [],
+      "discrepan": [],
+      "recomendacion": "",
+      "fuentes": []
+    }
+  ]
+}
