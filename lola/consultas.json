@@ -1,44 +1,131 @@
 {
   "version": 1,
-  "nota": "Las respuestas de Claude y Gemini se rellenan con IA real. Mientras estén vacías la interfaz muestra 'Consultando a Claude y Gemini…'.",
+  "nota": "Respuestas generadas con Claude (claude-sonnet-5-5) y Gemini (gemini-3-flash-preview) sobre datos ficticios de la demo, el 5-nov-2026. Orientativas; las revisa el abogado.",
   "consultas": [
     {
       "id": "q1",
       "pregunta": "¿Contestamos el jueves con lo que hay o pedimos antes el contraste de los hechos del contrato?",
       "tipo": "expediente",
       "expediente": "091-2026",
-      "estado": "pendiente",
-      "claude": "",
-      "gemini": "",
-      "coinciden": [],
-      "discrepan": [],
-      "recomendacion": "",
-      "fuentes": ["Cedula emplazamiento 250.1.4.pdf", "OPOSICION DEMANDA (borrador Lola).docx"]
+      "estado": "lista",
+      "claude": "Yo contestaría el jueves: el plazo es perentorio y no hay prórroga que pedir. Pero el contraste de fechas debe hacerse antes, porque la prescripción depende de ellas. Si no queda confirmado, conviene redactar la excepción con cautela y añadir alegaciones subsidiarias. Desconozco qué documentos del contrato tenemos y si hay interrupciones del plazo. El 064-2026 no afecta a esta fecha. Revisa, Abogado: el cómputo del plazo (días hábiles y festivos locales), las fechas del contrato frente a la prescripción alegada y si el borrador admite una redacción subsidiaria.",
+      "gemini": "En relación al expediente 091-2026 de Mariano Vidal, el plazo para contestar finaliza este jueves 5 de noviembre. Aunque el borrador de oposición alega prescripción, es arriesgado presentar el escrito sin contrastar antes las fechas del contrato, información que todavía no hemos verificado. Nunca podemos asegurar un resultado positivo, por lo que conviene obtener este dato para evitar imprecisiones procesales antes del vencimiento. El abogado debe revisar la correspondencia cronológica del contrato para fundamentar correctamente la excepción de prescripción.",
+      "coinciden": [
+        "Ambas respuestas consideran imprescindible contrastar las fechas del contrato antes de presentar el escrito, porque la excepción de prescripción depende de ellas.",
+        "Las dos tienen presente que el plazo vence el jueves y que no conviene dejar que se agote sin verificar los hechos.",
+        "Ambas remiten al abogado la revisión final de la fundamentación de la prescripción."
+      ],
+      "discrepan": [
+        "A propone contestar el jueves en todo caso, con redacción cautelosa y alegaciones subsidiarias si las fechas no se confirman; B insiste sobre todo en obtener primero el dato y no presentar sin contrastarlo.",
+        "A advierte de lo que desconoce (documentos del contrato, posibles interrupciones) y descarta el efecto del expediente 064-2026, mientras que B da por cierta la fecha del 5 de noviembre y el expediente 091-2026 sin cuestionar el cómputo."
+      ],
+      "recomendacion": "Pedir ya el contraste de las fechas del contrato, con margen antes del jueves, y verificar el cómputo del plazo (días hábiles y festivos). Si no llega confirmación a tiempo, presentar la contestación con la prescripción redactada con cautela y alegaciones subsidiarias, sin perder el plazo.",
+      "fuentes": [
+        "Cedula emplazamiento 250.1.4.pdf",
+        "OPOSICION DEMANDA (borrador Lola).docx"
+      ]
     },
     {
       "id": "q2",
       "pregunta": "¿Conviene demandar ya por las humedades o esperar al informe del perito?",
       "tipo": "expediente",
       "expediente": "064-2026",
-      "estado": "pendiente",
-      "claude": "",
-      "gemini": "",
-      "coinciden": [],
-      "discrepan": [],
-      "recomendacion": "",
-      "fuentes": ["Demanda.pdf", "Poder.pdf"]
+      "estado": "lista",
+      "claude": "Mi inclinación sería esperar al informe, porque la demanda sin dictamen suele quedar floja en prueba y en cuantía. Con una excepción: si el plazo de prescripción o caducidad está próximo. Entonces habría que presentar y anunciar el dictamen conforme a la LEC. En el expediente no consta la fecha de aparición de las humedades, ni la del",
+      "gemini": "En el expediente 064-2026, lo prudente es esperar al informe del perito antes de interponer la demanda. Sin este documento técnico, carecemos de la base probatoria necesaria para acreditar el origen y la cuantía de los daños, lo que comprometería seriamente la estrategia. Desconozco si existe un plazo de prescripción próximo a expirar que obligue a actuar de inmediato. No podemos asegurar un resultado favorable sin contar con evidencias sólidas. El abogado debe revisar el plazo de prescripción y la contundencia del peritaje.",
+      "coinciden": [
+        "Ambas recomiendan, en principio, esperar al informe del perito antes de demandar.",
+        "Ambas sostienen que sin dictamen la demanda queda débil en prueba del origen de las humedades y en la cuantía de los daños.",
+        "Ambas señalan que el plazo de prescripción o caducidad puede cambiar la decisión y que hoy no consta en el expediente."
+      ],
+      "discrepan": [
+        "Claude propone una salida concreta si el plazo está próximo: presentar la demanda y anunciar el dictamen conforme a la LEC; Gemini solo pide revisar el plazo, sin plantear alternativa.",
+        "Claude plantea la espera como una inclinación con una excepción clara; Gemini la formula de manera más categórica y con tono de cautela general sobre el resultado."
+      ],
+      "recomendacion": "Verifique primero la fecha de aparición de las humedades y los plazos de prescripción o caducidad aplicables. Si hay margen, espere al informe pericial; si el plazo es cercano, presente la demanda y anuncie el dictamen conforme a la LEC.",
+      "fuentes": [
+        "Demanda.pdf",
+        "Poder.pdf"
+      ]
     },
     {
       "id": "q3",
       "pregunta": "¿Qué plazo hay para contestar un requerimiento de desahucio por falta de pago?",
       "tipo": "libre",
       "expediente": null,
-      "estado": "pendiente",
-      "claude": "",
-      "gemini": "",
-      "coinciden": [],
-      "discrepan": [],
-      "recomendacion": "",
+      "estado": "lista",
+      "claude": "Si es el requerimiento judicial del artículo 440.3 de la LEC, el demandado tiene diez días hábiles desde la notificación para pagar, enervar, oponerse o desalojar. Si no actúa, se fijará fecha de lanzamiento.",
+      "gemini": "El plazo para contestar a un requerimiento de desahucio por falta de pago es de diez días hábiles desde la notificación. En dicho periodo, el demandado puede desalojar el inmueble, pagar las cantidades debidas para enervar la acción o presentar oposición formal. Desconocemos si ya se ha practicado la notificación efectiva al arrendatario. En ningún caso podemos garantizar el éxito del desalojo. El abogado debe revisar el decreto de admisión y si concurren los requisitos legales para permitir la enervación del desahucio.",
+      "coinciden": [
+        "Ambas respuestas fijan el plazo en diez días hábiles desde la notificación del requerimiento judicial.",
+        "Las dos indican que en ese plazo el demandado puede desalojar, pagar (enervar la acción) u oponerse.",
+        "Las dos parten de que se trata del requerimiento judicial en el procedimiento de desahucio por falta de pago."
+      ],
+      "discrepan": [
+        "La respuesta A cita expresamente el artículo 440.3 de la LEC y señala la consecuencia de no actuar (fijación de fecha de lanzamiento), mientras que B no cita el precepto.",
+        "B añade cautelas sobre la notificación efectiva y la revisión del decreto de admisión, y A no las menciona; además, B habla de «éxito del desalojo», un enfoque algo confuso según quién sea el cliente."
+      ],
+      "recomendacion": "Confirmar en el decreto de admisión la fecha y validez de la notificación para computar bien los diez días hábiles, y verificar los requisitos de la enervación (art. 22.4 LEC) antes de decidir entre pagar u oponerse. Si el cliente es arrendador, comprobar también las consecuencias procesales de cada opción del demandado.",
+      "fuentes": []
+    },
+    {
+      "id": "q4",
+      "pregunta": "¿Cuánto tiempo tengo para recurrir en apelación una sentencia civil?",
+      "tipo": "libre",
+      "expediente": null,
+      "estado": "lista",
+      "claude": "Veinte días hábiles, contados desde el día siguiente a la notificación de la sentencia (art. 458 LEC). El escrito se presenta ante el mismo juzgado que la dictó. Agosto no cuenta, y si se pidió aclaración o complemento, el plazo queda interrumpido hasta que se notifique el auto que lo resuelva. No tengo la fecha de notificación ni sé si hubo esa solicitud, así que no pu",
+      "gemini": "El plazo para interponer el recurso de apelación contra una sentencia civil es de veinte días hábiles, contados a partir del día siguiente a su notificación. No dispongo de la fecha exacta en la que el procurador recibió la resolución, por lo que no puedo determinar el vencimiento todavía. Procederemos con el rigor habitual, aunque nunca es posible garantizar un resultado favorable. El abogado debe revisar la fecha de notificación efectiva y los fundamentos jurídicos de la propia sentencia.",
+      "coinciden": [
+        "Ambas fijan el plazo en veinte días hábiles, contados desde el día siguiente a la notificación de la sentencia.",
+        "Las dos señalan que falta la fecha de notificación, por lo que no se puede calcular el vencimiento exacto.",
+        "Las dos remiten a verificar los datos del caso antes de dar el plazo por cerrado."
+      ],
+      "discrepan": [
+        "La respuesta A cita el art. 458 LEC y añade detalles prácticos: se presenta ante el mismo juzgado, agosto es inhábil y la aclaración o el complemento interrumpen el plazo. La B no menciona nada de esto.",
+        "La respuesta B insiste en la fecha en que el procurador recibió la resolución y en revisar los fundamentos jurídicos de la sentencia, y añade una advertencia genérica sobre no garantizar resultados. La A no lo plantea."
+      ],
+      "recomendacion": "Confirmar la fecha de notificación efectiva (la recibida por el procurador) y comprobar si hubo solicitud de aclaración o complemento y si el plazo afecta a agosto. Calcular el vencimiento con esos datos y presentar el recurso con margen, ante el mismo juzgado que dictó la sentencia.",
+      "fuentes": []
+    },
+    {
+      "id": "q5",
+      "pregunta": "¿Qué debo pedirle a un cliente nuevo antes de aceptar su encargo y empezar a trabajar?",
+      "tipo": "libre",
+      "expediente": null,
+      "estado": "lista",
+      "claude": "Antes de aceptar, yo pediría la identificación del cliente (DNI o NIE; si es sociedad, CIF, escritura y poderes del firmante), la documentación esencial del asunto y la información sobre la contraparte para comprobar conflictos de intereses. Después, la hoja de encargo firmada con alcance, honorarios y provisión de fondos, más la información de protección de datos. No sé de qué materia se trata, y eso podría exigir más, como la titularidad real o el origen de los fondos si aplica la normativa de blanqueo. Deberías revisar conflictos, riesgo de blanqueo y que la hoja de encargo no prometa resultados.",
+      "gemini": "Para formalizar el encargo, necesitamos el DNI o CIF, los poderes de representación y toda la documentación sustantiva del asunto. Es fundamental realizar el control de conflictos de interés y obtener la firma de la hoja de encargo junto con el abono de la provisión de fondos inicial. Sin estos requisitos, no podemos iniciar ninguna actuación procesal ni administrativa con garantías. El abogado debe revisar la documentación facilitada por el cliente, la viabilidad jurídica del caso y la ausencia de conflictos de interés.",
+      "coinciden": [
+        "Ambas piden identificación del cliente (DNI/NIE o CIF) y, si es sociedad, los poderes de representación.",
+        "Las dos exigen la documentación sustantiva del asunto y un control previo de conflictos de intereses.",
+        "Las dos requieren la hoja de encargo firmada y una provisión de fondos antes de empezar."
+      ],
+      "discrepan": [
+        "A añade protección de datos, titularidad real, origen de los fondos y prevención del blanqueo, y advierte de que la hoja de encargo no debe prometer resultados; B no los menciona.",
+        "B insiste en que sin estos requisitos no se actúa y en valorar la viabilidad jurídica del caso, mientras que A pide información sobre la contraparte y matiza que la materia podría exigir más."
+      ],
+      "recomendacion": "Sigue la lista más completa de A (identificación, conflictos, hoja de encargo, provisión, protección de datos y diligencia debida contra el blanqueo si procede) y añade de B la valoración previa de viabilidad. No empieces a trabajar hasta tener todo ello cumplido y documentado.",
+      "fuentes": []
+    },
+    {
+      "id": "q6",
+      "pregunta": "¿Cómo cuento los días de un plazo procesal cuando hay un festivo de por medio?",
+      "tipo": "libre",
+      "expediente": null,
+      "estado": "lista",
+      "claude": "En plazos por días procesales solo cuentan los hábiles: se excluyen sábados, domingos y festivos, también los autonómicos y locales de la sede del órgano, y el cómputo empieza al día siguiente de la notificación. En civil, agosto es inhábil salvo excepciones; en otras jurisdicciones varía. Si el último día es inhábil, se pasa al siguiente hábil. No sé qué jurisdicción ni plazo es, así que no puedo darte fecha. El abogado debe revisar la norma aplicable, el calendario local y la fecha exacta de notificación en LexNET.",
+      "gemini": "Según la normativa vigente, los plazos procesales por días excluyen los inhábiles: sábados, domingos y festivos nacionales, autonómicos o locales de la sede del tribunal. El cómputo comienza siempre el día siguiente a la notificación. Si el plazo se fija por meses, el cálculo se realiza de fecha a fecha. No ha concretado la jurisdicción ni el tipo de procedimiento para ajustar más esta respuesta. El abogado debe revisar el calendario de días inhábiles de la sede judicial y la normativa procesal correspondiente.",
+      "coinciden": [
+        "Los plazos por días procesales solo computan días hábiles: se excluyen sábados, domingos y festivos nacionales, autonómicos o locales de la sede del órgano.",
+        "El cómputo empieza el día siguiente a la notificación.",
+        "Falta concretar la jurisdicción y el tipo de procedimiento, y el abogado debe comprobar el calendario de inhábiles de la sede y la norma procesal aplicable."
+      ],
+      "discrepan": [
+        "A añade que agosto es inhábil en civil salvo excepciones, que si el último día es inhábil pasa al siguiente hábil y que hay que verificar la fecha de notificación en LexNET; B no lo menciona.",
+        "B explica que los plazos por meses se computan de fecha a fecha, algo que A no recoge."
+      ],
+      "recomendacion": "Identifica la jurisdicción y la norma aplicable (LEC, LECrim, LJCA, LRJS), fija la fecha exacta de notificación en LexNET y cuenta solo días hábiles según el calendario de la sede, sin contar agosto en civil si procede. Si el último día es inhábil, el plazo pasa al siguiente hábil; si el plazo es por meses, cuenta de fecha a fecha. Confirma siempre el resultado con la norma vigente.",
       "fuentes": []
     }
   ]
