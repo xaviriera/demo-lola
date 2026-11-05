@@ -66,7 +66,7 @@
     "expediente": "099-2026",
     "fecha": "2026-11-03T19:05",
     "de": "Dorota Kowalska <d.kowalska@mail-demo.example>",
-    "asunto": "Re: Pending answer: signing date",
+    "asunto": "Re: Pendiente de respuesta: fecha de firma",
     "prioritario": false,
     "lola": null,
     "adjuntos": []
@@ -116,7 +116,7 @@
     "expediente": "092-2026",
     "fecha": "2026-11-03T10:30",
     "de": "Lisa Harris <lisa.harris@mail-demo.example>",
-    "asunto": "Re: Status of bank account",
+    "asunto": "Re: Estado de la cuenta bancaria",
     "prioritario": true,
     "lola": "Respuesta en inglés preparada en borrador; falta que confirmes el estado de la cuenta.",
     "adjuntos": []
@@ -250,7 +250,7 @@
     "expediente": "090-2026",
     "fecha": "2026-11-02T10:05",
     "de": "Pieter Hoffmann <p.hoffmann@hvdb-demo.example>",
-    "asunto": "Re: Tourist license: documents needed",
+    "asunto": "Re: Licencia turística: documentos necesarios",
     "prioritario": false,
     "lola": null,
     "adjuntos": []
@@ -378,7 +378,7 @@
     "expediente": null,
     "fecha": "2026-10-31T01:00",
     "de": "Legal Tech Weekly <avisos9@noticias-demo.example>",
-    "asunto": "This week in legal AI: five tools worth watching",
+    "asunto": "Esta semana en IA legal: cinco herramientas a vigilar",
     "prioritario": false,
     "lola": null,
     "adjuntos": []
@@ -426,9 +426,9 @@
     "expediente": "099-2026",
     "fecha": "2026-10-30T09:00",
     "de": "Dorota Kowalska <d.kowalska@mail-demo.example>",
-    "asunto": "Pending answer: signing date",
+    "asunto": "Pendiente de respuesta: fecha de firma",
     "prioritario": true,
-    "lola": "Borrador de respuesta en inglés preparado; la fecha depende de la notaría.",
+    "lola": "Borrador de respuesta preparado; la fecha depende de la notaría.",
     "adjuntos": []
   },
   {
@@ -442,7 +442,7 @@
     "expediente": null,
     "fecha": "2026-10-30T06:00",
     "de": "Congreso Inmobiliario Costa Blanca <avisos12@noticias-demo.example>",
-    "asunto": "Early bird tickets: Costa Blanca Property Congress",
+    "asunto": "Entradas anticipadas: Congreso Inmobiliario Costa Blanca",
     "prioritario": false,
     "lola": null,
     "adjuntos": []
@@ -590,7 +590,7 @@
     "expediente": "090-2026",
     "fecha": "2026-10-28T09:30",
     "de": "\"Pieter Hoffmann (Hoffmann & Van der Berg SL)\" <p.hoffmann@hvdb-demo.example>",
-    "asunto": "Tourist license: documents needed",
+    "asunto": "Licencia turística: documentos necesarios",
     "prioritario": true,
     "lola": null,
     "adjuntos": []
@@ -728,7 +728,7 @@
     "expediente": "104-2026",
     "fecha": "2026-10-22T08:45",
     "de": "Erika Lindqvist <e.lindqvist@mail-demo.example>",
-    "asunto": "Signing appointment Torrevieja",
+    "asunto": "Cita de firma en Torrevieja",
     "prioritario": true,
     "lola": null,
     "adjuntos": []

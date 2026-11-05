@@ -813,12 +813,12 @@
       "fecha": "2026-11-03",
       "hora": "10:30",
       "remitente": "Lisa Harris",
-      "asunto": "Re: Status of bank account",
+      "asunto": "Re: Estado de la cuenta bancaria",
       "expediente": "092-2026",
       "adjunto": null,
       "anclado": false,
       "ruido": false,
-      "idioma": "en"
+      "idioma": "es"
     },
     {
       "id": "mail-005",
@@ -873,12 +873,12 @@
       "fecha": "2026-10-30",
       "hora": "09:00",
       "remitente": "Dorota Kowalska",
-      "asunto": "Pending answer: signing date",
+      "asunto": "Pendiente de respuesta: fecha de firma",
       "expediente": "099-2026",
       "adjunto": null,
       "anclado": true,
       "ruido": false,
-      "idioma": "en"
+      "idioma": "es"
     },
     {
       "id": "mail-010",
@@ -921,12 +921,12 @@
       "fecha": "2026-10-28",
       "hora": "09:30",
       "remitente": "Pieter Hoffmann (Hoffmann & Van der Berg SL)",
-      "asunto": "Tourist license: documents needed",
+      "asunto": "Licencia turística: documentos necesarios",
       "expediente": "090-2026",
       "adjunto": null,
       "anclado": true,
       "ruido": false,
-      "idioma": "en"
+      "idioma": "es"
     },
     {
       "id": "mail-014",
@@ -1005,12 +1005,12 @@
       "fecha": "2026-10-22",
       "hora": "11:00",
       "remitente": "Erika Lindqvist",
-      "asunto": "Signing appointment Torrevieja",
+      "asunto": "Cita de firma en Torrevieja",
       "expediente": "104-2026",
       "adjunto": null,
       "anclado": true,
       "ruido": false,
-      "idioma": "en"
+      "idioma": "es"
     },
     {
       "id": "mail-021",
@@ -1112,7 +1112,7 @@
     },
     {
       "id": "saco-07",
-      "titulo": "[EXTERNAL] Status of bank account",
+      "titulo": "[EXTERNO] Estado de la cuenta bancaria",
       "vencimiento": null,
       "importante": false
     },
