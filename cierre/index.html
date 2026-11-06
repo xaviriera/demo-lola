@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>¿Qué vale todo esto?</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baskervville:ital,wght@0,400..700;1,400..700&family=League+Spartan:wght@300..700&display=swap">
+<style>
+:root{--bg:#0D1F58;--ink:#F6F2EA;--soft:#C9C2B6;--gold:#D9AE66;--card:#13286E;--line:#2A3F86}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 50% 0%,#1A3384 0%,var(--bg) 60%);color:var(--ink);font-family:'League Spartan',system-ui,sans-serif;font-size:19px;line-height:1.5;padding:40px 16px 64px;display:flex;justify-content:center}
+.wrap{max-width:820px;width:100%;display:flex;flex-direction:column;gap:22px}
+h1{font-family:'Baskervville',Georgia,serif;font-weight:500;font-size:clamp(34px,6vw,54px);line-height:1.1;margin:0;text-wrap:balance}
+.lede{color:var(--soft);margin:0}
+.q{background:var(--card);border:1.5px solid var(--gold);border-radius:18px;padding:24px 26px;box-shadow:0 0 40px rgba(217,174,102,.18);white-space:pre-line;font-size:20px}
+.row{display:flex;flex-wrap:wrap;gap:12px}
+.btn{appearance:none;border:0;border-radius:999px;padding:14px 24px;font:inherit;font-weight:600;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:8px}
+.gold{background:var(--gold);color:#1B1206}
+.ghost{background:transparent;color:var(--ink);border:1.5px solid var(--line)}
+.ok{color:var(--gold);font-weight:600;min-height:1.5em}
+.steps{color:var(--soft);font-size:17px;margin:0;padding-left:22px}
+.btn:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+</style></head><body>
+<div class="wrap">
+  <h1>¿Qué vale todo esto?</h1>
+  <p class="lede">No te lo decimos nosotros. Pregúntaselo a las dos inteligencias artificiales en las que más confías.</p>
+  <div class="q" id="q">Te adjunto una propuesta. Analízala y dime qué precio de mercado tendría en España que una empresa pequeña especializada en IA la desarrolle, la implante y la mantenga.
+Responde breve y directo, sin introducción ni explicaciones largas, en este formato:
+· Desarrollo e implantación (pago único): horquilla en €
+· Cuota mensual de mantenimiento: horquilla en €/mes
+· Horas que ahorra al mes a un despacho: cifra y su valor en €
+· En cuánto tiempo se paga: meses
+Cierra con una sola frase que justifique el precio.</div>
+  <div class="row">
+    <button class="btn gold" id="copy" type="button">Copiar la pregunta</button>
+    <a class="btn ghost" href="Lola-presentacion.pdf" download>Descargar la presentación (PDF)</a>
+  </div>
+  <div class="ok" id="ok" role="status" aria-live="polite"></div>
+  <div class="row">
+    <a class="btn ghost" href="https://claude.ai/new" target="_blank" rel="noopener">Abrir Claude</a>
+    <a class="btn ghost" href="https://gemini.google.com/app" target="_blank" rel="noopener">Abrir Gemini</a>
+  </div>
+  <ol class="steps">
+    <li>Copia la pregunta y descarga la presentación.</li>
+    <li>Abre Claude y Gemini, adjunta el PDF y pega la pregunta.</li>
+    <li>Tomamos el punto medio: ni el mínimo ni el máximo.</li>
+  </ol>
+</div>
+<script>
+document.getElementById('copy').addEventListener('click', async function(){
+  var t = document.getElementById('q').innerText, ok = document.getElementById('ok');
+  try { await navigator.clipboard.writeText(t); ok.textContent = 'Copiada. Ahora pégala en Claude y en Gemini.'; }
+  catch(e){ var r=document.createRange(); r.selectNodeContents(document.getElementById('q')); var s=getSelection(); s.removeAllRanges(); s.addRange(r); ok.textContent = 'Pulsa Ctrl+C para copiarla.'; }
+});
+</script>
+</body></html>

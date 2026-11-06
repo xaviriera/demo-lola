@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-04",
+  "fecha": "2026-11-06",
   "pasos": [
     "Entra",
     "Lo lee",
@@ -16,8 +16,8 @@
       "expediente": "091-2026",
       "queEs": "Te emplazan para contestar la demanda de Financiera Costa Azahar contra tu cliente Mariano Vidal Ortuño.",
       "plazo": {
-        "vence": "2026-11-05",
-        "texto": "Jueves 5 de noviembre (10 días hábiles desde el 22 de octubre)"
+        "vence": "2026-11-09",
+        "texto": "Lunes 9 de noviembre (10 días hábiles desde el 26 de octubre)"
       },
       "archivadoEn": "Murcia - Documentos › EXPEDIENTES › 091-2026 VIDAL ORTUÑO MARIANO",
       "abrir": {
@@ -146,8 +146,8 @@
     "expediente": "064-2026",
     "queEs": "El juzgado cita a las partes a la audiencia previa del caso de las humedades del local.",
     "plazo": {
-      "vence": "2026-11-10",
-      "texto": "Martes 10 de noviembre: confirmar la asistencia del perito"
+      "vence": "2026-11-12",
+      "texto": "Jueves 12 de noviembre: confirmar la asistencia del perito"
     },
     "archivadoEn": "Murcia - Documentos › EXPEDIENTES › 064-2026 FERRER",
     "tarea": "Confirmar el perito para la audiencia previa (064-2026)",
@@ -165,7 +165,7 @@
     "de": "Rocío Navarro Brunet (correo)",
     "tipo": "Correo de cliente",
     "expediente": "089-2026",
-    "queEs": "Tu cliente pide pasar la firma de la compraventa del jueves 12 al viernes 13 por la mañana.",
+    "queEs": "Tu cliente pide pasar la firma de la compraventa del lunes 16 al martes 17 por la mañana.",
     "plazo": null,
     "archivadoEn": "Murcia - Documentos › EXPEDIENTES › 089-2026 NAVARRO BRUNET",
     "abrir": {

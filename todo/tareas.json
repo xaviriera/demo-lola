@@ -21,7 +21,7 @@
   {
    "id": "saco-04",
    "titulo": "Burofax Costa Azahar",
-   "vence": "2026-11-06",
+   "vence": "2026-11-10",
    "estrella": false
   },
   {
@@ -137,7 +137,7 @@
   {
    "id": "lola-00",
    "accion": "Contestar la demanda de Vidal (Juicio verbal 312/2026): revisar el escrito y presentarlo",
-   "vence": "2026-11-05",
+   "vence": "2026-11-09",
    "expediente": "091-2026",
    "origen": "correo:0001",
    "hecha": false,
@@ -148,7 +148,7 @@
   {
    "id": "lola-01",
    "accion": "Llamar a Mariano Vidal: confirmar que tiene la cédula y validar el reconocimiento del capital",
-   "vence": "2026-11-04",
+   "vence": "2026-11-06",
    "expediente": "091-2026",
    "origen": "llamada:3",
    "hecha": false,
@@ -156,8 +156,8 @@
   },
   {
    "id": "lola-02",
-   "accion": "Navarro Brunet: confirmar a Solmar la fecha de firma del 12 de noviembre",
-   "vence": "2026-11-06",
+   "accion": "Navarro Brunet: confirmar a Solmar la fecha de firma del 16 de noviembre",
+   "vence": "2026-11-10",
    "expediente": "089-2026",
    "origen": "correo:0006",
    "hecha": false,
@@ -166,7 +166,7 @@
   {
    "id": "lola-03",
    "accion": "Burofax a Financiera Costa Azahar: contestar su respuesta",
-   "vence": "2026-11-06",
+   "vence": "2026-11-10",
    "expediente": "091-2026",
    "origen": "correo:0014",
    "hecha": false,
@@ -175,7 +175,7 @@
   {
    "id": "lola-04",
    "accion": "Responder a Dorota Kowalska sobre la fecha de firma",
-   "vence": "2026-11-06",
+   "vence": "2026-11-10",
    "expediente": "099-2026",
    "origen": "correo:0009",
    "hecha": false,
@@ -184,7 +184,7 @@
   {
    "id": "lola-05",
    "accion": "Pedir a la notaría la cancelación de las dos cargas pendientes",
-   "vence": "2026-11-05",
+   "vence": "2026-11-09",
    "expediente": "099-2026",
    "origen": "correo:0005",
    "hecha": false,
@@ -193,7 +193,7 @@
   {
    "id": "lola-06",
    "accion": "Contestar a Lisa Harris: estado de la cuenta bancaria",
-   "vence": "2026-11-09",
+   "vence": "2026-11-11",
    "expediente": "092-2026",
    "origen": "correo:0004",
    "hecha": false,
@@ -202,7 +202,7 @@
   {
    "id": "lola-07",
    "accion": "Transferir las arras de Thompson Harris (10 %)",
-   "vence": "2026-11-10",
+   "vence": "2026-11-12",
    "expediente": "092-2026",
    "origen": "correo:0043",
    "hecha": false,
@@ -211,7 +211,7 @@
   {
    "id": "lola-08",
    "accion": "Hoffmann: enviar la lista de documentos de la licencia turística",
-   "vence": "2026-11-10",
+   "vence": "2026-11-12",
    "expediente": "090-2026",
    "origen": "correo:0013",
    "hecha": false,
@@ -220,7 +220,7 @@
   {
    "id": "lola-09",
    "accion": "Reclamar al perito el informe de humedades",
-   "vence": "2026-11-04",
+   "vence": "2026-11-06",
    "expediente": "064-2026",
    "origen": "correo:0002",
    "hecha": false,
@@ -229,7 +229,7 @@
   {
    "id": "lola-10",
    "accion": "Revisar con la técnica el informe del restaurante",
-   "vence": "2026-11-12",
+   "vence": "2026-11-16",
    "expediente": "071-2026",
    "origen": "correo:0003",
    "hecha": false,
@@ -238,7 +238,7 @@
   {
    "id": "lola-11",
    "accion": "Reunión con Carmelo Vera por la herencia Quesada",
-   "vence": "2026-11-27",
+   "vence": "2026-12-01",
    "expediente": "108-2026",
    "origen": "correo:0019",
    "hecha": false,
@@ -247,7 +247,7 @@
   {
    "id": "lola-12",
    "accion": "Firma de compraventa Vermeulen",
-   "vence": "2026-11-13",
+   "vence": "2026-11-17",
    "expediente": "109-2026",
    "origen": "correo:0012",
    "hecha": false,
@@ -256,7 +256,7 @@
   {
    "id": "lola-13",
    "accion": "Reclamar la cuota de costas de Campillo",
-   "vence": "2026-11-25",
+   "vence": "2026-11-27",
    "expediente": "066-2025",
    "origen": "correo:0044",
    "hecha": false,
@@ -265,7 +265,7 @@
   {
    "id": "lola-14",
    "accion": "Pedir cita en notaría para Ferri",
-   "vence": "2026-12-01",
+   "vence": "2026-12-03",
    "expediente": "111-2026",
    "origen": "llamada:5",
    "hecha": false,
@@ -274,7 +274,7 @@
   {
    "id": "lola-15",
    "accion": "Calatayud: contestar el requerimiento de desahucio",
-   "vence": "2026-11-11",
+   "vence": "2026-11-13",
    "expediente": "106-2026",
    "origen": "correo:0017",
    "hecha": false,
@@ -283,7 +283,7 @@
   {
    "id": "lola-16",
    "accion": "Presentar la demanda de posesión del local de Maciá",
-   "vence": "2026-11-20",
+   "vence": "2026-11-24",
    "expediente": "110-2026",
    "origen": "llamada:6",
    "hecha": false,
@@ -292,7 +292,7 @@
   {
    "id": "lola-17",
    "accion": "Esteve: alegar sobre el informe de la administración concursal",
-   "vence": "2026-11-09",
+   "vence": "2026-11-11",
    "expediente": "093-2026",
    "origen": "correo:0008",
    "hecha": false,
@@ -301,7 +301,7 @@
   {
    "id": "lola-18",
    "accion": "Armas Vives: revisar la contestación de la entidad por gastos de hipoteca",
-   "vence": "2026-11-12",
+   "vence": "2026-11-16",
    "expediente": "100-2026",
    "origen": "correo:0020",
    "hecha": false,
@@ -310,7 +310,7 @@
   {
    "id": "lola-19",
    "accion": "Benítez y Ferrández: pedir a la notaría respuesta sobre cargas",
-   "vence": "2026-11-06",
+   "vence": "2026-11-10",
    "expediente": "101-2026",
    "origen": "llamada:7",
    "hecha": false,
@@ -319,7 +319,7 @@
   {
    "id": "lola-20",
    "accion": "Fijar cita de firma para Renaud",
-   "vence": "2026-11-09",
+   "vence": "2026-11-11",
    "expediente": "105-2026",
    "origen": "correo:0016",
    "hecha": false,
@@ -328,7 +328,7 @@
   {
    "id": "lola-21",
    "accion": "Firma de escritura de Lindqvist",
-   "vence": "2026-11-25",
+   "vence": "2026-11-27",
    "expediente": "104-2026",
    "origen": "correo:0021",
    "hecha": false,
@@ -336,8 +336,8 @@
   },
   {
    "id": "lola-23",
-   "accion": "Firma de poderes en la notaría, hoy a las 12:30 (Vermeulen, antes de la compraventa del 13)",
-   "vence": "2026-11-04",
+   "accion": "Firma de poderes en la notaría, hoy a las 12:30 (Vermeulen, antes de la compraventa del 17)",
+   "vence": "2026-11-06",
    "expediente": "109-2026",
    "origen": "correo:0012",
    "hecha": false,
@@ -346,7 +346,7 @@
   {
    "id": "lola-22",
    "accion": "Preparar presupuesto y hoja de encargo de Marta Olivares (compraventa)",
-   "vence": "2026-11-05",
+   "vence": "2026-11-09",
    "expediente": "094-2026",
    "origen": "llamada:9",
    "hecha": false,

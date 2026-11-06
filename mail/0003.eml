@@ -1,6 +1,7 @@
-From: Marisol Gallego (ingeniera técnica) <mgallego@ingenieria-demo.example>
+From: Marisol Gallego ingeniera =?unknown-8bit?q?t=C3=A9cnica?=
+ <mgallego@ingenieria-demo.example>
 To: Despacho Lo Romero Legal <jt@despacho-demo.example>
-Date: Tue, 03 Nov 2026 18:12:00 +0100
+Date: Thu, 05 Nov 2026 18:12:00 +0100
 Subject: Exp. 071/2026 informe de instalaciones
 Message-ID: <0003@despacho-demo.example>
 MIME-Version: 1.0
@@ -20,7 +21,8 @@ Marisol
 --===============5630962398985647917==
 Content-Type: application/pdf
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="Informe técnico preliminar.pdf"
+Content-Disposition: attachment;
+ filename*=unknown-8bit''Informe%20t%C3%A9cnico%20preliminar.pdf
 MIME-Version: 1.0
 
 JVBERi0xLjMKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgKG9wZW5zb3Vy

@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "nota": "Respuestas generadas con Claude (claude-sonnet-5-5) y Gemini (gemini-3-flash-preview) sobre datos ficticios de la demo, el 5-nov-2026. Orientativas; las revisa el abogado.",
+  "nota": "Respuestas generadas con Claude (claude-sonnet-5-5) y Gemini (gemini-3-flash-preview) sobre datos ficticios de la demo, el 9-nov-2026. Orientativas; las revisa el abogado.",
   "consultas": [
     {
       "id": "q1",
-      "pregunta": "¿Contestamos el jueves con lo que hay o pedimos antes el contraste de los hechos del contrato?",
+      "pregunta": "¿Contestamos el lunes con lo que hay o pedimos antes el contraste de los hechos del contrato?",
       "tipo": "expediente",
       "expediente": "091-2026",
       "estado": "lista",
-      "claude": "Yo contestaría el jueves: el plazo es perentorio y no hay prórroga que pedir. Pero el contraste de fechas debe hacerse antes, porque la prescripción depende de ellas. Si no queda confirmado, conviene redactar la excepción con cautela y añadir alegaciones subsidiarias. Desconozco qué documentos del contrato tenemos y si hay interrupciones del plazo. El 064-2026 no afecta a esta fecha. Revisa, Abogado: el cómputo del plazo (días hábiles y festivos locales), las fechas del contrato frente a la prescripción alegada y si el borrador admite una redacción subsidiaria.",
-      "gemini": "En relación al expediente 091-2026 de Mariano Vidal, el plazo para contestar finaliza este jueves 5 de noviembre. Aunque el borrador de oposición alega prescripción, es arriesgado presentar el escrito sin contrastar antes las fechas del contrato, información que todavía no hemos verificado. Nunca podemos asegurar un resultado positivo, por lo que conviene obtener este dato para evitar imprecisiones procesales antes del vencimiento. El abogado debe revisar la correspondencia cronológica del contrato para fundamentar correctamente la excepción de prescripción.",
+      "claude": "Yo contestaría el lunes: el plazo es perentorio y no hay prórroga que pedir. Pero el contraste de fechas debe hacerse antes, porque la prescripción depende de ellas. Si no queda confirmado, conviene redactar la excepción con cautela y añadir alegaciones subsidiarias. Desconozco qué documentos del contrato tenemos y si hay interrupciones del plazo. El 064-2026 no afecta a esta fecha. Revisa, Abogado: el cómputo del plazo (días hábiles y festivos locales), las fechas del contrato frente a la prescripción alegada y si el borrador admite una redacción subsidiaria.",
+      "gemini": "En relación al expediente 091-2026 de Mariano Vidal, el plazo para contestar finaliza este lunes 9 de noviembre. Aunque el borrador de oposición alega prescripción, es arriesgado presentar el escrito sin contrastar antes las fechas del contrato, información que todavía no hemos verificado. Nunca podemos asegurar un resultado positivo, por lo que conviene obtener este dato para evitar imprecisiones procesales antes del vencimiento. El abogado debe revisar la correspondencia cronológica del contrato para fundamentar correctamente la excepción de prescripción.",
       "coinciden": [
         "Ambas respuestas consideran imprescindible contrastar las fechas del contrato antes de presentar el escrito, porque la excepción de prescripción depende de ellas.",
-        "Las dos tienen presente que el plazo vence el jueves y que no conviene dejar que se agote sin verificar los hechos.",
+        "Las dos tienen presente que el plazo vence el lunes y que no conviene dejar que se agote sin verificar los hechos.",
         "Ambas remiten al abogado la revisión final de la fundamentación de la prescripción."
       ],
       "discrepan": [
-        "A propone contestar el jueves en todo caso, con redacción cautelosa y alegaciones subsidiarias si las fechas no se confirman; B insiste sobre todo en obtener primero el dato y no presentar sin contrastarlo.",
-        "A advierte de lo que desconoce (documentos del contrato, posibles interrupciones) y descarta el efecto del expediente 064-2026, mientras que B da por cierta la fecha del 5 de noviembre y el expediente 091-2026 sin cuestionar el cómputo."
+        "A propone contestar el lunes en todo caso, con redacción cautelosa y alegaciones subsidiarias si las fechas no se confirman; B insiste sobre todo en obtener primero el dato y no presentar sin contrastarlo.",
+        "A advierte de lo que desconoce (documentos del contrato, posibles interrupciones) y descarta el efecto del expediente 064-2026, mientras que B da por cierta la fecha del 9 de noviembre y el expediente 091-2026 sin cuestionar el cómputo."
       ],
-      "recomendacion": "Pedir ya el contraste de las fechas del contrato, con margen antes del jueves, y verificar el cómputo del plazo (días hábiles y festivos). Si no llega confirmación a tiempo, presentar la contestación con la prescripción redactada con cautela y alegaciones subsidiarias, sin perder el plazo.",
+      "recomendacion": "Pedir ya el contraste de las fechas del contrato, con margen antes del lunes, y verificar el cómputo del plazo (días hábiles y festivos). Si no llega confirmación a tiempo, presentar la contestación con la prescripción redactada con cautela y alegaciones subsidiarias, sin perder el plazo.",
       "fuentes": [
         "Cedula emplazamiento 250.1.4.pdf",
         "OPOSICION DEMANDA (borrador Lola).docx"

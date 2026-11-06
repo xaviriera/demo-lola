@@ -6,7 +6,7 @@
     "socio_director": "José Tomás",
     "asistente": "Lola",
     "rotulo": "DEMO · datos ficticios",
-    "fecha_demo": "2026-11-04",
+    "fecha_demo": "2026-11-06",
     "hora_inicio_demo": "07:00"
   },
   "expedientes": [
@@ -21,7 +21,7 @@
       "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-30",
+        "fecha": "2026-12-02",
         "descripcion": "Resolución de la licencia"
       },
       "verificacion": {
@@ -31,7 +31,7 @@
       },
       "telefono_ficha": "+34 697 000 225",
       "carpeta": "dir-exp-021-2025",
-      "ultimo_movimiento": "2026-11-04",
+      "ultimo_movimiento": "2026-11-06",
       "parado_dias": 5
     },
     {
@@ -45,7 +45,7 @@
       "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 3 de Torrevieja",
       "procurador": "Lucía Ballester",
       "proximo_plazo": {
-        "fecha": "2026-12-08",
+        "fecha": "2026-12-10",
         "descripcion": "Lanzamiento señalado"
       },
       "verificacion": {
@@ -55,7 +55,7 @@
       },
       "telefono_ficha": "+34 606 000 703",
       "carpeta": "dir-exp-031-2025",
-      "ultimo_movimiento": "2026-11-04",
+      "ultimo_movimiento": "2026-11-06",
       "parado_dias": 6
     },
     {
@@ -69,7 +69,7 @@
       "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 2 de Torrevieja",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-30",
+        "fecha": "2026-12-02",
         "descripcion": "Solicitar ejecución de la sentencia"
       },
       "verificacion": {
@@ -79,7 +79,7 @@
       },
       "telefono_ficha": "+34 618 000 487",
       "carpeta": "dir-exp-045-2025",
-      "ultimo_movimiento": "2026-10-28",
+      "ultimo_movimiento": "2026-10-30",
       "parado_dias": 12
     },
     {
@@ -93,7 +93,7 @@
       "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 1 de Orihuela",
       "procurador": "Lucía Ballester",
       "proximo_plazo": {
-        "fecha": "2026-11-25",
+        "fecha": "2026-11-27",
         "descripcion": "Reclamar la cuota de costas"
       },
       "verificacion": {
@@ -103,7 +103,7 @@
       },
       "telefono_ficha": "+34 625 000 846",
       "carpeta": "dir-exp-066-2025",
-      "ultimo_movimiento": "2026-10-30",
+      "ultimo_movimiento": "2026-11-03",
       "parado_dias": 18
     },
     {
@@ -119,17 +119,17 @@
       "procurador": null,
       "perito": "Joaquín Sanz",
       "proximo_plazo": {
-        "fecha": "2026-11-04",
+        "fecha": "2026-11-06",
         "descripcion": "Reclamar al perito el informe pericial"
       },
       "verificacion": {
         "dni_ultimos_tres_y_letra": "518T",
-        "calle_inmueble": "Calle del Mar 27, local 3, Torrevieja",
+        "calle_inmueble": "Calle del Mar 1, local 3, Torrevieja",
         "notaria_u_otra_parte": "Promociones Salinas Dos SL"
       },
       "telefono_ficha": "+34 622 000 318",
       "carpeta": "dir-exp-064-2026",
-      "ultimo_movimiento": "2026-11-04",
+      "ultimo_movimiento": "2026-11-06",
       "parado_dias": 0
     },
     {
@@ -144,7 +144,7 @@
       "procurador": null,
       "tecnica": "Marisol Gallego (ingeniera técnica)",
       "proximo_plazo": {
-        "fecha": "2026-11-04",
+        "fecha": "2026-11-06",
         "descripcion": "Llamar a la técnica por el informe del ingeniero"
       },
       "verificacion": {
@@ -154,7 +154,7 @@
       },
       "telefono_ficha": "+34 655 000 472",
       "carpeta": "dir-exp-071-2026",
-      "ultimo_movimiento": "2026-11-03",
+      "ultimo_movimiento": "2026-11-05",
       "parado_dias": 1
     },
     {
@@ -170,7 +170,7 @@
       "procurador": "Lucía Ballester",
       "procurador_contrario": "Ramón Llopis",
       "proximo_plazo": {
-        "fecha": "2026-11-05",
+        "fecha": "2026-11-09",
         "descripcion": "Contestar demanda (oposición)"
       },
       "verificacion": {
@@ -180,7 +180,7 @@
       },
       "telefono_ficha": "+34 611 000 905",
       "carpeta": "dir-exp-091-2026",
-      "ultimo_movimiento": "2026-11-04",
+      "ultimo_movimiento": "2026-11-06",
       "parado_dias": 0
     },
     {
@@ -195,7 +195,7 @@
       "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-12",
+        "fecha": "2026-11-16",
         "descripcion": "Firma de compraventa en notaría"
       },
       "verificacion": {
@@ -205,7 +205,7 @@
       },
       "telefono_ficha": "+34 633 000 117",
       "carpeta": "dir-exp-089-2026",
-      "ultimo_movimiento": "2026-11-04",
+      "ultimo_movimiento": "2026-11-06",
       "parado_dias": 0
     },
     {
@@ -219,7 +219,7 @@
       "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-10",
+        "fecha": "2026-11-12",
         "descripcion": "Subsanar documentación de la licencia turística"
       },
       "verificacion": {
@@ -229,7 +229,7 @@
       },
       "telefono_ficha": "+34 644 000 260",
       "carpeta": "dir-exp-090-2026",
-      "ultimo_movimiento": "2026-10-28",
+      "ultimo_movimiento": "2026-10-30",
       "parado_dias": 7
     },
     {
@@ -243,7 +243,7 @@
       "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-27",
+        "fecha": "2026-12-01",
         "descripcion": "Recoger el certificado de primera ocupación"
       },
       "verificacion": {
@@ -253,7 +253,7 @@
       },
       "telefono_ficha": "+34 677 000 533",
       "carpeta": "dir-exp-088-2026",
-      "ultimo_movimiento": "2026-11-02",
+      "ultimo_movimiento": "2026-11-04",
       "parado_dias": 2
     },
     {
@@ -268,7 +268,7 @@
       "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-10",
+        "fecha": "2026-11-12",
         "descripcion": "Transferencia de arras (10 %)"
       },
       "verificacion": {
@@ -278,7 +278,7 @@
       },
       "telefono_ficha": "+34 671 000 146",
       "carpeta": "dir-exp-092-2026",
-      "ultimo_movimiento": "2026-11-04",
+      "ultimo_movimiento": "2026-11-06",
       "parado_dias": 0
     },
     {
@@ -292,7 +292,7 @@
       "juzgado_o_notaria": "Juzgado de lo Mercantil n.º 1 de Alicante",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-09",
+        "fecha": "2026-11-11",
         "descripcion": "Alegar sobre el informe de la administración concursal"
       },
       "minuta": "pendiente de cobro",
@@ -303,7 +303,7 @@
       },
       "telefono_ficha": "+34 699 000 741",
       "carpeta": "dir-exp-093-2026",
-      "ultimo_movimiento": "2026-11-02",
+      "ultimo_movimiento": "2026-11-04",
       "parado_dias": 2
     },
     {
@@ -317,7 +317,7 @@
       "juzgado_o_notaria": "Por fijar (notaría)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-05",
+        "fecha": "2026-11-09",
         "descripcion": "Revisar el presupuesto y la hoja de encargo"
       },
       "verificacion": {
@@ -327,7 +327,7 @@
       },
       "telefono_ficha": "+34 644 000 512",
       "carpeta": "dir-exp-094-2026",
-      "ultimo_movimiento": "2026-11-04",
+      "ultimo_movimiento": "2026-11-06",
       "parado_dias": 0
     },
     {
@@ -341,7 +341,7 @@
       "juzgado_o_notaria": "Pendiente de reparto",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-16",
+        "fecha": "2026-11-18",
         "descripcion": "Presentar demanda de posesión"
       },
       "verificacion": {
@@ -351,7 +351,7 @@
       },
       "telefono_ficha": "+34 688 000 219",
       "carpeta": "dir-exp-095-2026",
-      "ultimo_movimiento": "2026-10-29",
+      "ultimo_movimiento": "2026-11-02",
       "parado_dias": 6
     },
     {
@@ -365,7 +365,7 @@
       "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-23",
+        "fecha": "2026-11-25",
         "descripcion": "Revisar la resolución municipal"
       },
       "verificacion": {
@@ -375,7 +375,7 @@
       },
       "telefono_ficha": "+34 610 000 655",
       "carpeta": "dir-exp-096-2026",
-      "ultimo_movimiento": "2026-10-30",
+      "ultimo_movimiento": "2026-11-03",
       "parado_dias": 5
     },
     {
@@ -389,7 +389,7 @@
       "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-05",
+        "fecha": "2026-11-09",
         "descripcion": "Presentar alegaciones a la licencia de primera ocupación"
       },
       "verificacion": {
@@ -399,7 +399,7 @@
       },
       "telefono_ficha": "+34 655 000 801",
       "carpeta": "dir-exp-097-2026",
-      "ultimo_movimiento": "2026-10-30",
+      "ultimo_movimiento": "2026-11-03",
       "parado_dias": 5
     },
     {
@@ -413,7 +413,7 @@
       "juzgado_o_notaria": "Fase extrajudicial",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-23",
+        "fecha": "2026-11-25",
         "descripcion": "Respuesta de la entidad (plazo de la reclamación previa)"
       },
       "verificacion": {
@@ -423,7 +423,7 @@
       },
       "telefono_ficha": "+34 620 000 462",
       "carpeta": "dir-exp-098-2026",
-      "ultimo_movimiento": "2026-11-02",
+      "ultimo_movimiento": "2026-11-04",
       "parado_dias": 2
     },
     {
@@ -438,7 +438,7 @@
       "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-20",
+        "fecha": "2026-11-24",
         "descripcion": "Firma de escritura"
       },
       "minuta": "pendiente de cobro",
@@ -449,7 +449,7 @@
       },
       "telefono_ficha": "+34 634 000 533",
       "carpeta": "dir-exp-099-2026",
-      "ultimo_movimiento": "2026-11-04",
+      "ultimo_movimiento": "2026-11-06",
       "parado_dias": 0
     },
     {
@@ -463,7 +463,7 @@
       "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 1 de Orihuela",
       "procurador": "Lucía Ballester",
       "proximo_plazo": {
-        "fecha": "2026-11-12",
+        "fecha": "2026-11-16",
         "descripcion": "Revisar la contestación de la entidad"
       },
       "verificacion": {
@@ -473,7 +473,7 @@
       },
       "telefono_ficha": "+34 680 000 107",
       "carpeta": "dir-exp-100-2026",
-      "ultimo_movimiento": "2026-10-29",
+      "ultimo_movimiento": "2026-11-02",
       "parado_dias": 6
     },
     {
@@ -489,7 +489,7 @@
       "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-06",
+        "fecha": "2026-11-10",
         "descripcion": "Respuesta de la notaría sobre cargas"
       },
       "verificacion": {
@@ -499,7 +499,7 @@
       },
       "telefono_ficha": "+34 691 000 298",
       "carpeta": "dir-exp-101-2026",
-      "ultimo_movimiento": "2026-10-28",
+      "ultimo_movimiento": "2026-10-30",
       "parado_dias": 7
     },
     {
@@ -513,7 +513,7 @@
       "juzgado_o_notaria": "Fase previa (sin juzgado)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-30",
+        "fecha": "2026-12-02",
         "descripcion": "Plazo del requerimiento de pago"
       },
       "verificacion": {
@@ -523,7 +523,7 @@
       },
       "telefono_ficha": "+34 648 000 916",
       "carpeta": "dir-exp-102-2026",
-      "ultimo_movimiento": "2026-10-29",
+      "ultimo_movimiento": "2026-11-02",
       "parado_dias": 6
     },
     {
@@ -537,7 +537,7 @@
       "juzgado_o_notaria": "Trámite administrativo (Ayuntamiento)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-12-02",
+        "fecha": "2026-12-04",
         "descripcion": "Entregar el seguro de responsabilidad civil"
       },
       "verificacion": {
@@ -547,7 +547,7 @@
       },
       "telefono_ficha": "+34 697 000 384",
       "carpeta": "dir-exp-103-2026",
-      "ultimo_movimiento": "2026-10-30",
+      "ultimo_movimiento": "2026-11-03",
       "parado_dias": 5
     },
     {
@@ -562,7 +562,7 @@
       "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-25",
+        "fecha": "2026-11-27",
         "descripcion": "Firma de escritura"
       },
       "verificacion": {
@@ -572,7 +572,7 @@
       },
       "telefono_ficha": "+34 603 000 741",
       "carpeta": "dir-exp-104-2026",
-      "ultimo_movimiento": "2026-10-30",
+      "ultimo_movimiento": "2026-11-03",
       "parado_dias": 5
     },
     {
@@ -587,7 +587,7 @@
       "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-09",
+        "fecha": "2026-11-11",
         "descripcion": "Cita para la firma de compraventa"
       },
       "verificacion": {
@@ -597,7 +597,7 @@
       },
       "telefono_ficha": "+34 614 000 286",
       "carpeta": "dir-exp-105-2026",
-      "ultimo_movimiento": "2026-10-26",
+      "ultimo_movimiento": "2026-10-28",
       "parado_dias": 9
     },
     {
@@ -611,7 +611,7 @@
       "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 3 de Torrevieja",
       "procurador": "Lucía Ballester",
       "proximo_plazo": {
-        "fecha": "2026-11-11",
+        "fecha": "2026-11-13",
         "descripcion": "Contestar el requerimiento de desahucio"
       },
       "verificacion": {
@@ -621,7 +621,7 @@
       },
       "telefono_ficha": "+34 622 000 915",
       "carpeta": "dir-exp-106-2026",
-      "ultimo_movimiento": "2026-11-04",
+      "ultimo_movimiento": "2026-11-06",
       "parado_dias": 0
     },
     {
@@ -635,7 +635,7 @@
       "juzgado_o_notaria": "Juzgado de Primera Instancia n.º 3 de Torrevieja",
       "procurador": "Lucía Ballester",
       "proximo_plazo": {
-        "fecha": "2026-11-12",
+        "fecha": "2026-11-16",
         "descripcion": "Audiencia en el juzgado (desahucio)"
       },
       "verificacion": {
@@ -645,7 +645,7 @@
       },
       "telefono_ficha": "+34 666 000 384",
       "carpeta": "dir-exp-107-2026",
-      "ultimo_movimiento": "2026-10-29",
+      "ultimo_movimiento": "2026-11-02",
       "parado_dias": 6
     },
     {
@@ -660,7 +660,7 @@
       "procurador": null,
       "remitente": "Carmelo Vera (gestoría)",
       "proximo_plazo": {
-        "fecha": "2026-11-27",
+        "fecha": "2026-12-01",
         "descripcion": "Reunión con Carmelo Vera"
       },
       "verificacion": {
@@ -670,7 +670,7 @@
       },
       "telefono_ficha": "+34 636 000 559",
       "carpeta": "dir-exp-108-2026",
-      "ultimo_movimiento": "2026-10-23",
+      "ultimo_movimiento": "2026-10-27",
       "parado_dias": 12
     },
     {
@@ -685,7 +685,7 @@
       "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-13",
+        "fecha": "2026-11-17",
         "descripcion": "Firma de compraventa"
       },
       "verificacion": {
@@ -695,7 +695,7 @@
       },
       "telefono_ficha": "+34 645 000 362",
       "carpeta": "dir-exp-109-2026",
-      "ultimo_movimiento": "2026-10-28",
+      "ultimo_movimiento": "2026-10-30",
       "parado_dias": 7
     },
     {
@@ -709,7 +709,7 @@
       "juzgado_o_notaria": "Pendiente de reparto",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-11-20",
+        "fecha": "2026-11-24",
         "descripcion": "Presentar demanda de posesión"
       },
       "verificacion": {
@@ -719,7 +719,7 @@
       },
       "telefono_ficha": "+34 679 000 818",
       "carpeta": "dir-exp-110-2026",
-      "ultimo_movimiento": "2026-10-26",
+      "ultimo_movimiento": "2026-10-28",
       "parado_dias": 9
     },
     {
@@ -734,7 +734,7 @@
       "juzgado_o_notaria": "Notaría Ramírez Olmos (Torrevieja)",
       "procurador": null,
       "proximo_plazo": {
-        "fecha": "2026-12-01",
+        "fecha": "2026-12-03",
         "descripcion": "Cita de notaría por fijar"
       },
       "verificacion": {
@@ -744,7 +744,7 @@
       },
       "telefono_ficha": "+34 628 000 194",
       "carpeta": "dir-exp-111-2026",
-      "ultimo_movimiento": "2026-10-29",
+      "ultimo_movimiento": "2026-11-02",
       "parado_dias": 6
     },
     {
@@ -767,14 +767,14 @@
       },
       "telefono_ficha": "+34 603 000 150",
       "carpeta": "dir-finalizados-propuesta",
-      "ultimo_movimiento": "2026-10-29",
+      "ultimo_movimiento": "2026-11-02",
       "parado_dias": 6
     }
   ],
   "correos": [
     {
       "id": "mail-001",
-      "fecha": "2026-11-04",
+      "fecha": "2026-11-06",
       "hora": "07:00",
       "remitente": "Oficina judicial · Juzgado n.º 4 de Torrevieja",
       "asunto": "Notificación Expediente 091/2026",
@@ -786,7 +786,7 @@
     },
     {
       "id": "mail-002",
-      "fecha": "2026-11-04",
+      "fecha": "2026-11-06",
       "hora": "06:50",
       "remitente": "Procuradora Lucía Ballester",
       "asunto": "Exp. 064/2026 Ferrer · informe del perito",
@@ -798,7 +798,7 @@
     },
     {
       "id": "mail-003",
-      "fecha": "2026-11-03",
+      "fecha": "2026-11-05",
       "hora": "18:12",
       "remitente": "Marisol Gallego (ingeniera técnica)",
       "asunto": "Exp. 071/2026 informe de instalaciones",
@@ -810,7 +810,7 @@
     },
     {
       "id": "mail-004",
-      "fecha": "2026-11-03",
+      "fecha": "2026-11-05",
       "hora": "10:30",
       "remitente": "Lisa Harris",
       "asunto": "Re: Estado de la cuenta bancaria",
@@ -822,7 +822,7 @@
     },
     {
       "id": "mail-005",
-      "fecha": "2026-11-03",
+      "fecha": "2026-11-05",
       "hora": "09:15",
       "remitente": "Notaría Ramírez Olmos",
       "asunto": "Compraventa inmueble · cargas pendientes (099/2026)",
@@ -834,7 +834,7 @@
     },
     {
       "id": "mail-006",
-      "fecha": "2026-11-02",
+      "fecha": "2026-11-04",
       "hora": "17:40",
       "remitente": "Solmar Agencia",
       "asunto": "Compraventa Navarro Brunet · fecha de firma",
@@ -846,7 +846,7 @@
     },
     {
       "id": "mail-007",
-      "fecha": "2026-11-02",
+      "fecha": "2026-11-04",
       "hora": "12:00",
       "remitente": "Entidad Vértice Crédito SA",
       "asunto": "Cancelación hipoteca · Mora Pastor",
@@ -858,7 +858,7 @@
     },
     {
       "id": "mail-008",
-      "fecha": "2026-11-02",
+      "fecha": "2026-11-04",
       "hora": "11:20",
       "remitente": "Juzgado de lo Mercantil n.º 1 de Alicante",
       "asunto": "Exp. 093/2026 Esteve · informe de la administración concursal",
@@ -870,7 +870,7 @@
     },
     {
       "id": "mail-009",
-      "fecha": "2026-10-30",
+      "fecha": "2026-11-03",
       "hora": "09:00",
       "remitente": "Dorota Kowalska",
       "asunto": "Pendiente de respuesta: fecha de firma",
@@ -882,7 +882,7 @@
     },
     {
       "id": "mail-010",
-      "fecha": "2026-10-29",
+      "fecha": "2026-11-02",
       "hora": "16:45",
       "remitente": "Procuradora Lucía Ballester",
       "asunto": "Exp. 019/2025 Petersen · cierre de escritura",
@@ -894,7 +894,7 @@
     },
     {
       "id": "mail-011",
-      "fecha": "2026-10-29",
+      "fecha": "2026-11-02",
       "hora": "13:10",
       "remitente": "Notaría Ramírez Olmos",
       "asunto": "Notificación recibida Exp. 089/2026",
@@ -906,7 +906,7 @@
     },
     {
       "id": "mail-012",
-      "fecha": "2026-10-28",
+      "fecha": "2026-10-30",
       "hora": "10:05",
       "remitente": "Ruud Vermeulen",
       "asunto": "Koopovereenkomst Torrevieja: documenten",
@@ -918,7 +918,7 @@
     },
     {
       "id": "mail-013",
-      "fecha": "2026-10-28",
+      "fecha": "2026-10-30",
       "hora": "09:30",
       "remitente": "Pieter Hoffmann (Hoffmann & Van der Berg SL)",
       "asunto": "Licencia turística: documentos necesarios",
@@ -930,7 +930,7 @@
     },
     {
       "id": "mail-014",
-      "fecha": "2026-10-27",
+      "fecha": "2026-10-29",
       "hora": "17:00",
       "remitente": "Financiera Costa Azahar SA · Departamento legal",
       "asunto": "Burofax Exp. 091/2026 · respuesta",
@@ -942,7 +942,7 @@
     },
     {
       "id": "mail-015",
-      "fecha": "2026-10-27",
+      "fecha": "2026-10-29",
       "hora": "12:00",
       "remitente": "Procurador Ramón Llopis",
       "asunto": "Exp. 091/2026 Vidal · traslado de demanda",
@@ -954,7 +954,7 @@
     },
     {
       "id": "mail-016",
-      "fecha": "2026-10-26",
+      "fecha": "2026-10-28",
       "hora": "08:30",
       "remitente": "Philippe Renaud",
       "asunto": "Question sur la date de signature",
@@ -966,7 +966,7 @@
     },
     {
       "id": "mail-017",
-      "fecha": "2026-10-26",
+      "fecha": "2026-10-28",
       "hora": "07:55",
       "remitente": "Nieves Calatayud Peñalver",
       "asunto": "Exp. 106/2026 requerimiento de desahucio",
@@ -978,7 +978,7 @@
     },
     {
       "id": "mail-018",
-      "fecha": "2026-10-23",
+      "fecha": "2026-10-27",
       "hora": "15:40",
       "remitente": "Academia Digital Levante",
       "asunto": "Webinar: IA para despachos (plazas limitadas)",
@@ -990,7 +990,7 @@
     },
     {
       "id": "mail-019",
-      "fecha": "2026-10-23",
+      "fecha": "2026-10-27",
       "hora": "09:02",
       "remitente": "Electricidad Levante (facturación)",
       "asunto": "Tu recibo de octubre está disponible",
@@ -1002,7 +1002,7 @@
     },
     {
       "id": "mail-020",
-      "fecha": "2026-10-22",
+      "fecha": "2026-10-26",
       "hora": "11:00",
       "remitente": "Erika Lindqvist",
       "asunto": "Cita de firma en Torrevieja",
@@ -1014,7 +1014,7 @@
     },
     {
       "id": "mail-021",
-      "fecha": "2026-10-22",
+      "fecha": "2026-10-26",
       "hora": "08:45",
       "remitente": "Plataforma Notarial (boletín)",
       "asunto": "Boletín mensual de la plataforma",
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "mail-022",
-      "fecha": "2026-10-23",
+      "fecha": "2026-10-27",
       "hora": "18:20",
       "remitente": "Gertrudis Mora Pastor",
       "asunto": "Pendiente respuesta · cláusula suelo",
@@ -1038,7 +1038,7 @@
     },
     {
       "id": "mail-023",
-      "fecha": "2026-10-23",
+      "fecha": "2026-10-27",
       "hora": "10:12",
       "remitente": "Carmelo Vera (gestoría)",
       "asunto": "Quesada enviada por Carmelo: escritura de herencia",
@@ -1050,7 +1050,7 @@
     },
     {
       "id": "mail-024",
-      "fecha": "2026-10-22",
+      "fecha": "2026-10-26",
       "hora": "14:00",
       "remitente": "Promoción Costa Mágica",
       "asunto": "Tasación gratuita de su inmueble",
@@ -1062,7 +1062,7 @@
     },
     {
       "id": "mail-025",
-      "fecha": "2026-10-21",
+      "fecha": "2026-10-23",
       "hora": "19:30",
       "remitente": "Joaquín Sanz (perito)",
       "asunto": "Presupuesto de peritaje de humedades",
@@ -1095,7 +1095,7 @@
     {
       "id": "saco-04",
       "titulo": "Burofax Costa Azahar",
-      "vencimiento": "2026-11-06",
+      "vencimiento": "2026-11-10",
       "importante": false
     },
     {
@@ -1212,7 +1212,7 @@
       "id": "lola-00",
       "id_origen": "saco-02",
       "accion": "Contestar la demanda de Vidal (Juicio verbal 312/2026): revisar el escrito y presentarlo",
-      "fecha": "2026-11-05",
+      "fecha": "2026-11-09",
       "expediente": "091-2026",
       "origen": "correo:0001"
     },
@@ -1220,15 +1220,15 @@
       "id": "lola-01",
       "id_origen": "saco-01",
       "accion": "Llamar a Mariano Vidal: confirmar que tiene la cédula y validar el reconocimiento del capital",
-      "fecha": "2026-11-04",
+      "fecha": "2026-11-06",
       "expediente": "091-2026",
       "origen": "llamada:3"
     },
     {
       "id": "lola-02",
       "id_origen": "saco-03",
-      "accion": "Navarro Brunet: confirmar a Solmar la fecha de firma del 12 de noviembre",
-      "fecha": "2026-11-06",
+      "accion": "Navarro Brunet: confirmar a Solmar la fecha de firma del 16 de noviembre",
+      "fecha": "2026-11-10",
       "expediente": "089-2026",
       "origen": "correo:0006"
     },
@@ -1236,7 +1236,7 @@
       "id": "lola-03",
       "id_origen": "saco-04",
       "accion": "Burofax a Financiera Costa Azahar: contestar su respuesta",
-      "fecha": "2026-11-06",
+      "fecha": "2026-11-10",
       "expediente": "091-2026",
       "origen": "correo:0014"
     },
@@ -1244,7 +1244,7 @@
       "id": "lola-04",
       "id_origen": "saco-05",
       "accion": "Responder a Dorota Kowalska sobre la fecha de firma",
-      "fecha": "2026-11-06",
+      "fecha": "2026-11-10",
       "expediente": "099-2026",
       "origen": "correo:0009"
     },
@@ -1252,7 +1252,7 @@
       "id": "lola-05",
       "id_origen": "saco-06",
       "accion": "Pedir a la notaría la cancelación de las dos cargas pendientes",
-      "fecha": "2026-11-05",
+      "fecha": "2026-11-09",
       "expediente": "099-2026",
       "origen": "correo:0005"
     },
@@ -1260,7 +1260,7 @@
       "id": "lola-06",
       "id_origen": "saco-07",
       "accion": "Contestar a Lisa Harris: estado de la cuenta bancaria",
-      "fecha": "2026-11-09",
+      "fecha": "2026-11-11",
       "expediente": "092-2026",
       "origen": "correo:0004"
     },
@@ -1268,7 +1268,7 @@
       "id": "lola-07",
       "id_origen": "saco-08",
       "accion": "Transferir las arras de Thompson Harris (10 %)",
-      "fecha": "2026-11-10",
+      "fecha": "2026-11-12",
       "expediente": "092-2026",
       "origen": "correo:0043"
     },
@@ -1276,7 +1276,7 @@
       "id": "lola-08",
       "id_origen": "saco-09",
       "accion": "Hoffmann: enviar la lista de documentos de la licencia turística",
-      "fecha": "2026-11-10",
+      "fecha": "2026-11-12",
       "expediente": "090-2026",
       "origen": "correo:0013"
     },
@@ -1284,7 +1284,7 @@
       "id": "lola-09",
       "id_origen": "saco-10",
       "accion": "Reclamar al perito el informe de humedades",
-      "fecha": "2026-11-04",
+      "fecha": "2026-11-06",
       "expediente": "064-2026",
       "origen": "correo:0002"
     },
@@ -1292,7 +1292,7 @@
       "id": "lola-10",
       "id_origen": "saco-11",
       "accion": "Revisar con la técnica el informe del restaurante",
-      "fecha": "2026-11-12",
+      "fecha": "2026-11-16",
       "expediente": "071-2026",
       "origen": "correo:0003"
     },
@@ -1300,7 +1300,7 @@
       "id": "lola-11",
       "id_origen": "saco-12",
       "accion": "Reunión con Carmelo Vera por la herencia Quesada",
-      "fecha": "2026-11-27",
+      "fecha": "2026-12-01",
       "expediente": "108-2026",
       "origen": "correo:0019"
     },
@@ -1308,7 +1308,7 @@
       "id": "lola-12",
       "id_origen": "saco-13",
       "accion": "Firma de compraventa Vermeulen",
-      "fecha": "2026-11-13",
+      "fecha": "2026-11-17",
       "expediente": "109-2026",
       "origen": "correo:0012"
     },
@@ -1316,7 +1316,7 @@
       "id": "lola-13",
       "id_origen": "saco-14",
       "accion": "Reclamar la cuota de costas de Campillo",
-      "fecha": "2026-11-25",
+      "fecha": "2026-11-27",
       "expediente": "066-2025",
       "origen": "correo:0044"
     },
@@ -1324,7 +1324,7 @@
       "id": "lola-14",
       "id_origen": "saco-15",
       "accion": "Pedir cita en notaría para Ferri",
-      "fecha": "2026-12-01",
+      "fecha": "2026-12-03",
       "expediente": "111-2026",
       "origen": "llamada:5"
     },
@@ -1332,7 +1332,7 @@
       "id": "lola-15",
       "id_origen": "saco-16",
       "accion": "Calatayud: contestar el requerimiento de desahucio",
-      "fecha": "2026-11-11",
+      "fecha": "2026-11-13",
       "expediente": "106-2026",
       "origen": "correo:0017"
     },
@@ -1340,7 +1340,7 @@
       "id": "lola-16",
       "id_origen": "saco-17",
       "accion": "Presentar la demanda de posesión del local de Maciá",
-      "fecha": "2026-11-20",
+      "fecha": "2026-11-24",
       "expediente": "110-2026",
       "origen": "llamada:6"
     },
@@ -1348,7 +1348,7 @@
       "id": "lola-17",
       "id_origen": "saco-18",
       "accion": "Esteve: alegar sobre el informe de la administración concursal",
-      "fecha": "2026-11-09",
+      "fecha": "2026-11-11",
       "expediente": "093-2026",
       "origen": "correo:0008"
     },
@@ -1356,7 +1356,7 @@
       "id": "lola-18",
       "id_origen": "saco-19",
       "accion": "Armas Vives: revisar la contestación de la entidad por gastos de hipoteca",
-      "fecha": "2026-11-12",
+      "fecha": "2026-11-16",
       "expediente": "100-2026",
       "origen": "correo:0020"
     },
@@ -1364,7 +1364,7 @@
       "id": "lola-19",
       "id_origen": "saco-20",
       "accion": "Benítez y Ferrández: pedir a la notaría respuesta sobre cargas",
-      "fecha": "2026-11-06",
+      "fecha": "2026-11-10",
       "expediente": "101-2026",
       "origen": "llamada:7"
     },
@@ -1372,7 +1372,7 @@
       "id": "lola-20",
       "id_origen": "saco-21",
       "accion": "Fijar cita de firma para Renaud",
-      "fecha": "2026-11-09",
+      "fecha": "2026-11-11",
       "expediente": "105-2026",
       "origen": "correo:0016"
     },
@@ -1380,7 +1380,7 @@
       "id": "lola-21",
       "id_origen": "saco-22",
       "accion": "Firma de escritura de Lindqvist",
-      "fecha": "2026-11-25",
+      "fecha": "2026-11-27",
       "expediente": "104-2026",
       "origen": "correo:0021"
     },
@@ -1388,7 +1388,7 @@
       "id": "lola-22",
       "id_origen": null,
       "accion": "Preparar presupuesto y hoja de encargo de Marta Olivares (compraventa)",
-      "fecha": "2026-11-05",
+      "fecha": "2026-11-09",
       "expediente": "094-2026",
       "origen": "llamada:9"
     }
@@ -1401,7 +1401,7 @@
       "verificado": true,
       "expediente": "099-2026",
       "motivo": "Pregunta por la fecha de firma",
-      "resultado": "Lola confirma que la notaría responde el jueves; queda recado para el socio",
+      "resultado": "Lola confirma que la notaría responde el lunes; queda recado para el socio",
       "en_directo": false,
       "estado": "atendida"
     },
@@ -1445,7 +1445,7 @@
       "verificado": true,
       "expediente": "110-2026",
       "motivo": "Pregunta cuándo se presenta la demanda de posesión del local",
-      "resultado": "Lola anota presentarla antes del 20 de noviembre; queda en tu lista",
+      "resultado": "Lola anota presentarla antes del 24 de noviembre; queda en tu lista",
       "en_directo": false,
       "estado": "atendida"
     },
@@ -1456,7 +1456,7 @@
       "verificado": true,
       "expediente": "101-2026",
       "motivo": "Pregunta por la respuesta de la notaría sobre las cargas",
-      "resultado": "Lola anota pedir a la notaría la respuesta antes del viernes 6",
+      "resultado": "Lola anota pedir a la notaría la respuesta antes del martes 10",
       "en_directo": false,
       "estado": "atendida"
     },
@@ -1489,7 +1489,7 @@
       "verificado": true,
       "expediente": "064-2026",
       "motivo": "Pregunta si demandan ya",
-      "resultado": "Propuesta: esperar el informe del perito y llamarle el jueves a las 10:00; el socio lo aprueba",
+      "resultado": "Propuesta: esperar el informe del perito y llamarle el lunes a las 10:00; el socio lo aprueba",
       "en_directo": true,
       "estado": "atendida"
     },
@@ -1500,7 +1500,7 @@
       "verificado": false,
       "expediente": null,
       "motivo": "Compraventa de no residente (posible cliente)",
-      "resultado": "Sin datos. Propuesta: cita el martes 10-nov",
+      "resultado": "Sin datos. Propuesta: cita el jueves 12-nov",
       "en_directo": true,
       "estado": "perdida"
     },
@@ -1511,7 +1511,7 @@
       "verificado": true,
       "expediente": "089-2026",
       "motivo": "Confirmar la cita de firma de su compraventa",
-      "resultado": "Firma confirmada: jueves 12-nov a las 10:30",
+      "resultado": "Firma confirmada: lunes 16-nov a las 10:30",
       "en_directo": false,
       "estado": "atendida"
     },
@@ -1530,31 +1530,31 @@
   "plazos_semana": [
     {
       "id": "plazo-01",
-      "fecha": "2026-11-05",
+      "fecha": "2026-11-09",
       "expediente": "097-2026",
       "descripcion": "Presentar alegaciones a la licencia de primera ocupación"
     },
     {
       "id": "plazo-02",
-      "fecha": "2026-11-10",
+      "fecha": "2026-11-12",
       "expediente": "090-2026",
       "descripcion": "Subsanar la documentación de la licencia turística"
     },
     {
       "id": "plazo-03",
-      "fecha": "2026-11-11",
+      "fecha": "2026-11-13",
       "expediente": "106-2026",
       "descripcion": "Contestar el requerimiento de desahucio"
     },
     {
       "id": "plazo-04",
-      "fecha": "2026-11-05",
+      "fecha": "2026-11-09",
       "expediente": "091-2026",
       "descripcion": "Contestar la demanda (oposición)"
     },
     {
       "id": "plazo-05",
-      "fecha": "2026-11-12",
+      "fecha": "2026-11-16",
       "expediente": "107-2026",
       "descripcion": "Audiencia en el juzgado (desahucio)"
     }
@@ -2029,7 +2029,7 @@
         "todo_nueva": {
           "id": "todo-nueva-coche-01",
           "accion": "Llamar a la técnica por lo del ingeniero",
-          "fecha": "2026-11-04",
+          "fecha": "2026-11-06",
           "recordatorio": "09:00",
           "expediente": "071-2026",
           "nota_voz": "audio y texto"

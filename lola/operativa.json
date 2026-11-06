@@ -1,6 +1,6 @@
 {
  "version": 1,
- "fecha_demo": "2026-11-04",
+ "fecha_demo": "2026-11-06",
  "expediente": {
   "numero": "091-2026",
   "carpeta": "091-2026 VIDAL ORTUÑO MARIANO",
@@ -9,9 +9,9 @@
   "procedimiento": "Juicio verbal 312/2026"
  },
  "plazo": {
-  "vence": "2026-11-05",
-  "dia": "jueves",
-  "calculo": "10 días hábiles desde el 22-10-2026, sin sábados, domingos ni festivos (calendario, no IA)"
+  "vence": "2026-11-09",
+  "dia": "lunes",
+  "calculo": "10 días hábiles desde el 26-10-2026, sin sábados, domingos ni festivos (calendario, no IA)"
  },
  "pasos": [
   {
@@ -19,7 +19,7 @@
    "hora": "07:00",
    "titulo": "Entra la cédula",
    "correo": "0001",
-   "lola_dice": "He guardado la cédula en 091-2026 y la he leído: contestación a la demanda, vence el jueves 5 de noviembre (plazo calculado con el calendario de días hábiles, no por la IA: 10 días hábiles desde el 22 de octubre).",
+   "lola_dice": "He guardado la cédula en 091-2026 y la he leído: contestación a la demanda, vence el lunes 9 de noviembre (plazo calculado con el calendario de días hábiles, no por la IA: 10 días hábiles desde el 26 de octubre).",
    "acciones": [
     {
      "tipo": "guarda_adjunto",
@@ -35,7 +35,7 @@
     {
      "tipo": "crea_tarea",
      "tarea": "lola-00",
-     "vence": "2026-11-05"
+     "vence": "2026-11-09"
     }
    ],
    "aparece": {
@@ -50,7 +50,7 @@
     ]
    },
    "lola_hace": "Lee la cédula, la guarda en su expediente y calcula el plazo con el calendario de días hábiles.",
-   "tu_parte": "Solo compruebas que el plazo es el jueves 5."
+   "tu_parte": "Solo compruebas que el plazo es el lunes 9."
   },
   {
    "id": "p2",
@@ -270,11 +270,11 @@
   },
   {
    "id": "d-plazo",
-   "corto": "Plazo nuevo: contestar el desahucio de 106/2026 antes del miércoles 11.",
+   "corto": "Plazo nuevo: contestar el desahucio de 106/2026 antes del viernes 13.",
    "hora": "06:58",
    "icono": "plazo",
    "titulo": "Plazo nuevo calculado",
-   "texto": "Requerimiento de desahucio en 106/2026 (Calatayud): hay que contestar antes del miércoles 11. Contado con el calendario de días hábiles, no por la IA.",
+   "texto": "Requerimiento de desahucio en 106/2026 (Calatayud): hay que contestar antes del viernes 13. Contado con el calendario de días hábiles, no por la IA.",
    "enlaces": [
     {
      "tipo": "correo",
@@ -311,10 +311,10 @@
    "titulo": "Cuatro llamadas atendidas por Lola",
    "texto": "Las ha cogido ella y ha dejado el resultado.",
    "lineas": [
-    "08:10 · Dorota Kowalska: la notaría responde el jueves; recado para el socio.",
+    "08:10 · Dorota Kowalska: la notaría responde el lunes; recado para el socio.",
     "09:05 · Procuradora Ballester: procedimiento 312/2026 confirmado.",
     "09:25 · Gianluca Ferri: quiere fijar la firma; cita en notaría en tu lista.",
-    "09:45 · Juan Carlos Maciá: demanda de posesión antes del 20 de noviembre."
+    "09:45 · Juan Carlos Maciá: demanda de posesión antes del 24 de noviembre."
    ],
    "enlaces": [
     {
@@ -352,7 +352,7 @@
    "icono": "notaria",
    "proximo": true,
    "titulo": "Recordatorio: firma en la notaría a las 12:30",
-   "texto": "Firma de poderes de Vermeulen (109/2026), antes de la compraventa del 13. Te lo recordará a las 12:00.",
+   "texto": "Firma de poderes de Vermeulen (109/2026), antes de la compraventa del 17. Te lo recordará a las 12:00.",
    "enlaces": [
     {
      "tipo": "correo",
